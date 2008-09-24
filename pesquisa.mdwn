@@ -1,7 +1,7 @@
 # Análise automática de harmonia por computador
 
-* [[rameau]] - Software para análise harmônica automática
-* [[pauta]] - pauta da próxima reunião
+* [[pesquisa/rameau]] - Software para análise harmônica automática
+* [[pesquisa/pauta]] - pauta da próxima reunião
 * [redmine](bugs.genos.mus.br) - sistema de bugs do genos (e rameau)
 
 # Links
