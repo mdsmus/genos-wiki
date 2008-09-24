@@ -1,5 +1,5 @@
 Menu
 
 * [[noticias]]
-* [[pesquisa|AnaliseHarmonica]]
+* [[pesquisa|Pesquisa/AnaliseHarmonica]]
 * [[eventos]]
