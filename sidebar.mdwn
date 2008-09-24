@@ -5,3 +5,4 @@
 * [[pessoas]]
 * [[atas]]
 * [handbook](http://www.genos.mus.br/handbook/)
+* [[recursos]]

@@ -1,0 +1,62 @@
+# Recursos
+
+O GenosLab conta com os seguintes recursos:
+
+## Materiais
+
+ * Computador AMD64, 1GB RAM, HD 120GB
+ * Mesa de som Mackie 16 canais CR1604-VLZ
+ * 4 Caixas EV SX300
+ * Caixa EV SV121
+ * Condicionador de potência Furman PL-PLUS
+ * Potência Yamaha P1600
+ * ADAT Alesys XT
+ * Compressor Behringer Composer 
+
+## Softwares
+
+Nós basicamente usamos software livre no GenosLab. Dentre alguns programas estão:
+
+ * ardour
+ * rosegarden
+ * Qsynth]
+ * Hydrogen
+ * LilyPond
+ * PureData
+ * Common Lisp Music
+ * Common Music
+ * snd
+ * Csound
+ * Plugins LADSPA
+ * Jack e Alsa
+
+## Material esperando sair recurso da FAPESB
+
+### Equipamento
+
+ * Suporte para projetor
+ * Fechadura operada por Teclado
+ * Tela retrátil para datashow,1,80m x
+ * computador com processador Core2 Duo X6800 para edição de áudio profissional, com monitor 19, 2G RAM, 2 HDs de 500G, Gravador de dvd
+ * Computador Pentium 4 531 de 3.0GHz, com 2G de RAM, gravador de dvd, monitor de 17, HD de 500G
+ * 3 Headphones AKG K44
+ * 2 Interface M-Audio Delta 1010 LT
+ * 2 Patchbay Behringer PX 2000 Ultrapatch PRO
+ * Projetor sony VPL-ES3
+ * Interface M-Audio Audiophile 2496
+
+### Livros
+
+ * Algorithms and Theory of Computation Handbook
+ * Composing Interactive Music: Techniques and Ideas Using Max
+ * Computer Music: Synthesis, Composition, and Performance
+ * Music and Artificial Intelligence
+ * The Art of Computer Programming, Volume 1
+ * The Art of Computer Programming, Volume 2
+ * The Art of Computer Programming, Volume 3
+ * The Computer Music Tutorial
+ * The Csound Book
+ * Virtual Music: Computer Synthesis of Musical Style
+ * Readings in Music and Artificial Intelligence
+ * Music, Cognition, and Computerized Sound: An Introduction to Psychoacoustics
+ * Notes from the Metalevel 
