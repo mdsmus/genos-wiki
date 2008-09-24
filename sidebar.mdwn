@@ -1,5 +1,5 @@
 * [[noticias]]
-* [[pesquisa|Pesquisa/AnaliseHarmonica]]
+* [[pesquisa|pesquisa/AnaliseHarmonica]]
 * [[eventos]]
 * [[pessoas|biografias]]
 * [[atas]]
