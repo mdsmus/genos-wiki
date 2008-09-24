@@ -3,12 +3,66 @@ h1 {
     color: #00ff00;
 }
 
+.pageheader {
+    background: #66CD00;
+    padding: 1px;
+}
+
 .header {
     margin: 0;
     font-size: 22px;
     font-weight: bold;
     line-height: 1em;
     display: block;
+}
+
+#sidebar {
+    width: 10ex;
+    margin-left: 0pt;
+    float: left;
+    background: white;
+    display: block;
+    color: black !important;
+    top: 50px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    margin: 0px;
+
+}
+
+#sidebar ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+
+#sidebar ul li {
+    margin: 0px;
+    padding: 0px;
+}
+
+#sidebar ul li a {
+    font-size: 80%;
+    display: block;
+    border-bottom: 1px dashed #C39C4E;
+    padding: 5px 0px 2px 4px;
+    text-decoration: none;
+    color: #666666;
+    width:130px;
+}
+
+#sidebar ul li a:hover, #sidebar ul li a:focus {
+    color: #000000;
+    background-color: #eeeeee;
+}
+
+#content {
+    margin-left:170px;
+    padding-left: 10pt;
+    border-left: solid;
+    border-width: 1px;
+    border-color: #ff0000;
 }
 
 .author {
@@ -197,17 +251,6 @@ div.recentchanges {
 .normalPC { font-size: 100%; }
 .bigPC { font-size: 115%; }
 .biggestPC { font-size: 130%; }
-
-#sidebar {
-    line-height: 3ex;
-    width: 20ex;
-    float: right;
-    margin-left: 40px;
-    margin-bottom: 40px;
-    padding: 2ex 2ex;
-    background: white;
-    color: black !important;
-}
 
 /* outlines */
 li.L1 {
