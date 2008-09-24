@@ -1,2 +1,4 @@
 * colocar email nas biografias
 * bio gbertis
+* arruma eventos antigos
+
