@@ -2,4 +2,4 @@ O grupo de pesquisa Genos é coordenado pelo Prof. Dr. Pedro Kröger e o
 laboratório do Genos é coordenado por Marcos de Silva. As pessoas
 envolvidas com o laboratório são:
 
-[[!map pages=pessoas/*" show=title]]
+[[!map pages="pessoas/*" show=title]]
