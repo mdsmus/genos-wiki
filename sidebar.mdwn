@@ -1,3 +1,4 @@
+* [[home|Genos]]
 * [[noticias]]
 * [[pesquisa]]
 * [[agenda]]
