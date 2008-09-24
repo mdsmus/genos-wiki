@@ -1,0 +1,15 @@
+# Marcos di Silva
+
+Marcos di Silva é aluno do mestrado em Composição do Programa de
+Pós-Graduação da Escola de Música da UFBA, orientado por Pedro Kröger.
+É professor substituto de Literatura e Estruturação Musical, Percepção
+e Composição na mesma escola e, desde 2005, trabalha no GenosLab em
+pesquisas relacionadas a Representação Musical, Music Information
+Retrieval, Análise automática de harmonia e Composição a partir de
+operações com contornos melódicos. Tem interesse em software livre
+como suporte para a composição musical.
+
+## Links
+
+* Website pessoal: http://www.marcosdisilva.net/
+* [Currículo na plataforma Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4770122P6)

@@ -1,0 +1,9 @@
+# Cristiano Figueiró
+
+Sou aluno do Doutorado de Música da UFBA, com orientação do Prof. Dr.
+Pedro Kroger. Meu enfoque é no desenvolvimento de estratégias de
+interação entre músicos e computadores, mais especificamente trabalho
+no ambiente PD (Pure Data). Mantenho um
+[[blog|http://www.cristianofigo.blogspot.com Blog Cristiano]] onde
+publico meus trabalhos que vão desde o rock, passando por música de
+câmara e música eletroacústica.
