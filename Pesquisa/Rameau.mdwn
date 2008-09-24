@@ -26,10 +26,10 @@ Then read the README file for further instructions.
 Rameau is a command line program. But it generates nice analyzed
 scores, thanks to [lilypond](http://lilypond.org).
 
-![](choral.png)
+![](../choral.png)
 
 # About
 
 Rameau is developed in common lisp, using emacs, slime, and SBCL.
 
-![](lisplogo.png)
+![](../lisplogo.png)
