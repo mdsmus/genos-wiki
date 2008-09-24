@@ -1,0 +1,11 @@
+# Alexandre Tachard Passos
+
+Email: <alexandre.tp@gmail.com>
+
+Alexandre é graduando em ciência da computação, e caiu de pára-quedas
+no genos em torno de 2007. Ele gosta (mas entende muito pouco) de
+música, de técnicas estatísticas e, quando está de bom humor, de
+linguagens de programação. No genos ele trabalha atualmente na
+pesquisa de análise harmônica automática, escrevendo (junto com
+PedroKroger) o Rameau e discutindo detalhes de implementação. Ele
+sempre lê email, então sinta-se livre pra perguntar o que quiser.
