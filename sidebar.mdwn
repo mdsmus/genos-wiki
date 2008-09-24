@@ -2,4 +2,5 @@
 * [[pesquisa|Pesquisa/AnaliseHarmonica]]
 * [[eventos]]
 * [[pessoas|biografias]]
+* [[atas]]
 * [handbook](http://www.genos.mus.br/handbook/)
