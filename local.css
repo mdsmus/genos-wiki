@@ -1,11 +1,25 @@
 
 h1 {
-    color: #00ff00;
+    color: #549DC7;
+    font-family: Georgia, "Times New Roman", Times, Serif;
+    font-size: 36px;
+}
+
+h2 {
+    color: #549DC7;
+    font-family: Georgia, "Times New Roman", Times, Serif;
+    font-size: 26px;
+}
+
+h3 {
+    color: #549DC7;
+    font-family: Georgia, "Times New Roman", Times, Serif;
+    font-size: 20px;
 }
 
 .pageheader {
-    background: #66CD00;
-    padding: 1px;
+    /* padding-left: 50px; */
+    /* background-image: url(logo.png); */
 }
 
 .header {
@@ -54,7 +68,7 @@ h1 {
 
 #sidebar ul li a:hover, #sidebar ul li a:focus {
     color: #000000;
-    background-color: #eeeeee;
+    background-color: #EEEEEE;
 }
 
 #content {
@@ -62,7 +76,7 @@ h1 {
     padding-left: 10pt;
     border-left: solid;
     border-width: 1px;
-    border-color: #ff0000;
+    border-color: #EEEEEE;
 }
 
 .author {
