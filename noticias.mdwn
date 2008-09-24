@@ -1,4 +1,4 @@
 # Notícias do genos
 
 [[!inline pages=noticias/* and !*/Discussion" show="10"
-rootpage="noticias" archive="yes" template="titlepage"]]
+rootpage="noticias" archive="yes"]]
