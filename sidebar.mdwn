@@ -3,3 +3,4 @@ Menu
 * [[noticias]]
 * [[pesquisa|Pesquisa/AnaliseHarmonica]]
 * [[eventos]]
+* [[pessoas|biografias]]
