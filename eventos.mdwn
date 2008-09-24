@@ -2,4 +2,4 @@ Essa é a agenda do genos. Coloque os eventos do genos na agenda.
 
 scrolling="no"
 
-<iframe src="http://www.google.com/calendar/embed?src=genoscal%40gmail.com&ctz=America/Bahia" style="border:0" width="800" frameborder="0" height="600"></iframe>
+<iframe src="http://www.google.com/calendar/embed?src=genoscal%40gmail.com&ctz=America/Bahia" style="border-width:0" width="800" frameborder="0" height="600"></iframe>
