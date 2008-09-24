@@ -1,3 +1,3 @@
-Notícias do genos
+# Notícias do genos
 
 [[!inline pages=noticias/* and !*/Discussion" show="10" rootpage="noticias"]]
