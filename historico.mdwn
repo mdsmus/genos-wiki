@@ -1,0 +1,57 @@
+# Atividades já realizadas pelo Genos
+
+## Cursos de Extensão
+
+ * Lilypond (2007.2 e 2008.1)
+ * Pure Data (2007.2 e 2008.1)
+ * Ardour (2007.2 e 2008.1)
+ * Ferramentas livres para música (2007.2)
+ * CSound (2007.2)
+ * Linux (2007.2)
+ * LaTeX (2008.1)
+ * Ferramentas computacionais avançadas (2008.1)
+ * Síntese sonora (2008.1)
+ * Áudio básico (2008.1)
+
+## Pesquisa
+
+ * Codificação de estruturas musicais
+ * Análise harmônica automática
+
+## Grupos de Estudo
+
+## Hacklab
+
+ * Internacionalização e Localização de software
+
+## Publicações
+
+## Comunicações e palestras
+
+# Cursos realizados em 2008.1
+
+ 1. palestra genos
+ * seminarios ferramentas genos (30h) CursoFerramentas
+ * lilypond introdutório 01-05 abril
+ * áudio básico 14-18 abril
+ * pd introdutório 05-10 maio
+ * latex 26-30 maio CursoLatex
+ * ardour 09-13 junho
+
+# Eventos em 2007.2
+
+### Cursos
+
+ * CursoLilypond - 27 a 31/ago - 17 às 19hs
+ * CursoPd - 17 a 21/set - 17 às 19hs (sidoc 5821)
+ * CursoLinux - 1 a 5/out - 17 às 19hs
+ * CursoCsound - 19 a 23/nov - 17 às 19hs
+ * CursoRecursosMusicais - 17 às 19hs
+ 4, 6, 11, 13, 24, 25, 26, 27 setembro
+ 16, 18, 22, 23, 24, 25, 26, 30 outubro
+ 01 novembro
+
+### Workshops
+
+ * Ferramentas Git Emacs Latex - 17 e 24/ago - 14 às 16
+

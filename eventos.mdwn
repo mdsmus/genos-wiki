@@ -1,0 +1,30 @@
+= Eventos do GenosLab =
+
+== Agenda ==
+
+[[MonthCalendar(,,,,,,MonthCalendarTemplate)]]
+
+== Cursos para 2008 ==
+
+ '''nota:''' investigar a possibilidade de incluir monitores em cada curso e horários extras no genos.
+
+=== segundo semestre ===
+
+ * 18-22 agosto: CursoLinux
+ * 29 agosto a 27 setembro (sextas): CursoLilypond (horário a confirmar)
+ * 25-29 agosto: [ composição eletroacústica CursoComposicao ]
+ * 8-12 setembro: pd
+ * 15-19 setembro: lisp
+ * 22-26 setembro: redes neurais
+ * final do semestre: rameau 
+
+== Membros do Genos nos Fóruns PPPGMUS ==
+
+ * 29 Agosto: Guilherme Bertissolo
+ * 3 Outubro: Marcos di Silva e Guilherme Bertissolo
+
+== Eventos Antigos ==
+
+ * EventosEm20081
+ * EventosEm20071
+ * EventosEm20072
