@@ -1,5 +1,4 @@
-Descrição
-==========
+# Descrição
 
 Genos é um grupo multidisciplinar de pesquisa de teoria, composição, e
 computação musical com as linhas de pesquisa em Música Computacional,
@@ -7,8 +6,7 @@ Desenvolvimento e utilização de Software Livre, Análise Musical, e
 Composição Musical. O Genos é um grupo de pesquisa cadastrado no CNPq
 e certificado pela Universidade Federal da Bahia.
 
-Listas de Discussão
-===================
+# Listas de Discussão
 
 A lista principal é genos-users. Ela é para os usuários do estúdio em
 geral, participantes dos EventosDoGenos, e alunos. Nessa lista você
@@ -17,8 +15,7 @@ atividades do grupo de pesquisa, etc. A lista genos-pesquisa é
 restrita para quem está participando de algum projeto de pesquisa
 dentro do genos.
 
-Links Rápidos
-=============
+# Links Rápidos
 
 O principal projeto de pesquisa em andamento é a
 [[pesquisa_sobre_análise_harmonica_automática|Pesquisa/AnaliseHarmonica]], com auxílio da Fapesb. A página
@@ -29,14 +26,12 @@ GruposDeEstudo/TempoReal, GruposDeEstudo/SinteseSonora, e
 GruposDeEstudo/SistemaSchillinger. O Handbook do Genos contém
 tutoriais e documentação de várias ferramentas.
 
-Definição do termo Genos
-========================
+# Definição do termo Genos
 
 Uma divisão particular do tetracorde, de acordo com a teoria grega
 antiga de música.
 
-Conteúdo
-========
+# Conteúdo
 
 Essas páginas são armazenadas em um Wiki. Você pode modificá-las a
 qualquer momento, bastando para isso estar logado.
