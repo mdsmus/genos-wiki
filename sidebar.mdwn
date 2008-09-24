@@ -1,5 +1,6 @@
 * [[noticias]]
 * [[pesquisa]]
+* [[agenda]]
 * [[eventos]]
 * [[pessoas]]
 * [[atas]]

@@ -6,5 +6,12 @@
 
 # Links
 
- * [http://www.theory.esm.rochester.edu/temperley/music-prob/materials.html materiais do temperley]
- * [http://www.cs.northwestern.edu/~pardo/kpcorpus.htm kostka-payne corpus pelo Pardo]
+* [materiais do temperley](http://www.theory.esm.rochester.edu/temperley/music-prob/materials.html)
+* [kostka-payne corpus pelo Pardo](http://www.cs.northwestern.edu/~pardo/kpcorpus.htm)
+
+# Sites com Editais para Pesquisa
+
+* <http://www.cnpq.br/editais/index.htm>
+* <http://www.capes.gov.br/editais/abertos/>
+* <http://www.fapesb.ba.gov.br/pesquisador/editais>
+* <http://www.finep.gov.br/como_obter_financiamento/editais_financiamento_ini.asp>
