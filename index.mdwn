@@ -9,29 +9,16 @@ e certificado pela Universidade Federal da Bahia.
 
 # Listas de Discussão
 
-A lista principal é genos-users. Ela é para os usuários do estúdio em
-geral, participantes dos EventosDoGenos, e alunos. Nessa lista você
-pode tirar dúvidas sobre os programas usados, comentar sobre
-atividades do grupo de pesquisa, etc. A lista genos-pesquisa é
-restrita para quem está participando de algum projeto de pesquisa
-dentro do genos.
-
-# Links Rápidos
-
-O principal projeto de pesquisa em andamento é a
-[[pesquisa_sobre_análise_harmonica_automática|Pesquisa/AnaliseHarmonica]],
-com auxílio da Fapesb. 
-
-A página
-ModelosDocumentos/ProjetosExtensao mostra modelos de como fazer
-projetos de extensão e tramitar o processo na Ufba. 
-
-# Definição do termo Genos
-
-Uma divisão particular do tetracorde, de acordo com a teoria grega
-antiga de música.
+A lista
+[http://lists.genos.mus.br/cgi-bin/mailman/listinfo/genos-users](genos-users)
+é para os usuários do genoslab geral, participantes dos cursos
+oferecidos pelos genos e alunos. Nessa lista você pode tirar dúvidas
+sobre os programas usados e comentar sobre atividades do grupo de
+pesquisa.
 
 # Conteúdo
 
-Essas páginas são armazenadas em um Wiki. Você pode modificá-las a
-qualquer momento, bastando para isso estar logado.
+Essas páginas são armazenadas em um Wiki de modo que você pode
+modificá-las a qualquer momento, bastando para isso estar logado. Para
+poder se logar você precisa de uma conta do
+[openid](http://myopenid.com).
