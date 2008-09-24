@@ -1,6 +1,6 @@
 # Recursos
 
-O GenosLab conta com os seguintes recursos:
+O Genoslab conta com os seguintes recursos:
 
 ## Materiais
 
@@ -15,7 +15,7 @@ O GenosLab conta com os seguintes recursos:
 
 ## Softwares
 
-Nós basicamente usamos software livre no GenosLab. Dentre alguns programas estão:
+Nós basicamente usamos software livre no Genoslab. Dentre alguns programas estão:
 
  * ardour
  * rosegarden
