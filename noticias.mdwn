@@ -3,4 +3,4 @@
 [[!inline pages=noticias/* and !*/Discussion" show="10"
 rootpage="noticias"]]
 
-Ver [notícias antigas](noticias-antigas).
+Ver [notícias antigas](../noticias-antigas).
