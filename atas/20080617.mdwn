@@ -1,0 +1,19 @@
+# Ata da reunião de 17 de junho de 2008
+
+* Melhoria na divulgação dos cursos -- rss
+* Cursos para segundo semestre:
+ * 18-22 agosto: linux
+ * 25-29 agosto: composição eletroacústica
+ * 8-12 setembro: pd
+ * 15-19 setembro: lisp
+ * 22-26 setembro: redes neurais
+ * final do semestre: rameau
+* Material para comprar
+ * cadieras, Réguas e filtro: cristiano
+ * Amortecedor pra porta: marcos
+ * Rach dos fones e suporte/inclinar caixasde som: Kroger
+ * Grades pra janela: gbertis
+* Fazer inventário do genos
+* Fazer esquema de empréstimo: gbertis
+* uso do estúdio gbertis: ajudar
+* Não forçar mais a inscrição na genos users

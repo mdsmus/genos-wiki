@@ -19,13 +19,12 @@ dentro do genos.
 # Links Rápidos
 
 O principal projeto de pesquisa em andamento é a
-[[pesquisa_sobre_análise_harmonica_automática|Pesquisa/AnaliseHarmonica]], com auxílio da Fapesb. A página
+[[pesquisa_sobre_análise_harmonica_automática|Pesquisa/AnaliseHarmonica]],
+com auxílio da Fapesb. 
+
+A página
 ModelosDocumentos/ProjetosExtensao mostra modelos de como fazer
-projetos de extensão e tramitar o processo na Ufba. A página
-GruposDeEstudo contem sub-páginas sobre cada grupo de estudo, como
-GruposDeEstudo/TempoReal, GruposDeEstudo/SinteseSonora, e
-GruposDeEstudo/SistemaSchillinger. O Handbook do Genos contém
-tutoriais e documentação de várias ferramentas.
+projetos de extensão e tramitar o processo na Ufba. 
 
 # Definição do termo Genos
 

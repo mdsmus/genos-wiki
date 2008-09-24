@@ -1,0 +1,22 @@
+# Ata da reunião de 19 Setembro 2008
+
+* Início às 13:13h
+* Participantes: Marcos, Givaldo, Nathanael, Laio e Wallace
+* Visto o status das tarefas do grupo
+* Distribuído as tarefas:
+ * Nathanel: ênfase nos corais até sexta-feira
+ * Laio: editar dois corais como treinamento no lilypond
+ * Walace: pegar dois corais de bach e editar no lilypond.
+ * Givaldo: verificar quais exemplos do kostka não tem no repositório.
+* Definido que o G2 irá trabalhar exclusivamente com linux
+* Marcado para instalação no computador de natanael no sábado
+  Data: 27/10
+  Hora: 9h
+  Local: a confirmar.
+* Revisto os objetivos para o semestre 2008.2
+ * 1 - Colocar fermatas em todos os corais
+ * 2 - Fazer todos os gabaritos funcionais
+ * 3 - Analise de kostka e das sonatas de mozart
+* Objetivo geral: Ter a edição dos corais e a análise funcional prontas.
+* Feito o cadastro de Laio, Wallace e Nathanael nos computadores do genos
+* Termino às 13:40h

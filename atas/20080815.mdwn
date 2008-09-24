@@ -1,0 +1,9 @@
+# Ata da reunião de 15 Agosto 2008
+
+* Participantes: Marcos, Givaldo, Emerson e Natanael.
+* Trabalhos de correção entregues. Possível necessidade de uma revisão final
+* Bolsas de apoio técnico negadas. Apenas uma possível bolsa em janeiro antes da próxima seleção Pibic
+* Treinamento:
+ * Foco em uso do Lilypond
+ * Tarefa de edição da suíte de vlc n.1 de Bach para próxima reunião
+ * Natanael e Emerson inscritos em curso de Lilypond e Linux

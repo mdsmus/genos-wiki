@@ -1,0 +1,12 @@
+# Ata da reunião de 13 Junho 2008
+
+* Comentários gerais sobre artigo anppom 
+* Top propôs correção just-in-time dos corais. Pedro negou
+* Top-monografia - Coisas de linguagem natural para análise funcional
+* Top-cursos - git, lisp, rameau, fann, latex
+* reuniões do genos-pesquisa em 2 grupos: top+pedro (programação) e outros (corais/treinamento)
+* reunião do genos-pesquisa 18/7 9hs
+* rameau no windows. top fará
+* cl-png para rameau
+* rameau no servidor. freebsd lisp péééén. rameau web
+* trac. criar tickets na linha de comando. drakma. reinstalar trac

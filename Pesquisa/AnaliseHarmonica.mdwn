@@ -1,0 +1,9 @@
+# Análise automática de harmonia por computador
+
+* [[Rameau]] Software para análise harmônica automática
+* PautaReuniao
+
+# Links
+
+ * [http://www.theory.esm.rochester.edu/temperley/music-prob/materials.html materiais do temperley]
+ * [http://www.cs.northwestern.edu/~pardo/kpcorpus.htm kostka-payne corpus pelo Pardo]

@@ -1,0 +1,35 @@
+# Ata da reunião de 3 Setembro 2008
+
+* musicologia computacional: (novo "branch" da pesquisa)
+* novas codificaçoes (fazer artigo comparativo)
+* binarios instalaveis (releases), problema home hardcoded em .data
+* documentação usuario
+* documentação api (terminar)
+* cl lily
+* codigo: estilo, refatora funcoes gigantes (horizontal e vertical),
+ * tira stuff de main
+* gui tk (com tudo, web clean)
+* termina baby proof
+* suporte abc (ou outro, guido?)
+* analise funcional (suporte inicial)
+* web page melhor
+* contactar illescas, taube
+* internacionalizar rameau
+* implementa segmentação
+* corais corrigidos (edicao "genos")
+  * usar edição "autoritativa"
+  * corais corrigidos por ????
+* usar corpus kostka
+  * corpus anotado pardo
+* teorias de analise harmonica (formalizar)
+  * rameau
+  * joel lester
+  * riemman
+  * schenker
+  * schonberg
+  * livros-texto
+  * lerdahl
+  * o que significa "analise harmonica" (i.e. analise é mais geral)
+* percentagem acerto gabaritos
+* definir status novatos
+* suporte kern, musedata

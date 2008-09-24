@@ -1,0 +1,26 @@
+# Ata da reunião de 18 Julho 2008
+
+* Bolsas
+ * Bolsas de apoio técnico negadas.
+ * Bolsa de Top até formatura (dezembro).
+ * Bolsa de 6 meses para 2009 para 1 dos novatos
+* Status das coisas
+ * Givaldo e Natanael terminaram marcação de erros de corais
+ * Givaldo fará corais problemáticos em seguida processará erros dos corais
+ * Marcos iniciou treinamento com Lilypond e Emacs
+ * Marcos testará o .emacs no windows (ver e-mail de Pedro) e iniciará treinamento com git
+ * Marcos dará curso de Lilypond aos novatos. Ver projeto para depto
+* Formato funcional
+ * Sintaxe modificada em centros: Ao invés de @c usar c|
+ * Marcos pedirá a professores de harmonia para analisar funcionalmente o coral 006
+ * Comentários sobre a granularidade da análise
+* Nova página do genos - repositórios com grupos de leitura e escrita
+* Documentação
+ * Documentação gerada, demora muito e é necessária. Pedro checará
+ * Passos mudará don't check
+* Apresentação ICMC
+ * Marcos: ver coisas bizarras em KNN, Markov model e bayseano em 140 e 162.
+ * Givaldo: revisar 10 gabaritos
+* Treinamento e redes naturais: Top vai separar os dados de treinamento e abstrair a maneira de treinar numa função
+* ANPPOM
+ * dar preferência a eventos internacionais
