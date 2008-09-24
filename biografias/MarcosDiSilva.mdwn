@@ -11,5 +11,5 @@ como suporte para a composição musical.
 
 ## Links
 
-* Website pessoal: http://www.marcosdisilva.net/
+* Website pessoal: <http://www.marcosdisilva.net/>
 * [Currículo na plataforma Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4770122P6)

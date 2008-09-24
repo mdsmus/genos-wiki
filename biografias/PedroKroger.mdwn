@@ -11,4 +11,4 @@ segundo lugar no "VII Concurso Nacional de Composição", dentre outros.
 Suas composições tem sido executadas em países como Brasil, Colômbia,
 Cuba, Viena, Noruega, Itália, e Estados Unidos. Pedro é Coordenador do
 Genos. Para mais informações, visite sua página em
-http://www.genos.mus.br/~kroger
+<http://www.genos.mus.br/~kroger>
