@@ -8,6 +8,7 @@
 
 * [materiais do temperley](http://www.theory.esm.rochester.edu/temperley/music-prob/materials.html)
 * [kostka-payne corpus pelo Pardo](http://www.cs.northwestern.edu/~pardo/kpcorpus.htm)
+* [chorale composer (Taube)](http://camil.music.uiuc.edu/Software/cc/index.html)
 
 # Sites com Editais para Pesquisa
 
