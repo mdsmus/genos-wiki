@@ -1,7 +1,0 @@
-# Novo wiki para o genos
-
-Agora o genos usa o [ikiwiki](ikiwiki.info). Ele permite a edição de
-páginas via web como um wiki normal, mas além disso é possível editar
-as páginas off-line e sincronizar com git. Veja o handbook para
-maiores informações. Para editar as páginas desse wiki é necessário
-usar uma identificação do [openid](http://myopenid.com).

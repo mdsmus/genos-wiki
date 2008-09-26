@@ -2,11 +2,12 @@
 
 ## Novo sistema de controle de projetos
 
-Agora usamos o [redmine](http://redmine.org) para controlar os projetos do
-genos. Ele tem vários recursos interessantes como integração com o git
-e a possibilidade de criar facilmente vários projetos. O sistema esta
-disponível em <http://bugs.genos.mus.br>. Crie sua conta em "Register"
-para poder reportar problemas no genoslab ou no rameau.
+Agora usamos o [redmine](http://redmine.org) para controlar os
+projetos do genos. Ele tem vários recursos interessantes como
+integração com o git e a possibilidade de criar facilmente vários
+projetos. O sistema esta disponível em <http://bugs.genos.mus.br>.
+Crie sua conta clicando em "Register" para poder reportar problemas no
+genoslab ou no rameau.
 
 ## Novo wiki
 
@@ -17,9 +18,10 @@ handbook para maiores informações. Para editar as páginas desse wiki é
 necessário usar o sistema de identificação
 [openid](http://pt.wikipedia.org/wiki/OpenID). O genos usa o esquema
 de filiação de myopenid, então você pode criar seu openid facilmente
-clicando no link "edit" em qualquer página desse wiki. Esse wiki usa a
-sintaxe markdown (o wiki antigo usava uma sintaxe diferente), veja
-mais sobre esse formato
+clicando no link "edit" em qualquer página desse wiki. 
+
+Esse wiki usa a sintaxe markdown (o wiki antigo usava uma sintaxe
+diferente), veja mais sobre esse formato
 [aqui](http://ikiwiki.info/ikiwiki/formatting/) e
 [aqui](http://daringfireball.net/projects/markdown/syntax). Existe um
 [modo do emacs](http://jblevins.org/projects/markdown-mode/) para esse
