@@ -1,3 +1,68 @@
 # O novo servidor do genos está no ar
 
+## Novo sistema de controle de projetos
 
+Agora usamos o [redmine](http://redmine.org) para controlar os projetos do
+genos. Ele tem vários recursos interessantes como integração com o git
+e a possibilidade de criar facilmente vários projetos. O sistema esta
+disponível em <http://bugs.genos.mus.br>. Crie sua conta em "Register"
+para poder reportar problemas no genoslab ou no rameau.
+
+## Novo wiki
+
+A wiki do genos agora é o [ikiwiki](http://ikiwiki.info). Ele permite
+a edição de páginas via web como um wiki normal, mas além disso é
+possível editar as páginas off-line e sincronizar com git. Veja o
+handbook para maiores informações. Para editar as páginas desse wiki é
+necessário usar o sistema de identificação
+[openid](http://pt.wikipedia.org/wiki/OpenID). O genos usa o esquema
+de filiação de myopenid, então você pode criar seu openid facilmente
+clicando no link "edit" em qualquer página desse wiki. Esse wiki usa a
+sintaxe markdown (o wiki antigo usava uma sintaxe diferente), veja
+mais sobre esse formato
+[aqui](http://ikiwiki.info/ikiwiki/formatting/) e
+[aqui](http://daringfireball.net/projects/markdown/syntax). Existe um
+[modo do emacs](http://jblevins.org/projects/markdown-mode/) para esse
+formato.
+
+## Mudanças nas listas de discussão
+
+As listas genos-trac e genos-core foram eliminadas. O redmine faz
+notificações por email diretamente.
+
+## Lista dos repositórios git
+
+Agora usamos o cgit para listar os repositórios git do genos. O cgit é
+muito mais rápido que o gitweb e permite uma visualização mais
+arrumada. O sistema está disponível em <http://git.genos.mus.br/>.
+
+Além disso o novo servidor usa um novo esquema para clonar
+repositórios, veja como clonar novos repositórios
+[aqui](http://git.genos.mus.br/cgit.cgi?p=about).
+
+Para fazer seu repositório local usar o novo esquema digite o seguinte
+comando no diretório do seu repositório local:
+
+    git config remote.origin.url "git@genos.mus.br:<nome do repo>.git"
+
+Por exemplo:
+
+    cd ~/src/rameau
+    git config remote.origin.url "git@genos.mus.br:rameau.git"
+
+## Agenda do genos
+
+A [agenda](http://wiki.genos.mus.br/agenda/) do genos foi criada para
+ficar mais fácil divulgar os eventos e reuniões do genos. Para
+editá-la acrescente a agenda do genos à sua conta do google e insira
+eventos na agenda. Se você não tiver permissão para isso solicite na
+lista de discussão.
+
+## Notícias genos
+
+Agora é mais fácil acompanhar o que os geeks do genos estão fazendo. A
+[página de notícias](http://wiki.genos.mus.br/noticias/) no wiki tem
+feeds rss: <http://wiki.genos.mus.br/noticias/index.rss> além disso
+você pode acompanhar notícias específicas de projetos do genos através
+da interface do redmine. A página de notícias do rameau fica em
+<http://bugs.genos.mus.br/projects/rameau/news>.
