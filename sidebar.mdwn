@@ -4,5 +4,5 @@
 * [[eventos]]
 * [[pessoas]]
 * [[atas]]
-* [handbook](http://www.genos.mus.br/handbook/)
+* [handbook](http://genos.mus.br/handbook/)
 * [[recursos]]
