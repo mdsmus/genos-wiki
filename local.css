@@ -345,7 +345,7 @@ input#searchbox {
     background: url(wikiicons/search-bg.gif) no-repeat;
     background-color: #fff;
     background-position: 100% 50%;
-    color: #000;
+    color: #507AAA;
     padding-right: 16px;
 }
 
@@ -435,5 +435,4 @@ legend {
 
 span.color {
     padding: 2px;
-    color: #507AAA;
 }
