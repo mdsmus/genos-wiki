@@ -1,0 +1,6 @@
+# Administração genos
+
+Essa página fornece os pontos principais para adminstração do genos.
+
+* [estatísticas](http://awstats.genos.mus.br/cgi-bin/awstats.pl?config=genos.mus.br)
+
