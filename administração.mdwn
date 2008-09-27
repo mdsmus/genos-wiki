@@ -2,5 +2,13 @@
 
 Essa página fornece os pontos principais para adminstração do genos.
 
-* [estatísticas](http://awstats.genos.mus.br/cgi-bin/awstats.pl?config=genos.mus.br)
+## Estatísticas
 
+* [awstats](http://awstats.genos.mus.br/cgi-bin/awstats.pl?config=genos.mus.br)
+* [google](https://www.google.com/analytics/reporting/?reset=1&id=11627876&scid=5758275)
+
+* [nagios](http://genos.mus.br/nagios/)
+
+## Servidor
+
+* [servidor do genos](http://www.linode.com)
