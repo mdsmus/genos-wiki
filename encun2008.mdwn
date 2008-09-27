@@ -1,11 +1,8 @@
 # ENCUn 2008 - Salvador
 
- * [apresentacao]
-
-
-(http://genos.mus.br/encun/apresentacao)
- * [Obras Selecionadas](http://genos.mus.br/encun/obras)
- * [Edital para inscrição de Oficinas](http://genos.mus.br/encun/editaloficinas)
- * [Cursos](http://genos.mus.br/encun/cursos)
- * [Comissão Organizadora](http://genos.mus.br/encun/comissao)
- * [Links](http://genos.mus.br/encun/links)
+ * [apresentacao](../apresentacao)
+ * [Obras Selecionadas](../encun/obras)
+ * [Edital para inscrição de Oficinas](../encun/editaloficinas)
+ * [Cursos](../encun/cursos)
+ * [Comissão Organizadora](../encun/comissao)
+ * [Links](../encun/links)
