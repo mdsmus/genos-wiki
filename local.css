@@ -1,3 +1,14 @@
+a { 
+    color: #507AAA;
+}
+
+a:hover { 
+    color: #000000;
+}
+
+a:active { 
+    color: #444;
+}
 
 h1 {
     color: #549DC7;
