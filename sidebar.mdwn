@@ -6,3 +6,4 @@
 * [[atas]]
 * [handbook](http://genos.mus.br/handbook/)
 * [[recursos]]
+* [[administração]]
