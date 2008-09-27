@@ -1,0 +1,13 @@
+# Ata da reunião de 26 Setembro 2008
+(G2)
+
+* Início às 13:15
+* Participantes: Marcos, Nathanael e Laio
+* Laio pediu afastamento do grupo e devolveu Riemenschneider
+* Status das tarefas
+ * Givaldo: informará se será preciso editar Pardo-Kostka na mão até 29/09
+ * Natanael: entregou partituras de corais corrigidas a Givaldo
+ * Givaldo e Natanael: instalarão Linux na máquina de Natan até 29/09
+* Informações sobre projeto Brahms
+* Breve treinamento para uso do rameau e git. Natanael já poderá usar rameau com git
+* Término às 14:15
