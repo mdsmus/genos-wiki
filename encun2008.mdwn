@@ -1,8 +1,8 @@
 # ENCUn 2008 - Salvador
 
- * [Apresentação](../encun/apresentacao)
- * [Obras Selecionadas](../encun/obras)
- * [Edital para inscrição de Oficinas](../encun/editaloficinas)
- * [Cursos](../encun/cursos)
- * [Comissão Organizadora](../encun/comissao)
- * [Links](../encun/links)
+ * [Apresentação](../encun2008/apresentacao)
+ * [Obras Selecionadas](../encun2008/obras)
+ * [Edital para inscrição de Oficinas](../encun2008/editaloficinas)
+ * [Cursos](../encun2008/cursos)
+ * [Comissão Organizadora](../encun2008/comissao)
+ * [Links](../encun2008/links)
