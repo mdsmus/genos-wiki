@@ -1,4 +1,4 @@
 
 As atas das reuniões do genos estão listadas nessa página.
 
-[[!map pages="atas/*" show=title]]
+[[!inline pages="atas/*" sort=title reverse=yes]]
