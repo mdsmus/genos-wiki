@@ -2,7 +2,7 @@
 
 * [[pesquisa/rameau]] - Software para análise harmônica automática
 * [[pesquisa/pauta]] - pauta da próxima reunião
-* [redmine](bugs.genos.mus.br) - sistema de bugs do genos (e rameau)
+* [redmine](http://bugs.genos.mus.br) - sistema de bugs do genos (e rameau)
 
 # Links
 
