@@ -35,10 +35,10 @@ Carga horária: 6h (seis horas)
 
 ####Tópicos a serem desenvolvidos
 
-    * Problematização da noção de gesto em pequenas formas musicais;
-    * Apontamentos no parâmetro altura: o PCN (Processador de Classes de Notas);
-    * O parâmetro duração e suas determinantes;
-    * Conceituação de gesto musical e suas aplicabilidades em análise e composição;
-    * Aplicações composicionais e exercícios;
+ * Problematização da noção de gesto em pequenas formas musicais;
+ * Apontamentos no parâmetro altura: o PCN (Processador de Classes de Notas);
+ * O parâmetro duração e suas determinantes;
+ * Conceituação de gesto musical e suas aplicabilidades em análise e composição;
+ * Aplicações composicionais e exercícios;
 
 
