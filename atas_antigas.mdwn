@@ -1,0 +1,3 @@
+# Atas antigas do genos
+
+[[!inline pages=atas/* and !*/Discussion" skip="10" rootpage=atas"]]
