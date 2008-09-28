@@ -345,3 +345,7 @@
 ##Versão em pdf
 
 [[obras_selecionadas_VI_Encun.pdf]]
+
+##Edital em pdf
+
+[[edital_obras_VIencun.pdf]]
