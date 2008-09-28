@@ -1,1 +1,1 @@
-Está disponível o estilo para escrever teses e dissertações para o PPGMUS-UFBA com o LaTeX. Veja no (handbook)[http://genos.mus.br/handbook/node19.html] como baixá-lo e usá-lo.
+Está disponível o estilo para escrever teses e dissertações para o PPGMUS-UFBA com o LaTeX. Veja no [handbook](http://genos.mus.br/handbook/node19.html) como baixá-lo e usá-lo.
