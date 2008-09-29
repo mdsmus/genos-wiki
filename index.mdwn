@@ -10,7 +10,7 @@ e certificado pela Universidade Federal da Bahia.
 # Listas de Discussão
 
 A lista
-[genos-users](http://lists.genos.mus.br/cgi-bin/mailman/listinfo/genos-users)
+[genos-users](http://lists.genos.mus.br/mailman/listinfo/genos-users)
 é para os usuários do genoslab geral, participantes dos cursos
 oferecidos pelos genos e alunos. Nessa lista você pode tirar dúvidas
 sobre os programas usados e comentar sobre atividades do grupo de
