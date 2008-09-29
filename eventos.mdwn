@@ -18,4 +18,4 @@
 
 # Eventos Antigos
 
-Os eventos antigos estão arquivados em [[historico]].
+Os eventos antigos estão arquivados em [[/historico]].
