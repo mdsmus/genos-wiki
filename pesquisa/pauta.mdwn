@@ -1,6 +1,12 @@
-# Pauta da reunião
+# Pautas de reuniões
 
-Reunião geral (03/10/2008)
+## Pesquisa (01/10/2008)
+
+* redmine
+* divisão tarefas
+* codificações
+
+## Reunião geral (03/10/2008)
 
 * política de empréstimo
  * inventário do que temos e de quem é cada coisa
