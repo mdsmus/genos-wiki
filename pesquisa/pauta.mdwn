@@ -5,6 +5,7 @@
 * redmine
 * divisão tarefas
 * codificações
+* chorale composer
 
 ## Reunião geral (03/10/2008)
 
