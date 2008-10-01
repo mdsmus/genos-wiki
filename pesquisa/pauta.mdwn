@@ -64,3 +64,14 @@
  * datashow
  * rack
  * armário (pedido a schwebel)
+
+## Pesquisa G2 (03/10/2008)
+
+* status das tarefas
+ * exemplos do kostka
+ * edição lilypond de coral
+ * edição lilypond do quarteto de brahms
+* novas ferramentas
+ * wiki
+ * redmine
+ * git
