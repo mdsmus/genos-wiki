@@ -4,6 +4,17 @@
 * [[pesquisa/pauta]] - pauta da próxima reunião
 * [redmine](http://bugs.genos.mus.br) - sistema de bugs do genos (e rameau)
 
+# Abc
+
+* How do I put words (lyrics) in my abc files? 
+  <http://trillian.mit.edu/~jc/music/abc/ABC-FAQ.html>
+* exemplo com lyrics
+  <http://trillian.mit.edu/~jc/music/abc/doc/tune/VeDavid.abc>
+* descrição abc
+  <http://www.walshaw.plus.com/abc/abc2mtex/abc.txt>
+* BNF para abc
+  <http://www.norbeck.nu/abc/abcbnf.htm>
+
 # Links
 
 * [materiais do temperley](http://www.theory.esm.rochester.edu/temperley/music-prob/materials.html)

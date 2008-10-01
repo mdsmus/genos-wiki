@@ -1,6 +1,58 @@
-# Pauta da reunião
+# Pautas de reuniões
 
-Reunião geral (03/10/2008)
+## Pesquisa (01/10/2008)
+
+* objetivos, projetos, tarefas
+
+  objetivos: um resultado geral esperado (e.g. "ficar em forma") que
+             pode ser obtido de diversas maneiras (projetos: "definir
+             um esquema de correr") [as vezes objetivos são "super-projetos"]
+
+  projeto:    algo com começo, meio, e fim
+              com resultado definido
+              com mais de 1 proxima ação (tarefas)
+              para o rameau: apenas projetos simples (não super-projetos)
+
+  tarefa:     algo que pode ser feito em um contexto fisico
+              (e.g. "comprar tenis de corrida")
+
+* redmine: como organizar projetos?
+  - subprojetos
+  - "projeto" tag (ou tag especifica)
+  - como tarefa e "related issue"
+    usa tags "projeto" e "proxima ação"
+    http://www.redmine.org/issues/show/1110
+* abcm2ps (super rapido)
+* divisão tarefas
+* codificações
+* chorale composer
+* formato gabarito funcional (repetições e frases)
+* refatoração libs rameau
+
+  lib para documentar codig lisp
+  doc.lisp
+
+  lib para parsear lilypond
+  lily.lisp
+  parser-grammar.lisp
+  parser.lisp
+
+  lib para lidar com musica
+  musiclib.lisp
+
+  lib para exportar funcoes, etc
+  rameau-base.lisp
+
+  re-organizar (ver o que ja existe)
+  tools.lisp
+  utils.lisp
+
+  corpus do genos
+
+* que modulos redmine para rameau?
+  forum, wiki, arquivos
+
+## Reunião geral (03/10/2008)
 
 * política de empréstimo
  * inventário do que temos e de quem é cada coisa
