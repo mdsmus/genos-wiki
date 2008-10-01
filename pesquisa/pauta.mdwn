@@ -6,6 +6,7 @@ Reunião geral (03/10/2008)
  * inventário do que temos e de quem é cada coisa
  * equipamentos que não podem sair
  * compra de material para empréstimo (réguas, cabos de força, etc)
+* acesso à rede wireless
 * acesso às máquinas (pesquisa e cursos)
 * arrumação da sala
  * datashow
