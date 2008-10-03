@@ -2,6 +2,9 @@
 
 ## Reunião geral (03/10/2008)
 
+* icmc report (eu e top)
+* status do genoslab
+* status do material do genos (wiki, handbook, etc)
 * política de empréstimo
  * inventário do que temos e de quem é cada coisa
  * equipamentos que não podem sair
