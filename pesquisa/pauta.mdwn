@@ -12,6 +12,8 @@
  * datashow
  * rack
  * armário (pedido a schwebel)
+ * limpeza
+ * rotina de "logout"
 
 ## Pesquisa G2 (03/10/2008)
 
