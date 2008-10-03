@@ -23,3 +23,4 @@
  * wiki
  * redmine
  * git
+* leitura de e-mails (filtros)
