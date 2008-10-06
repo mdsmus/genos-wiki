@@ -1,4 +1,5 @@
-# ENCUn 2008 - Salvador
+# ENCUn 2008
+## Salvador - 09 a 15 de novembro de 2008
 
  * [Apresentação](../encun2008/apresentacao)
  * [Obras Selecionadas](../encun2008/obras)

@@ -1,0 +1,527 @@
+# Proposta para Guia do Aluno PPGMUS/UFBA
+
+
+## Fluxogramas dos Cursos
+
+
+[http://www2.ppgmus.ufba.br/flux/fluxdoc Fluxogramas] dos cursos conforme nível e área:
+
+
+
+### Mestrado 
+
+
+[http://www2.ppgmus.ufba.br/flux/Flux_Comp_Mest.pdf Composição]
+
+
+
+[http://www2.ppgmus.ufba.br/flux/Flux_EduM_Mest.pdf Educação Musical]
+
+
+
+[http://www2.ppgmus.ufba.br/flux/Flux_Etno_Mest.pdf Etnomusicologia]
+
+
+
+[http://www2.ppgmus.ufba.br/flux/Flux_ExeM_Mest.pdf Execução]
+
+
+
+### Doutorado
+
+
+[http://www2.ppgmus.ufba.br/flux/Flux_Comp_Dout.pdf Composição]
+
+
+
+[http://www2.ppgmus.ufba.br/flux/Flux_EduM_Dout.pdf Educação Musical]
+
+
+
+[http://www2.ppgmus.ufba.br/flux/Flux_Etno_Dout.pdf Etnomusicologia]
+
+
+
+[http://www2.ppgmus.ufba.br/flux/Flux_ExeM_Dout.pdf Execução]
+
+
+
+## Corpo Docente
+
+
+### Composição
+
+
+ * '''Dr. Jamary Oliveira''', composição
+
+[http://www2.ufba.br/~jamary/ Site]
+
+
+
+ * '''Dr. Paulo Costa Lima''', composição
+
+[http://www2.ppgmus.ufba.br/corpo_docente/paulo_lima Currículo Site PPGMUS]
+
+
+
+[http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4788037Z8 Currículo Lattes]
+
+
+
+ * '''Dr. Pedro Kröger''', composição
+
+[http://www2.ppgmus.ufba.br/corpo_docente/pedro_kroger Currículo Site PPGMUS]
+
+
+
+[http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4799383Z0 Currículo Lattes]
+
+
+
+ *'''Dr. Ricardo Bordini''', composição
+
+[http://www2.ppgmus.ufba.br/corpo_docente/ricardo_bordini Currículo Site PPGMUS]
+
+
+
+[http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4781663H8 Currículo Lattes]
+
+
+
+ * '''Dr. Wellington Gomes''', composição
+
+[http://www2.ppgmus.ufba.br/corpo_docente/wellington_gomes Currículo Site PPGMUS]
+
+
+
+[http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4787529Y2 Currículo Lattes]
+
+
+
+ * '''Dr. Pablo Sotuyo Blanco''', musicologia
+
+[http://www2.ppgmus.ufba.br/corpo_docente/pablo_sotuyo Currículo Site PPGMUS]
+
+
+
+[http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4769259T3 Currículo Lattes]
+
+
+
+### Práticas Intepretativas
+
+ * '''Dra. Diana Santiago''', piano e educação musical
+
+[http://www2.ppgmus.ufba.br/corpo_docente/diana_santiago Currículo Site PPGMUS]
+
+
+
+[http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4781288Z8 Currículo Lattes]
+
+
+
+ * '''Dr. Erick Magalhães Vasconcelos''', regência
+
+[http://www2.ppgmus.ufba.br/corpo_docente/erick_vasconcelos Currículo Site PPGMUS]
+
+
+
+[http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4788594U6 Currículo Lattes]
+
+
+
+ * '''Dr. Heinz Karl Schwebel''', trompete
+
+[http://www2.ppgmus.ufba.br/corpo_docente/heinz_schwebel Currículo Site PPGMUS]
+
+
+
+[http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4700759E4 Currículo Lattes]
+
+
+
+ * '''Dr. Lucas Robatto''', flauta
+
+[http://www2.ppgmus.ufba.br/corpo_docente/lucas_robatto Currículo Site PPGMUS]
+
+
+
+[http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4763034A0 Currículo Lattes]
+
+
+
+ * '''Dr. Joel Barbosa''', clarinete e educação musical
+
+[http://www2.ppgmus.ufba.br/corpo_docente/joel_barbosa Currículo Site PPGMUS]
+
+
+
+[http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4787816Z5 Currículo Lattes]
+
+
+
+ * '''Mário Ulloa''', violão
+
+[http://www2.ppgmus.ufba.br/corpo_docente/mario_ulloa Currículo Site PPGMUS]
+
+
+
+[http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4701351T8 Currículo Lattes]
+
+
+
+ * '''Dr. Pedro Robatto''', educação musical
+
+[http://www2.ppgmus.ufba.br/corpo_docente/pedro_robatto Currículo Site PPGMUS]
+
+
+
+[http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4700932Y7 Currículo Lattes]
+
+
+
+### Educação Musical
+
+ * '''Dra. Alda de Jesus Oliveira''', educação musical
+
+[http://www2.ppgmus.ufba.br/corpo_docente/alda_oliveira Currículo Site PPGMUS]
+
+
+
+[http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4780532D6 Currículo Lattes]
+
+
+
+ * '''Dra. Ana Cristina Tourinho''', educação musical
+
+[http://www2.ppgmus.ufba.br/corpo_docente/cristina_tourinho Currículo Site PPGMUS]
+
+
+
+[http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4765423J6 Currículo Lattes]
+
+
+
+ * '''Dr. Luiz Cesar Marques Magalhães''', educação musical
+
+[http://www2.ppgmus.ufba.br/corpo_docente/cesar_magalhaes Currículo Site PPGMUS]
+
+
+
+[http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4701730T2 Currículo Lattes]
+
+
+
+### Etnomusicologia
+
+ * '''Dra. Angela Elisabeth Lühning''', etnomusicolgia
+
+[http://www2.ppgmus.ufba.br/corpo_docente/angela_luhning Currículo Site PPGMUS]
+
+
+
+[http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4780082J6 Currículo Lattes]
+
+
+
+ * '''Dr. Manuel Vicente Ribeiro Veiga Jr''', etnomusicolgia
+
+[http://www2.ppgmus.ufba.br/corpo_docente/manuel_veiga Currículo Site PPGMUS]
+
+
+
+[http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4788172A3 Currículo Lattes]
+
+
+
+ * '''Dra. Sônia Chada''', etnomusicolgia
+
+[http://www2.ppgmus.ufba.br/corpo_docente/sonia_chada Currículo Site PPGMUS]
+
+
+
+[http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4700555D2 Currículo Lattes]
+
+
+
+## Grupos de pesquisa
+
+[http://www2.ppgmus.ufba.br/lin_gr_pesq/gr_pesq_doc Grupos_de_pesquisa] atuantes no PPGMUS:
+
+
+
+[http://dgp.cnpq.br/buscaoperacional/detalhegrupo.jsp?grupo=0291803FMWQ07H Genos]
+
+
+
+[http://dgp.cnpq.br/buscaoperacional/detalhegrupo.jsp?grupo=0291803BGJ5SR2 GEMBA]
+
+
+
+[http://dgp.cnpq.br/buscaoperacional/detalhegrupo.jsp?grupo=02918035HDJ1SW Composição e identidade cultural]
+
+
+
+Performance musical e ensino instrumental (não cadastrado no CNPQ)
+
+
+
+[http://dgp.cnpq.br/buscaoperacional/detalhegrupo.jsp?grupo=0291803Q07HS29 Materiais didáticos e hipermídia em música] 
+
+
+
+[http://dgp.cnpq.br/buscaoperacional/detalhegrupo.jsp?grupo=0291803GLC1PLO MeMuBa On-Line] 
+
+
+
+[http://dgp.cnpq.br/buscaoperacional/detalhegrupo.jsp?grupo=0291803FJD78YQ NEMUS]
+
+
+
+[http://dgp.cnpq.br/buscaoperacional/detalhegrupo.jsp?grupo=02918034APNKZL NIPSIMUS]
+
+
+
+[http://dgp.cnpq.br/buscaoperacional/detalhegrupo.jsp?grupo=02917035DBJXKK ODU]
+
+
+
+## Regras para Recitais
+
+
+Regulametanções relacionadas a cada área:
+
+
+
+ * Composição (não temos)
+
+ * Educação Musical (não temos)
+
+ * Etnomusicologia (não temos)
+
+ * [http://www2.ppgmus.ufba.br/docs/reg_rec.doc Execução]
+
+
+
+## VPN (Virtual Private Network - Rede Virtual Privada) UFBA
+
+
+O VPN permite o acesso aos periódicos restritos do Portal da Capes.
+
+
+
+Para ter acesso VPN é preciso cadastrar um email na UFBA. Para isso é preciso ir pessoalmente ao CPD (Centro de Processamento de Dados), no PAF (Pavilhao de aulas da Federacäo), que se localiza na entrada secundária do campus Ondina da UFBA (pela avenida Adhemar de Barros) e fazer a solicitação.
+
+
+
+Confira um [http://www.manuka.com.br/repem/files/VPN_UFBA.pdf tutorial] para instalação do VPN UFBA.
+
+
+
+## Aproveitamento de disciplinas
+Para o [http://www2.ppgmus.ufba.br/docs/res_apr aproveitamento de disciplinas] consulte a resolução
+
+
+
+passo a passo (será que precisa?)
+
+
+
+## Troca de Nível
+ * O documento sobre [http://www2.ppgmus.ufba.br/docs/port_77_06.pdf Upgrade] da CAPES regulamenta o upgrade de bolsa de alunos de mestrado por desempenho exepcional para o doutorado.
+
+
+
+## Cartilha do Orientador
+ * A [http://www2.ppgmus.ufba.br/docs/Manual_Orient.pdf Cartilha do orientador] PPGMUS UFBa traz recomendações para os orientadores, e serve também para os alunos saberem os seus direitos e deveres.
+
+
+## Critérios de Seleção
+
+Confira os [http://www2.ppgmus.ufba.br/docs/criterios.pdf critérios de selecao] para o ingresso no PPGMUS. Maiores detalhes no [http://www2.ppgmus.ufba.br site].
+
+
+
+## Proficiência em Língua Estrangeira
+(Quais as regras?)
+
+
+
+## Tirocínio Docente
+Para a realização do Tirocínio Docente, o aluno deve ministrar um curso (componente curricular) em um dos cursos de Graduação da Escola de Música. Para isso o aluno deve escolher e conversar com o professor que ministra o componente para que este lhe ceda a turma.
+
+
+
+Existe também a possibilidade de se oferecer um curso de extensão. Nesse caso é preciso enviar um projeto de curso para aprovação do colegiado.
+
+
+
+Tanto o componente curricular escolhido quanto o curso de extensão devem ter uma carga horária igual ou superior a 34 hs (trinta e quatro horas).
+
+
+
+Ao fim o aluno deve entregar um relatório de suas atividades para apreciação do colegiado.
+
+
+
+## Procedimentos para aquisição de bolsa de Doutorado Sanduíche/Estágio de Doutorando
+
+Para efetuar o pedido de bolsa para um Doutorado Sanduíche (CNPQ) ou Estágio de Doutorando (CAPES) recomendamos os seguintes passos:
+
+
+
+ * Fique atento ao calendário de inscrição para pedido de bolsa. Cada órgão de fomento tem seu calendário específico.
+
+ * Manifeste para o seu orientador no Brasil o seu interesse e obtenha sua concordância
+
+ * Manifeste o seu interesse para o departamento do seu Programa e consiga a sua concordância
+
+ * Aprove o seu projeto de pesquisa ou qualificativo na pós-graduação de origem. Isso é um pré-requisito!
+
+ * Contate o orientador e universidade de destino
+
+ * Prepare o plano de trabalho que pretende realizar na universidade de destino. Não encontramos um modelo específico para esse plano de trabalho, mas sugerimos que ele contenha o seu projeto de pesquisa completo e as atividades que você pretende desenvolver durante o Doutorado Sanduíche como a participação em congressos, grupos de pesquisa, uso da biblioteca, laboratórios, etc.
+
+ * Consiga a carta de aceite do Programa e do orientador na universidade de destino. Cada universidade tem seu trâmite interno. Geralmente é necessário o preenchimento de um formulário específico que é avaliado pelo departamento da universidade de destino.
+
+ * Obtenha a proficiência na língua do país de destino. Cada universidade tem sua exigência em termos de pontuação e testes de proficiência aceitos. Do mesmo modo, é preciso saber qual o nível mínimo exigido pela agência financiadora.
+
+ * Faça a inscrição no órgão de fomento. Existem vários órgãos de fomento, sendo os mais conhecidos o [http://www.cnpq.br/ CNPQ] (Doutorado Sandwich-SWE) e a [http://www.capes.gov.br/ CAPES] (Estágio de Doutorando-PDEE). Recomendamos o site do [http://becas.universia.net/BR/home.do Universia Brasil] que disponibiliza uma relação de órgãos de fomento no Brasil e no exterior.
+
+ * O Programa de Pós-Graduação em Música da UFBA tem uma cota anual para Estágio de Doutorando-PDEE financiada pela CAPES. É, atualmente, uma cota de 12 meses. Se houver mais de um candidato no mesmo ano, caberá ao Programa elaborar os critérios de seleção. É possível, também, dividir a cota entre os candidatos.
+
+**Alerta**
+
+
+ * É preciso saber que o CNPQ e a CAPES '''NÃO '''custeiam despesas com a universidade de destino como matrícula, mensalidades, anuidades etc. A bolsa cobre despesas de viagem, moradia, alimentação e saúde. '''É preciso negociar, com a universidade de destino, a liberação de eventuais taxas'''. Fique atento!!
+
+
+## Lista não ordenada de coisas ainda por fazer
+ * o padrão de formatação de dissertações e teses (material que já está sendo elaborado pelo Pedro Kroger);
+
+ * indicações de órgãos de fomento para aquisição de bolsa;
+
+ * indicações de congressos e periódicos da área para participação e publicação;
+
+ * reforço quanto ao comprometimento com a produção no programa e modos de fazer isso de modo eficaz;
+
+ * Auxílio quanto ao preenchimento do Lattes (que já está sendo providenciado)
+
+ * Indicação de serviços da UFBA: médico, endereços e telefones importantes etc.
+
+ * consultar estatuto da pós
+
+
+
+## Congressos e periódicos
+### Área geral de música
+
+ * LISTA feita pela ANPPOM com os periódicos (''Qualis'') da área de música. Ao pesquisar selecione ARTES/MÚSICA. [http://www.biblioteca.epm.br/caidi/busca_area.htm site]
+
+
+
+"Qualis é uma lista de veículos utilizados para a divulgação da produção intelectual dos programas de pós-graduação stricto sensu (mestrado e doutorado), classificados quanto ao âmbito de circulação (Local, Nacional, Internacional) e à qualidade (A, B, C), por área de avaliação. A Capes utiliza o Qualis para fundamentar o processo de avaliação do Sistema Nacional de Pós-Graduação."
+
+
+
+**Periódicos internacionais**
+
+
+ * British Jornal of Etnomusicology - [http://www.thebfe.org.uk/section.php?id=89 site]
+
+ * Ethnomusicology Forum, formerly known as the British Journal of Ethnomusicology, is a peer-reviewed journal published twice a year (in June and November) by Routledge for the British Forum for Ethnomusicology.
+
+'''Congressos nacionais'''
+
+
+
+ * British Forum for Ethnomusicology – (A conferência anual e outras) - [http://www.bfe.org.uk/ site]
+
+## Salvador Card
+
+
+## Dicas de hospedagem
+
+
+## Recomendações para o uso da lista estudantes-ppgmus@googlegroups.com
+
+
+Participam desta lista estudantes do Programa de Pós-Graduação em Música da Universidade Federal da Bahia. A lista está hospedada em http://groups.google.com/group/estudantes-ppgmus, de maneira que qualquer participante pode acessá-la.
+
+
+
+Como essa lista é uma lista de estudantes, como o próprio nome já diz, apenas os estudantes podem receber mensagens dela. Entretanto, a coordenação do curso, na pessoa de Bordini, Maísa e algumas outras pessoas podem enviar emails pra lista, mas não podem recebe-los. Portanto, se você quiser responder algum email de Maísa ou Bordini, enderece para os seus emails pessoais e não à lista estudantes-ppgmus.
+
+
+
+Endereços que podem APENAS enviar emails pra lista:
+
+
+
+ * ppgmus@ufba.br (Coordenação do curso)
+
+
+
+ * bordini@ufba.br (email pessoal de Bordini - atual coordenador)
+
+
+
+ * anacrist@ufba.br (Cristinha - atual vice-coordenadora do curso)
+
+
+
+ * maisanto@ufba.br (Maísa - secretaria)
+
+
+
+ * sonchada@ufba.br (email pessoal de Sôninha - atual coordenadora dos Fóruns PPGMUS)
+
+
+
+ * sonchada@gmail.com (email pessoal de Sôninha - atual coordenadora dos Fóruns PPGMUS)
+
+
+
+ * disant@ufba.br (Diana Santiago)
+
+
+
+ * jlsbarbosa@hotmail.com (Joel Barbosa)
+
+
+
+ * pedro.kroger@gmail.com (Pedro Kroger)
+
+
+
+Todos os inscritos podem acessar a página e consultar o histórico da lista. Para fazer isso é necessário preencher um pequeno cadastro:
+
+
+
+ 1. Acesse [ http://groups.google.com.br/group/estudantes-ppgmus ]
+
+ 2. Clique em "Acesse os Grupos do Google"
+
+ 3. Clique em "Criar uma conta agora"
+
+ 4. Preencher as informações, quais sejam: e-mail, nova senha, nova senha outra vez, apelido, preencher o captcha e clicar em "Aceito. Criar Minha Conta".
+
+
+
+Todos os usuários cadastrados podem entrar na página e usar a ferramenta de busca do grupo. Uma prática saudável é consultar o histórico para verificar se alguma de nossas dúvidas já foi sanada anteriormente, evitando que se volte a assuntos que já foram discutidos (isso ajuda a diminuir o volume de emails, além de poupar tempo e trabalho de todos). Por exemplo, agora, em 23 de julho de 2008, uma busca pela expressão “portal de periodicos” recupera 18 resultados, entre eles uma discussão intitulada “Pesquisa Etnomusicológica”, encabeçada por uma mensagem do nosso colega Luciano Caroso, com um total de 7 mensagens. Por esse mesmo motivo, é uma boa prática apagar o conteúdo do email ao responde-lo, já que o histórico da lista agrupa todas as mensagens de cada discussão.
+
+
+
+Como é uma lista coletiva e todos recebem as mensagens de todos, evite excessos e, sempre que possível, procure '''não''' mandar emails pessoais através da lista. Isso faz com que '''todas''' as pessoas inscritas recebam tais emails e isso multiplica as mensagens, congestionando as caixas de entrada de todos os usuários. Lembre-se que os e-mails pessoais podem ser conseguidos na página do grupo.
+
+
+
+É recomendado ponderar sobre o conteúdo das mensagens, já que é uma lista de estudantes de um Programa de Pós-Graduação em Música. Por isso é fundamental que o campo "assunto" seja sempre preenchido com o/os tema/s do que a mensagem trata. Evite responder emails e mudar o conteúdo sem alterar o assunto, já que isso faz com que não haja referências diretas ao conteúdo, impedindo que as pessoas não interessadas possam exercer o direito de não ler o que não interessa sem a perda de informações relevantes.
+
+
+
+Em caso de algum assunto externo ao ambiente do pós, mas que o usuário julgue ter importância, use no assunto o prefixo “off-topic”, sinalizando assim que a mensagem possui um conteúdo “fora do assunto”.
+
+
+
+Como se trata de uma lista coletiva, onde todos receberão as mensagens, e é interessante que todos possam compartilhar interesses e opiniões, procure ser objetivo na escrita da mensagem. Evite conteúdos desnecessários que possam deixar a sua idéia incomunicável. Se for encaminhar alguma mensagem, procure inserir algumas palavras no início do email, informando sobre o motivo do encaminhamento (já que não foi você que escreveu a mensagem e mesmo assim você quer compartilha-la).
