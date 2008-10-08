@@ -1,0 +1,10 @@
+# Repositório para documentos do genos
+
+O repositório para documentos do genos está no ar. Ele está disponível
+em http://docs.genos.mus.br e os arquivos podem ser atualizados
+através de ssh, rsync ou sftp. Por exemplo, para enviar um arquivo com
+scp para o diretório `analise-harmonica` é só fazer:
+
+    scp foo.ps genos@genos.mus.br:analise-harmonica
+
+Para saber mais veja a documentação no [handbook](http://genos.mus.br/handbook/node6.html#SECTION03120000000000000000)
