@@ -23,7 +23,6 @@
     usa tags "projeto" e "proxima ação"
     http://www.redmine.org/issues/show/1110
 * abcm2ps (super rapido)
-* divisão tarefas
 * codificações
 * chorale composer
 * formato gabarito funcional (repetições e frases)
@@ -51,6 +50,8 @@
 
 * que modulos redmine para rameau?
   forum, wiki, arquivos
+* divisão tarefas
+* ling de query
 
 ## Reunião geral (03/10/2008)
 
