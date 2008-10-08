@@ -1,66 +1,31 @@
 # Pautas de reuniões
 
-## Pesquisa (01/10/2008)
-
-* objetivos, projetos, tarefas
-
-  objetivos: um resultado geral esperado (e.g. "ficar em forma") que
-             pode ser obtido de diversas maneiras (projetos: "definir
-             um esquema de correr") [as vezes objetivos são "super-projetos"]
-
-  projeto:    algo com começo, meio, e fim
-              com resultado definido
-              com mais de 1 proxima ação (tarefas)
-              para o rameau: apenas projetos simples (não super-projetos)
-
-  tarefa:     algo que pode ser feito em um contexto fisico
-              (e.g. "comprar tenis de corrida")
-
-* redmine: como organizar projetos?
-  - subprojetos
-  - "projeto" tag (ou tag especifica)
-  - como tarefa e "related issue"
-    usa tags "projeto" e "proxima ação"
-    http://www.redmine.org/issues/show/1110
-* abcm2ps (super rapido)
-* codificações
-* chorale composer
-* formato gabarito funcional (repetições e frases)
-* refatoração libs rameau
-
-  lib para documentar codig lisp
-  doc.lisp
-
-  lib para parsear lilypond
-  lily.lisp
-  parser-grammar.lisp
-  parser.lisp
-
-  lib para lidar com musica
-  musiclib.lisp
-
-  lib para exportar funcoes, etc
-  rameau-base.lisp
-
-  re-organizar (ver o que ja existe)
-  tools.lisp
-  utils.lisp
-
-  corpus do genos
-
-* que modulos redmine para rameau?
-  forum, wiki, arquivos
-* divisão tarefas
-* ling de query
-
 ## Reunião geral (03/10/2008)
 
+* icmc report (eu e top)
+* status do genoslab
+* status do material do genos (wiki, handbook, etc)
 * política de empréstimo
  * inventário do que temos e de quem é cada coisa
  * equipamentos que não podem sair
  * compra de material para empréstimo (réguas, cabos de força, etc)
+* acesso à rede wireless
 * acesso às máquinas (pesquisa e cursos)
 * arrumação da sala
  * datashow
  * rack
  * armário (pedido a schwebel)
+ * limpeza
+ * rotina de "logout"
+
+## Pesquisa G2 (03/10/2008)
+
+* status das tarefas
+ * exemplos do kostka
+ * edição lilypond de coral
+ * edição lilypond do quarteto de brahms
+* novas ferramentas
+ * wiki
+ * redmine
+ * git
+* leitura de e-mails (filtros)
