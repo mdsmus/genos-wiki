@@ -3,7 +3,7 @@
 
  * [Apresentação](../encun2008/apresentacao)
  * [Obras Selecionadas](../encun2008/obras)
- * [Edital para inscrição de Oficinas](../encun2008/editaloficinas) ***ENCERRADO***
+ * [Oficinas](../encun2008/oficinas) ***NOVO***
  * [Cursos](../encun2008/cursos)
  * [Comissão Organizadora](../encun2008/comissao)
  * [Dicas de Hospedagem](../encun2008/hospedagem)
