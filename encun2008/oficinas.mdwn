@@ -42,7 +42,7 @@ Universidade Federal da Bahia
 
 Grupo Genos de Pesquisa
 
-#### Breve currículo
+#### Breve currículo do Ministrante
 
 Cristiano Figueiró é compositor e instrumentista, Doutorando em Música – Composição na Universidade Federal da Bahia, sob orientação de Pedro Kroger.  É Bacharel em Violão pela UFSM (2002) e Mestre em Composição e Novas Tecnologias pela UFG (2005). Tem trabalhado com o Pd e Max/MSP há quatro anos elaborando composições e artigos científicos sobre os paradigmas composicionais desses programas. Sua dissertação de mestrado está centrada no desenvolvimento de estratégias composicionais para a composição de peças eletroacústicas mistas envolvendo a interação entre músicos e computador em tempo real.
 
@@ -68,7 +68,7 @@ Carga horária: 3h (três horas)
 
 Máximo 30 participantes
 
-## Criando a cena - o Ibrasotope e a Música Experimental em São Paulo.
+## Criando a cena - o Ibrasotope e a Música Experimental em São Paulo
 
 O Ibrasotope foi inaugurado em dezembro de 2007, e é dirigido por Henrique Iwao & Mário Del Nunzio. Tem como objetivo promover eventos diversos relacionados à música contemporânea/experimental, bem como congregar interessados, com a intenção de estabelecer um pólo fixo de integração entre criadores e interessados em tal produção, e possibilitar sua divulgação. Na oficina serão apresentadas as idéias centrais do projeto, e como elas foram viabilizadas; mostrar-se-á materiais dos eventos realizados (áudio, fotos e vídeos); será também feita uma breve explanação sobre como montar projetos similares em outros locais do país; por fim, será conduzida uma discussão sobre a criação de um circuito de música experimental/contemporânea no Brasil. Para familiarização consultar www.myspace.com/ibrasotope.
 
