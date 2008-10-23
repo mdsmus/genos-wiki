@@ -4,7 +4,7 @@
  * [Apresentação](../encun2008/apresentacao)
  * [Obras Selecionadas](../encun2008/obras)
  * [Oficinas](../encun2008/oficinas) ***NOVO***
- * [Cursos](../encun2008/cursos)
+ * [Cursos](../encun2008/cursos) ***NOVO***
  * [Comissão Organizadora](../encun2008/comissao)
  * [Dicas de Hospedagem](../encun2008/hospedagem)
  * [Links](../encun2008/links)
