@@ -2,6 +2,7 @@
 ## Salvador - 09 a 15 de novembro de 2008
 
  * [Apresentação](../encun2008/apresentacao)
+ * [Programação](../encun2008/programacao)
  * [Obras Selecionadas](../encun2008/obras)
  * [Oficinas](../encun2008/oficinas) ***NOVO***
  * [Cursos](../encun2008/cursos) ***NOVO***
