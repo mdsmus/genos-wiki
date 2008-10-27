@@ -1,0 +1,16 @@
+Depois de 7 meses de trabalho árduo a nova versão do rameau foi lançada com muitas novidades.
+
+Esse release tem diversas novidades:
+
+* o codigo esta mais robusto
+* novos algoritmos para analise funcional
+* novos algoritmos: hmm
+* remove algoritmos obsoletos
+* tradução do codigo e documentação para ingles
+* bibliotecas separadas do rameau
+* melhor esquema para exportar simbolos
+* melhoramento no parser do lilypond (gera lily, usa ast)
+* codigo para musicologia computacional
+* interface web
+* rameau pode ser instalado pelo usuário
+
