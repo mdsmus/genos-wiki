@@ -1,8 +1,32 @@
-# Oficinas Selecionadas para o VI ENCUn
+# Oficinas do VI ENCUn
 
-## Criando a cena - o Ibrasotope e a Música Experimental em São Paulo
+As oficinas ocorrerão duas a duas (nos dias 11 e 13 de novembro, sempre as 15h), concomitantemente (na sala 102 e no Auditório da Escola de Música da UFBa).
 
-O Ibrasotope foi inaugurado em dezembro de 2007, e é dirigido por Henrique Iwao & Mário Del Nunzio. Tem como objetivo promover eventos diversos relacionados à música contemporânea/experimental, bem como congregar interessados, com a intenção de estabelecer um pólo fixo de integração entre criadores e interessados em tal produção, e possibilitar sua divulgação. Na oficina serão apresentadas as idéias centrais do projeto, e como elas foram viabilizadas; mostrar-se-á materiais dos eventos realizados (áudio, fotos e vídeos); será também feita uma breve explanação sobre como montar projetos similares em outros locais do país; por fim, será conduzida uma discussão sobre a criação de um circuito de música experimental/contemporânea no Brasil. Para familiarização consultar www.myspace.com/ibrasotope.
+Inscrições podem ser feitas pelo emais encun2008@gmail.com ou na hora, até que se complete o máximo de 20 participantes em cada sessão.
+
+Veja as informações sobre cada uma delas abaixo:
+
+## Pure Data - Introdução e estratégias composicionais
+
+O Pure Data (Pd) pode ser considerado atualmente como um dos melhores e mais
+poderosos programas para composição de música interativa aliando as possibilidades
+computacionais de síntese sonora e processamento de áudio a um ambiente gráfico de
+programação voltado à interação sonora em tempo-real. Se trata de um programa gráfico
+com interface amigável, multi-plataforma, com o código fonte aberto, e com formato não
+proprietário. Ele é a segunda maior ramificação da família de programas que usam
+linguagem de programação modular, conhecida como Max (Max/MSP, jMax, etc.)
+originalmente desenvolvida por Miller Puckette (IRCAM). O núcleo do Pd é escrito e
+mantido por Miller Puckette e adicionado ao trabalho de muitos outros desenvolvedores.
+Na oficina serão abordados os tópicos:
+
+1. Introdução ao Pd: instalação, configuração e execução, estrutura da linguagem, operações matemáticas básicas e fluxo de dados;
+2. Protocolo MIDI, envelopes e automações, composição algorítmica e conexão com outros programas;
+3. Implementação de técnicas clássicas de síntese sonora: Síntese Aditiva, síntese por modulação: freqüência modulada (FM) e amplitude modulada (AM), sampleamento, filtros e delay;
+4. Encapsulamento e sub-patchs;
+5. Introdução a FFT (Fast Fourier Transform) em Pd, análise de áudio de entrada em
+tempo-real (objeto fiddle~) ;
+6. Conexão do Pd com Arduino - estratégias de instalação sonora;
+7. Composição colaborativa através da internet (NetPd);
 
  * Número de participantes: até 20
 
@@ -14,21 +38,21 @@ O Ibrasotope foi inaugurado em dezembro de 2007, e é dirigido por Henrique Iwao
 
  * Local: Sala 102 Escola de Música da UFBa
 
-### Ministrantes
+### Ministrante
 
-**Mário Del Nunzio**
+**Cristiano Figueiró**
 
-maodn@yahoo.com.br
+Participação de Alexandre Porres
 
-**Henrique Iwao**
+E-mail: figocris@gmail.com
 
-henriqueiwao@gmail.com
+Universidade Federal da Bahia
 
-#### Currículos dos Ministrantes
+Grupo Genos de Pesquisa
 
-Mário Del Nunzio (São Paulo, 1983) estudou guitarra elétrica desde cedo. Graduou-se em composição na UNICAMP. Compõe música instrumental e eletrônica, e toca com grupos de improvisação / música não-escrita. Teve peças tocadas e tocou em diversas cidades no Brasil (São Paulo, Rio de Janeiro, Curitiba, Belo Horizonte, Campinas, etc) e no exterior (Birmingham, Belgrado, Viña Del Mar, Copenhague). Dedica-se à pesquisa de técnicas extendidas na guitarra elétrica, ao uso de eletrônica ao vivo e ao estudo de referencialidade na música contemporânea. Foi um dos idealizadores e organizadores do I ENCUn (Encontro Nacional de Compositores Universitários). É ao lado de Henrique Iwao curador da série de concertos dedicados à música experimental realizados no IBRASOTOPE.
+#### Breve currículo do Ministrante
 
-Henrique Iwao (Botucatu, 1983) toca piano, teclado, laptop e insturmentos eletrônicos manufaturados. Graduou-se em composição na UNICAMP. Atua compondo música eletrônica (para concertos, vídeo ou grupos de dança) e propostas de improvisação estruturada; toca com outros improvisadores e músicos experimentais. Já tocou em eventos tais quais Tsonami 2007, Re:New 2008, Bienal Brasileira de Música Contemporânea 2007, Sonorities Festival 2007, Mostra Sesc de Artes 2008. Pesquisa da falha como recurso composicional, especialmente ligada à música eletrônica experimental (principalmente digital mas não excluindo técnicas como o circuit-bending); também atua pensando artisticamente os impactos da cultura pop na memória coletiva. Foi um dos idealizadores e organizadores do I ENCUn (Encontro Nacional de Compositores Universitários). É ao lado de Mário Del Nunzio curador da série de concertos dedicados à música experimental realizados no IBRASOTOPE.
+Cristiano Figueiró é compositor e instrumentista, Doutorando em Música – Composição na Universidade Federal da Bahia, sob orientação de Pedro Kroger.  É Bacharel em Violão pela UFSM (2002) e Mestre em Composição e Novas Tecnologias pela UFG (2005). Tem trabalhado com o Pd e Max/MSP há quatro anos elaborando composições e artigos científicos sobre os paradigmas composicionais desses programas. Sua dissertação de mestrado está centrada no desenvolvimento de estratégias composicionais para a composição de peças eletroacústicas mistas envolvendo a interação entre músicos e computador em tempo real.
 
 ## Laban para Compositores
 
@@ -58,28 +82,9 @@ Grupo Genos de Pesquisa
 
 Guilherme Bertissolo é compositor e instrumentista, Pós-Graduando em Música – Composição na Universidade Federal da Bahia, sob orientação de Wellington Gomes. Estudou regularmente e realizou cursos com renomados professores do Brasil e do exterior, dentre eles Luciana Prass, Alexandre Birnfeld, Eloy Fritsch, Flávio Oliveira, Antonio C. B. Cunha, Paulo Costa Lima, Ricardo Bordini, Ernst Helmut Flammer e Lynne Rogers. Tem participado regularmente de encontros, seminários e festivais, realizando cursos e publicando artigos, como o Festival de Inverno de Campos do Jordão, no curso de composição de Jocy de Oliveira (2007), o III e V Encontro Nacional de Compositores Universitários (2005 e 2007) e os Seminários Internacionais de Análise PPGMUS UFBa (2008). É integrante do Grupo Genos, da Escola de Música da UFBa, e sob orientação do prof. Pedro Kroger realiza diversas atividades, ministrando cursos e realizando concertos. Em 2008, será lançada a obra Suíte Substancial – Substância Hum, para violino e violão, em Cd financiado pela Fundação Gregório de Mattos, Salvador. Teve obras estreadas em Montenegro, Porto Alegre, Curitiba, São Paulo e Salvador. Sua obra *Um Truco numa Carona* foi premiada no II Concurso de Composição "Ernst Widmer", no II Festival Internacional de Música Contemporânea PPGMUS-UFBA.
 
-## Pure Data - Introdução e estratégias composicionais
+## Criando a cena - o Ibrasotope e a Música Experimental em São Paulo
 
-O Pure Data (Pd) pode ser considerado atualmente como um dos melhores e mais
-poderosos programas para composição de música interativa aliando as possibilidades
-computacionais de síntese sonora e processamento de áudio a um ambiente gráfico de
-programação voltado à interação sonora em tempo-real. Se trata de um programa gráfico
-com interface amigável, multi-plataforma, com o código fonte aberto, e com formato não
-proprietário. Ele é a segunda maior ramificação da família de programas que usam
-linguagem de programação modular, conhecida como Max (Max/MSP, jMax, etc.)
-originalmente desenvolvida por Miller Puckette (IRCAM). O núcleo do Pd é escrito e
-mantido por Miller Puckette e adicionado ao trabalho de muitos outros desenvolvedores.
-Na oficina serão abordados os tópicos:
-
-1. Introdução ao Pd: instalação, configuração e execução, estrutura da linguagem, operações matemáticas básicas e fluxo de dados;
-2. Protocolo MIDI, envelopes e automações, composição algorítmica e conexão com outros programas;
-3. Implementação de técnicas clássicas de síntese sonora: Síntese Aditiva, síntese por modulação: freqüência modulada (FM) e amplitude modulada (AM), sampleamento, filtros e delay;
-4. Encapsulamento e sub-patchs;
-5. Introdução a FFT (Fast Fourier Transform) em Pd, análise de áudio de entrada em
-tempo-real (objeto fiddle~) ;
-6. Conexão do Pd com Arduino - estratégias de instalação sonora;
-7. Composição colaborativa através da internet (NetPd);
-
+O Ibrasotope foi inaugurado em dezembro de 2007, e é dirigido por Henrique Iwao & Mário Del Nunzio. Tem como objetivo promover eventos diversos relacionados à música contemporânea/experimental, bem como congregar interessados, com a intenção de estabelecer um pólo fixo de integração entre criadores e interessados em tal produção, e possibilitar sua divulgação. Na oficina serão apresentadas as idéias centrais do projeto, e como elas foram viabilizadas; mostrar-se-á materiais dos eventos realizados (áudio, fotos e vídeos); será também feita uma breve explanação sobre como montar projetos similares em outros locais do país; por fim, será conduzida uma discussão sobre a criação de um circuito de música experimental/contemporânea no Brasil. Para familiarização consultar www.myspace.com/ibrasotope.
 
  * Número de participantes: até 20
 
@@ -91,21 +96,21 @@ tempo-real (objeto fiddle~) ;
 
  * Local: Sala 102 Escola de Música da UFBa
 
-### Ministrante
+### Ministrantes
 
-**Cristiano Figueiró**
+**Mário Del Nunzio**
 
-Participação de Alexandre Porres
+maodn@yahoo.com.br
 
-E-mail: figocris@gmail.com
+**Henrique Iwao**
 
-Universidade Federal da Bahia
+henriqueiwao@gmail.com
 
-Grupo Genos de Pesquisa
+#### Currículos dos Ministrantes
 
-#### Breve currículo do Ministrante
+Mário Del Nunzio (São Paulo, 1983) estudou guitarra elétrica desde cedo. Graduou-se em composição na UNICAMP. Compõe música instrumental e eletrônica, e toca com grupos de improvisação / música não-escrita. Teve peças tocadas e tocou em diversas cidades no Brasil (São Paulo, Rio de Janeiro, Curitiba, Belo Horizonte, Campinas, etc) e no exterior (Birmingham, Belgrado, Viña Del Mar, Copenhague). Dedica-se à pesquisa de técnicas extendidas na guitarra elétrica, ao uso de eletrônica ao vivo e ao estudo de referencialidade na música contemporânea. Foi um dos idealizadores e organizadores do I ENCUn (Encontro Nacional de Compositores Universitários). É ao lado de Henrique Iwao curador da série de concertos dedicados à música experimental realizados no IBRASOTOPE.
 
-Cristiano Figueiró é compositor e instrumentista, Doutorando em Música – Composição na Universidade Federal da Bahia, sob orientação de Pedro Kroger.  É Bacharel em Violão pela UFSM (2002) e Mestre em Composição e Novas Tecnologias pela UFG (2005). Tem trabalhado com o Pd e Max/MSP há quatro anos elaborando composições e artigos científicos sobre os paradigmas composicionais desses programas. Sua dissertação de mestrado está centrada no desenvolvimento de estratégias composicionais para a composição de peças eletroacústicas mistas envolvendo a interação entre músicos e computador em tempo real.
+Henrique Iwao (Botucatu, 1983) toca piano, teclado, laptop e insturmentos eletrônicos manufaturados. Graduou-se em composição na UNICAMP. Atua compondo música eletrônica (para concertos, vídeo ou grupos de dança) e propostas de improvisação estruturada; toca com outros improvisadores e músicos experimentais. Já tocou em eventos tais quais Tsonami 2007, Re:New 2008, Bienal Brasileira de Música Contemporânea 2007, Sonorities Festival 2007, Mostra Sesc de Artes 2008. Pesquisa da falha como recurso composicional, especialmente ligada à música eletrônica experimental (principalmente digital mas não excluindo técnicas como o circuit-bending); também atua pensando artisticamente os impactos da cultura pop na memória coletiva. Foi um dos idealizadores e organizadores do I ENCUn (Encontro Nacional de Compositores Universitários). É ao lado de Mário Del Nunzio curador da série de concertos dedicados à música experimental realizados no IBRASOTOPE.
 
 ## A obra instrumental de Ivo Malec
 
