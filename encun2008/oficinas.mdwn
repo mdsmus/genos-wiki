@@ -80,6 +80,7 @@ tempo-real (objeto fiddle~) ;
 6. Conexão do Pd com Arduino - estratégias de instalação sonora;
 7. Composição colaborativa através da internet (NetPd);
 
+
  * Número de participantes: até 20
 
  * Carga horária: 3h (três horas)
