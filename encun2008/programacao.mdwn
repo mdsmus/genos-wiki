@@ -1,4 +1,11 @@
 #Programação ENCUn Salvador
 
+Veja a programação do ENCUn Salvador na Agenda do Google.
+
+Selecione a visualização por semana e visualise a semana do evento (09-15 de novembro)
+
+Veja que você pode clicar nos mapas e encontrar informações úteis sobre a cidade.
+
+
 <iframe src="http://www.google.com/calendar/embed?src=encun2008%40gmail.com&ctz=America/Bahia" style="border-width:0" width="600" frameborder="0" height="450"></iframe>
 
