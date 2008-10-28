@@ -1,0 +1,13 @@
+# Tres palestras de Lisp no Latinoware desse ano
+
+A LatinoWare 2008, V Conferência Latino-Americana de Software Livre, que ocorrerá de 30 de outubro a 1o. de novembro em Foz do Iguaçu, PR, contará com três apresentações especificamente sobre Lisp! Serão 3 horas consecutivas sobre parênteses no dia 31/10/2008:
+
+    15h-16h	Usando Common Lisp no Dia-a-dia	Pedro Ribeiro Kroger Junior
+    16h-17h	Chicken - Uma Implementação de Scheme para Aplicações Práticas	Mario Domenech Goulart
+    17h-18h	CL-Weblocks - Programando Aplicações Web com Blocos	Vilson Vieira da Silva Junior
+
+
+A programação completa do evento está em <http://lapsi.latinoware.org/index.php?page=grade.GradeEvento&id=1>
+
+(texto retirado de <http://call-with-hopeless-continuation.blogspot.com/2008/10/lisp-na-latinoware-2008.html>
+
