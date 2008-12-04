@@ -1,5 +1,9 @@
 # Pautas de reuniões
 
+## Reunião pesquisa
+
+* status dos tickets (melhorar nomes)
+
 ## Reunião geral (03/10/2008)
 
 * icmc report (eu e top)

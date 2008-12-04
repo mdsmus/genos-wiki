@@ -1,6 +1,6 @@
 # Notícias do genos
 
-[[!inline pages=noticias/* and !*/Discussion" show="10"
+[[!inline pages="noticias/* and !*/Discussion" show="10"
 rootpage="noticias"]]
 
 Ver [notícias antigas](../noticias-antigas).
