@@ -15,6 +15,16 @@
 * BNF para abc
   <http://www.norbeck.nu/abc/abcbnf.htm>
 
+# Conferências 2009
+
+* 30/01 [ICMC](http://www.icmc2009.org) Montreal, Canada 16–21 August
+* 15/02 [CIM](http://cim09.lam.jussieu.fr/CIM09/Welcome.html) (abstract) Paris/France 26-29 October
+* 08/05 [ISMIR](http://ismir2009.ismir.net/) Japao October 26-30
+* 15/07 CIM (full paper)
+* 15/07 [Journal of Mathematics and Music](http://www.tandf.co.uk/journals/titles/17459737.asp)
+* ????? SBCM <http://gsd.ime.usp.br/sbcm/>
+* ????? MML <http://www.iua.upf.es/~rramirez/MML08/>
+
 # Links
 
 * [materiais do temperley](http://www.theory.esm.rochester.edu/temperley/music-prob/materials.html)
