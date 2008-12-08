@@ -17,6 +17,7 @@
 
 # Conferências 2009
 
+* 15/01 [SMT](http://www.societymusictheory.org) Montreal, Canada 28/10-2/11
 * 30/01 [ICMC](http://www.icmc2009.org) Montreal, Canada 16–21 August
 * 15/02 [CIM](http://cim09.lam.jussieu.fr/CIM09/Welcome.html) (abstract) Paris/France 26-29 October
 * 08/05 [ISMIR](http://ismir2009.ismir.net/) Japao October 26-30
