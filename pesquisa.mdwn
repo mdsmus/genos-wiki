@@ -6,6 +6,8 @@
 
 # Abc
 
+* Especificação ABC
+  <http://abc.sourceforge.net/standard/abc2-draft.html>
 * How do I put words (lyrics) in my abc files? 
   <http://trillian.mit.edu/~jc/music/abc/ABC-FAQ.html>
 * exemplo com lyrics
