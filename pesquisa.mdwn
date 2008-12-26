@@ -20,13 +20,45 @@
 # Conferências 2009
 
 * 15/01 [SMT](http://www.societymusictheory.org) Montreal, Canada 28/10-2/11
+
+  3p espaço duplo + 3 suplementos. 7 cópias por correio. não latex.
+  * artigo contortos (disilva)
+
 * 30/01 [MCM](http://www.mcm2009.info) June 19-22 Yale University
+
+  3000 palavras
+  * artigo codificações (math) (kroger)
+
 * 30/01 [ICMC](http://www.icmc2009.org) Montreal, Canada 16–21 August
-* 15/02 [CIM](http://cim09.lam.jussieu.fr/CIM09/Welcome.html) (abstract) Paris/France 26-29 October
+
+  short paper, poster, demo: 4 páginas, long paper 8 paginas
+  * artigo functional analysis (top)
+  * artigo lcsound (kroger)
+  * ?artigo codificações (computação) (kroger)
+  * artigo goiaba (disilva)
+  * artigo status rameau (??)
+
+* 15/02 [CIM](http://cim09.lam.jussieu.fr/CIM09/Welcome.html)
+  (abstract) Paris/France 26-29 October
+
+  "deve ter ao menos 2 autores que representem musica e ciencia", 1000
+  palavras em doc ou rtf (argh!). não latex.
+  * ?artigo rameau como framework para musicologia computacional (??)
+  * artigo musicologia corais de bach (versao 2.0) (??)
+  * artigo musicologia em ??? (??)
+
+* 17/04 [SMC](http://smc2009.smcnetwork.org/) July 23-25 Portugal
+
+  papers: 4-6 paginas, poster: 2 paginas
+
 * 08/05 [ISMIR](http://ismir2009.ismir.net/) Japao October 26-30
+
 * 15/07 CIM (full paper)
+
 * 15/07 [Journal of Mathematics and Music](http://www.tandf.co.uk/journals/titles/17459737.asp)
+
 * ????? SBCM <http://gsd.ime.usp.br/sbcm/>
+
 * ????? MML <http://www.iua.upf.es/~rramirez/MML08/>
 
 # Links
