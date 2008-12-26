@@ -38,6 +38,8 @@
   * artigo goiaba (disilva)
   * artigo status rameau (??)
 
+* 02/02 [ISR](www.isr-journal.org) (abstract)
+
 * 15/02 [CIM](http://cim09.lam.jussieu.fr/CIM09/Welcome.html)
   (abstract) Paris/France 26-29 October
 
@@ -52,6 +54,9 @@
   papers: 4-6 paginas, poster: 2 paginas
 
 * 08/05 [ISMIR](http://ismir2009.ismir.net/) Japao October 26-30
+
+* 29/06 [ISR](www.isr-journal.org) (full paper) Interdisciplinary
+Science Reviews, Special issue Music and the Sciences
 
 * 15/07 CIM (full paper)
 
