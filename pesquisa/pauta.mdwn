@@ -1,5 +1,10 @@
 # Pautas de reuniões
 
+## Reunião pesquisa (05/01/2008)
+
+* temporada de artigos: divisão de tarefas
+* futuro do rameau: re-escrita
+
 ## Reunião pesquisa
 
 * status dos tickets (melhorar nomes)
