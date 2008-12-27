@@ -3,7 +3,16 @@
 ## Reunião pesquisa (05/01/2008)
 
 * temporada de artigos: divisão de tarefas
-* futuro do rameau: re-escrita
+* futuro do rameau: (inicio de fevereiro)
+  * cl-lily: novo parser, remove regex, parseia kern|musedata|abc
+  * cl-music: nova versao "do zero", implementa varias codificações,
+    ve o que os algoritmos precisam e abstrai
+  * cl-fann: nova versao, usa swig, limpa coisas
+  * rameau: (next generation)
+    * limpa coisas em bibliotecas (e.g. command-line)
+    * gui
+    * re-escrita "do zero"
+    * melhor maneira para gerar musica (lily|abc) (coloca em biblioteca)
 
 ## Reunião pesquisa
 
