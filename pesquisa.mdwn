@@ -38,7 +38,11 @@
   * artigo goiaba (disilva)
   * artigo status rameau (??)
 
-* 02/02 [ISR](www.isr-journal.org) (abstract)
+* 02/02 [ISR](http://www.isr-journal.org/cfp/musicology.html) (abstract)
+
+  artigo interdiciplinar de computação e musicologia "how our
+  understanding of music is enriched by one or more particular
+  disciplines"
 
 * 15/02 [CIM](http://cim09.lam.jussieu.fr/CIM09/Welcome.html)
   (abstract) Paris/France 26-29 October
