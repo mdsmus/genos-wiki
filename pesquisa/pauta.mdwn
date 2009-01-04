@@ -3,6 +3,8 @@
 ## Reunião pesquisa (05/01/2008)
 
 * temporada de artigos: divisão de tarefas
+* status brahms (rameau nao parseia)
+* status corpus kostka (rameau nao parseia)
 * futuro do rameau: ver bugs.org
 
 ## Reunião pesquisa
