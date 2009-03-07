@@ -15,72 +15,76 @@
 
 * Cursos 2009
 
-  - Introdução Eletroacústica
+  Introdução Eletroacústica
 
-    Ministrante: Cristiano Figueiró
+  Ministrante: Cristiano Figueiró
 
-    Duração: 10h
+  Duração: 10h
 
-    Período: 30/03 à 03/04
+  Período: 30/03 à 03/04
 
-  - Introdução ao Linux
 
-    Ministrante: Givaldo de cidra
+  Introdução ao Linux
 
-    Monitor: Marcos Di Silva
+  Ministrante: Givaldo de cidra
 
-    Duração: 10h
+  Monitor: Marcos Di Silva
 
-    Período: 30/03 à 03/04
+  Duração: 10h
 
-  - Lilypond
+  Período: 30/03 à 03/04
 
-    Ministrante: Marcos Di Silva
 
-    Monitor: Givaldo de cidra
+  Lilypond
 
-    Duração: 10h
+  Ministrante: Marcos Di Silva
 
-    Período: 13 à 17/04
+  Monitor: Givaldo de cidra
 
-  - Composição Eletroacústica
+  Duração: 10h
 
-    Ministrante: Guilherme Bestissolo
+  Período: 13 à 17/04
 
-    Monitor: Natanael Ourives
 
-    Duração: 10h
+  Composição Eletroacústica
 
-    Período: 18 à 29/05
+  Ministrante: Guilherme Bestissolo
+
+  Monitor: Natanael Ourives
+
+  Duração: 10h
+
+  Período: 18 à 29/05
 
 Obs. Os monitores deverão vefiricar se todo equipamento necessário
-para o curso está funcionando na semana anterior ao início do curso.
+para o curso está funcionando na semana anterior ao início do 
+curso.
 
-   - Semanas em aberto
+* Semanas em aberto para novos cursos
 
-     Março
+  Março
 
-     16-20
+  16-20
 
-     23-27
+  23-27
 
-     Maio
+  Maio
 
-     04-08
+  04-08
 
-     11-15
-     
-     Junho
+  11-15
+  
+  Junho
 
-     01-05
+  01-05
 
-     15-19
+  15-19
 
 * Consertos de música instrumental e eletroacústica Guilherme
   Bestissolo e Cristiano Figueiró irão promover consertos toda última
   quinta-feira do mês. (Guilherme irá postar a chamada par ao evento)
 
-  - Datas dos consertos
+  Datas dos consertos
 
   26/03
 
@@ -101,31 +105,31 @@ para o curso está funcionando na semana anterior ao início do curso.
 
   3 - das 13h às 17h
 
-  - Segunda
+  -- Segunda
 
   Manhã: Givaldo (Caixas)
 
   Tarde: -
 
-  - Terça
+  -- Terça
 
   Manhã: -
 
   Tarde: Guilherme (metade do tempo)
 
-  - Quarta
+  -- Quarta
 
   Manhã: PPGMUS - Jamary Oliveira
 
   Tarde: -
 
-  - Quinta
+  -- Quinta
 
   Manhã: -
 
   Tarde: Guilherme (metade do tempo)
 
-  - Sexta
+  -- Sexta
 
   Manhã: Marcos Di Silva (Reservado) / Givaldo de Cidra (Caixas)
 
