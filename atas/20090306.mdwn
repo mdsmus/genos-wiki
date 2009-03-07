@@ -1,0 +1,100 @@
+# Ata da reunião de 06 de Março 2009
+
+* Período
+  08:15h às 09:05h
+
+* Participantes
+  Marcos Di Silva, Givaldo de Cidra e Guilherme Bestissolo
+
+* Política de Empréstimo
+
+  O empréstimo de equipamento/livro poderá ser realizado somente pelos
+  cinco integrantes portadores da chave do genos;
+  
+  Para realizar um empréstimo, o solicitante deverá registrar no wiki
+  a data e hora que irá pegar e devolver o equipamento/livro. Ex:
+  13/03 das 08h às 12h - Givaldo: 2 microfones
+
+* Cursos 2009
+
+  - Introdução Eletroacústica
+    Ministrante: Cristiano Figueiró
+    Duração: 10h
+    Período: 30/03 à 03/04
+
+  - Introdução ao Linux
+    Ministrante: Givaldo de cidra
+    Monitor: Marcos Di Silva
+    Duração: 10h
+    Período: 30/03 à 03/04
+
+  - Lilypond
+    Ministrante: Marcos Di Silva
+    Monitor: Givaldo de cidra
+    Duração: 10h
+    Período: 13 à 17/04
+
+  - Composição Eletroacústica
+    Ministrante: Guilherme Bestissolo
+    Monitor: Natanael Ourives
+    Duração: 10h
+    Período: 18 à 29/05
+
+Obs. Os monitores deverão vefiricar se todo equipamento necessário
+para o curso está funcionando na semana anterior ao início do curso.
+
+   - Semanas em aberto
+     Março
+     16-20
+     23-27
+
+     Maio
+     04-08
+     11-15
+     
+     Junho
+     01-05
+     15-19
+
+* Consertos de música instrumental e eletroacústica Guilherme
+  Bestissolo e Cristiano Figueiró irão promover consertos toda última
+  quinta-feira do mês. (Guilherme irá postar a chamada par ao evento)
+
+  - Datas dos consertos
+  26/03
+  30/04
+  28/05
+  18/06
+
+* Novos horários de utilização do Genos
+
+  Os horários foram divididos em três partes e serão mantidos os tipos
+  de utilização da sala. (Headphone, Caixas, Reservado)
+
+  1 - das 08h às 12h 
+  2 - das 12h às 13h (horário de trânsito livre para todos)
+  3 - das 13h às 17h
+
+  - Segunda
+  Manhã: Givaldo (Caixas)
+  Tarde: -
+
+  - Terça
+  Manhã: -
+  Tarde: Guilherme (metade do tempo)
+
+  - Quarta
+  Manhã: PPGMUS - Jamary Oliveira
+  Tarde: -
+
+  - Quinta
+  Manhã: -
+  Tarde: Guilherme (metade do tempo)
+
+  - Sexta
+  Manhã: Marcos Di Silva (Reservado) / Givaldo de Cidra (Caixas)
+  Tarde: Guilherme (Reservado)
+
+* Equipamento com defeitos
+  
+  Patchbay 3 está com problemas. É necessário fazer revisão.
