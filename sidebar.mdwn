@@ -2,6 +2,7 @@
 * [[pesquisa]]
 * [[agenda]]
 * [[eventos]]
+* [[operacional]]
 * [[pessoas]]
 * [[atas]]
 * [handbook](http://genos.mus.br/handbook/)
