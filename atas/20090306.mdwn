@@ -1,6 +1,6 @@
 # Ata da reunião de 06 de Março 2009
 
-* Período: 08:15h às 09:05h
+* Início: 08:15h
 
 * Participantes: Marcos Di Silva, Givaldo de Cidra e Guilherme Bestissolo
 
@@ -138,3 +138,5 @@ curso.
 * Equipamento com defeitos
   
   Patchbay 3 está com problemas. É necessário fazer revisão.
+
+* Final: 09:05h
