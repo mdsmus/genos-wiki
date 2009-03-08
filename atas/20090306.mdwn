@@ -87,7 +87,7 @@ Junho:|01-05 e 15-19
 
 [[!table  data="""
 Turno|Segunda|Terça|Quarta|Quinta|Sexta
-Manhã:|Givaldo(Caixas)| - |PPGMUS - Jamary Oliveira| - |Marcos Di Silva (Reservado) / Givaldo de Cidra (Caixas)
+Manhã:|Givaldo(Caixas)| - |Jamary Oliveira| - |Marcos Di Silva (Reservado) / Givaldo de Cidra (Caixas)
 Tarde:| - |Guilherme (metade do tempo)| - |Guilherme (metade do tempo)|Guilherme (Reservado)
 """]]
 
