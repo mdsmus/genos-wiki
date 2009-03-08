@@ -17,33 +17,33 @@
 
 [[!table  data="""
 Música Eletroacústica||
-Ministrante|Cristiano Figueiró
-Duração|10h
-Período|09 à 20/03
+Ministrante:|Cristiano Figueiró
+Duração:|10h
+Período:|09 à 20/03
 """]]
 
 [[!table  data="""
 Introdução ao Linux||
-Ministrante|Givaldo de Cidra
-Monitor|Marcos Di Silva
-Duração|10h
-Período|30/03 à 03/04
+Ministrante:|Givaldo de Cidra
+Monitor:|Marcos Di Silva
+Duração:|10h
+Período:|30/03 à 03/04
 """]]
 
 [[!table  data="""
 Lilypond||
-Ministrante|Marcos Di Silva
-Munitor|Givaldo de Cidra
-Duração|10h
-Período|13 à 17/04
+Ministrante:|Marcos Di Silva
+Monitor:|Givaldo de Cidra
+Duração:|10h
+Período:|13 à 17/04
 """]]
 
 [[!table  data="""
 Composição Eletroacústica||
-Ministrante|Guilherme Bestissolo
-Munitor|Natanael Ourives
-Duração|10h
-Período|18 à 29/05
+Ministrante:|Guilherme Bestissolo
+Monitor:|Natanael Ourives
+Duração:|10h
+Período:|18 à 29/05
 """]]
 
 Obs. Os monitores deverão vefiricar se todo equipamento necessário
@@ -52,23 +52,12 @@ curso.
 
 * Semanas em aberto para novos cursos
 
-  Março
-
-  16-20
-
-  23-27
-
-  Maio
-
-  04-08
-
-  11-15
-  
-  Junho
-
-  01-05
-
-  15-19
+[[!table  data="""
+Mês|Datas
+Março:|16-20 e 23-27
+Maio:|04-08 e 11-15
+Junho:|01-05 e 15-19
+"""]]
 
 * Concertos de música instrumental e eletroacústica Guilherme
   Bestissolo e Cristiano Figueiró irão promover concertos toda última
@@ -95,35 +84,13 @@ curso.
 
   3 - das 13h às 17h
 
-  -- Segunda
 
-  Manhã: Givaldo (Caixas)
+[[!table  data="""
+Turno|Segunda|Terça|Quarta|Quinta|Sexta
+Manhã:|Givaldo(Caixas)| - |PPGMUS - Jamary Oliveira| - |Marcos Di Silva (Reservado) / Givaldo de Cidra (Caixas)
+Tarde:| - |Guilherme (metade do tempo)| - |Guilherme (metade do tempo)|Guilherme (Reservado)
+"""]]
 
-  Tarde: -
-
-  -- Terça
-
-  Manhã: -
-
-  Tarde: Guilherme (metade do tempo)
-
-  -- Quarta
-
-  Manhã: PPGMUS - Jamary Oliveira
-
-  Tarde: -
-
-  -- Quinta
-
-  Manhã: -
-
-  Tarde: Guilherme (metade do tempo)
-
-  -- Sexta
-
-  Manhã: Marcos Di Silva (Reservado) / Givaldo de Cidra (Caixas)
-
-  Tarde: Guilherme (Reservado)
 
 * Equipamento com defeitos
   
