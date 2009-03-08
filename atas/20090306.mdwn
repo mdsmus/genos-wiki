@@ -16,14 +16,14 @@
 * Cursos 2009
 
 [[!table  data="""
-Curso|Música Eletroacústica
+Música Eletroacústica||
 Ministrante|Cristiano Figueiró
 Duração|10h
 Período|09 à 20/03
 """]]
 
 [[!table  data="""
-Curso|Introdução ao Linux
+Introdução ao Linux||
 Ministrante|Givaldo de Cidra
 Monitor|Marcos Di Silva
 Duração|10h
@@ -31,7 +31,7 @@ Período|30/03 à 03/04
 """]]
 
 [[!table  data="""
-Curso|Lilypond
+Lilypond||
 Ministrante|Marcos Di Silva
 Munitor|Givaldo de Cidra
 Duração|10h
@@ -39,7 +39,7 @@ Período|13 à 17/04
 """]]
 
 [[!table  data="""
-Curso|Composição Eletroacústica
+Composição Eletroacústica||
 Ministrante|Guilherme Bestissolo
 Munitor|Natanael Ourives
 Duração|10h
