@@ -15,46 +15,36 @@
 
 * Cursos 2009
 
-  Introdução Eletroacústica
+[[!table  data="""
+Curso|Música Eletroacústica
+Ministrante|Cristiano Figueiró
+Duração|10h
+Período|09 à 20/03
+"""]]
 
-  Ministrante: Cristiano Figueiró
+[[!table  data="""
+Curso|Introdução ao Linux
+Ministrante|Givaldo de Cidra
+Monitor|Marcos Di Silva
+Duração|10h
+Período|30/03 à 03/04
+"""]]
 
-  Duração: 10h
+[[!table  data="""
+Curso|Lilypond
+Ministrante|Marcos Di Silva
+Munitor|Givaldo de Cidra
+Duração|10h
+Período|13 à 17/04
+"""]]
 
-  Período: 30/03 à 03/04
-
-
-  Introdução ao Linux
-
-  Ministrante: Givaldo de cidra
-
-  Monitor: Marcos Di Silva
-
-  Duração: 10h
-
-  Período: 30/03 à 03/04
-
-
-  Lilypond
-
-  Ministrante: Marcos Di Silva
-
-  Monitor: Givaldo de cidra
-
-  Duração: 10h
-
-  Período: 13 à 17/04
-
-
-  Composição Eletroacústica
-
-  Ministrante: Guilherme Bestissolo
-
-  Monitor: Natanael Ourives
-
-  Duração: 10h
-
-  Período: 18 à 29/05
+[[!table  data="""
+Curso|Composição Eletroacústica
+Ministrante|Guilherme Bestissolo
+Munitor|Natanael Ourives
+Duração|10h
+Período|18 à 29/05
+"""]]
 
 Obs. Os monitores deverão vefiricar se todo equipamento necessário
 para o curso está funcionando na semana anterior ao início do 
