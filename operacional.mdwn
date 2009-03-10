@@ -5,7 +5,7 @@
 [[!table  data="""
 Turno|Segunda|Terça|Quarta|Quinta|Sexta
 Manhã:|Givaldo(Caixas)| - |Jamary Oliveira| - |Marcos Di Silva (Reservado) / Givaldo de Cidra (Caixas)
-Tarde:| - |Guilherme (metade do tempo)|Guilherme|Guilherme (metade do tempo)|Guilherme (Reservado)
+Tarde:| - |Guilherme (Reservado)|Guilherme(Reservado)|Guilherme (metade do tempo)|
 """]]
 
 
