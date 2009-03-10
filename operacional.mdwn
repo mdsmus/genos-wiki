@@ -1,5 +1,14 @@
 # Operacional do Genos
 
+## Quadro de Horários de utilização do GenosLab
+
+[[!table  data="""
+Turno|Segunda|Terça|Quarta|Quinta|Sexta
+Manhã:|Givaldo(Caixas)| - |Jamary Oliveira| - |Marcos Di Silva (Reservado) / Givaldo de Cidra (Caixas)
+Tarde:| - |Guilherme (metade do tempo)|Guilherme|Guilherme (metade do tempo)|Guilherme (Reservado)
+"""]]
+
+
 ## Empréstimo de Equipamento
 
 * Data - hora - quem - o que
