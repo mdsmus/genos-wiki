@@ -16,6 +16,8 @@
   <http://www.walshaw.plus.com/abc/abc2mtex/abc.txt>
 * BNF para abc
   <http://www.norbeck.nu/abc/abcbnf.htm>
+* C++ library for musical information (Craig)
+  <http://museinfo.sapp.org/>
 
 # Conferências 2009
 
