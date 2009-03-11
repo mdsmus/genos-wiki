@@ -1,0 +1,17 @@
+# Ata da reunião de 10 de Março 2009
+
+* Início: 20:30
+
+* Participantes: Pedro Kröger e Marcos Di Silva
+
+* Decisões para correção de corais
+
+  * push semanal dos corais corrigidos
+  * manutenção de numeração da Riemenschneider
+  * reinício da correção
+  * novo cálculo da quantidade semanal de corais (5 ou 6 meses)
+
+* Uso do kern/humdrum no lugar de lilypond
+  * manutenção dos corais em lilypond
+  * utilização das partituras de http://kern.humdrum.org/
+  * possível criação de lily2kern para coisas bem simples
