@@ -11,5 +11,10 @@
   * O uso restrito deverá ser comunicado/negociado com a maior
     antecedência possível na lista de usuários e na agenda do Genos.
 
+* Decisão para equipamentos
+
+  * Os equipamentos a serem usados (microfones, cabos, etc) também devem
+  ser comunicados na lista e inseridos na agenda.
+
 
 * Término 12:25h
