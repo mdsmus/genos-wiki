@@ -17,3 +17,4 @@
 * [15] http://www.kennedy-center.org/calendar/index.cfm?fuseaction=showevent&event=wnorc
        http://operatattler.typepad.com/opera/der_ring_des_nibelungen/
 * [16] http://freescienceonline.blogspot.com/2009/01/calculus-video-lectures-bonus-basic.html
+* [17] http://www.wadler.org/Biking/learntoride.php
