@@ -2,8 +2,8 @@
 
 O grupo de pesquisa Genos vem oferecendo cursos de extensão
 relacionados a Computação Musical desde 2007. Até 2008.2 já oferecemos
-cursos de Csound, PureData, composição eletroacústica, Lilypond,
-Linux, Ferramentas computacionais, LaTeX, áudio básico, recursos
+cursos de Csound, Pure Data, composição eletroacústica, Lilypond,
+Linux, ferramentas computacionais, Latex, áudio básico, recursos
 musicais utilizando softwares livres, somando um total de 13 cursos.
 
 ## 2009.1
