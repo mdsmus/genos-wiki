@@ -60,12 +60,11 @@ aptos a fazerem pequenas edições musicais. Este curso, dirigido a
 alunos e ex-alunos da Escola de Música da UFBA, oferece treinamento em
 um tipo de ferramenta muito útil aos músicos, porém ainda não
 oferecido como disciplina por esta instituição. O curso terá 5 aulas
-de 2 horas e será oferecido em formato intensivo durante uma
-semana. Marcos di Silva, ministrante do curso, tem uma experiência de
-três anos com o Lilypond e de sete anos com programas de notação
-musical em geral (Finale). O uso que faz do Lilypond se dá tanto na
-edição de suas peças quanto na pesquisa em música realizada junto ao
-grupo de pesquisa Genos.
+de 2 horas e será oferecido em formato intensivo durante uma semana. O
+ministrante do curso tem uma experiência de três anos com o Lilypond e
+de sete anos com programas de notação musical em geral (Finale). O uso
+que faz do Lilypond se dá tanto na edição de suas peças quanto na
+pesquisa em música realizada junto ao grupo de pesquisa Genos.
 
 #### Composição eletroacústica
 
