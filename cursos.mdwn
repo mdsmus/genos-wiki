@@ -1,0 +1,25 @@
+# Cursos oferecidos
+
+O grupo de pesquisa Genos vem oferecendo cursos de extensão
+relacionados a Computação Musical desde 2007. Até 2008.2 já oferecemos
+cursos de Csound, PureData, composição eletroacústica, Lilypond,
+Linux, Ferramentas computacionais, LaTeX, áudio básico, recursos
+musicais utilizando softwares livres, somando um total de 13 cursos.
+
+## 2009.1
+
+Em 2009.1 o grupo de pesquisa Genos oferece os cursos
+
+* Linux introdutório ([Givaldo de Cidra](http://wiki.genos.mus.br/pessoas/GivaldoDeCidra/)), 30/3 a 3/4
+* Lilypond introdutório ([Marcos di Silva](http://wiki.genos.mus.br/pessoas/MarcosDiSilva/)), 13 a 17/4
+* Composição Eletroacústica ([Guilherme Bertissolo](http://wiki.genos.mus.br/pessoas/GuilhermeBertissolo/)), 18 a 29/5 (20
+* horas)
+
+Estes cursos têm um formato intensivo, de 2 horas diárias durante uma
+semana (exceto Composição Eletroacústica), ocorrem no laboratório do
+Genos (GenosLab), e dão direito a um certificado emitido pela
+Pró-reitoria de extensão da UFBA.
+
+As inscrições devem ser feitas através de e-mail para os ministrantes
+dos cursos informando nome completo, breve currículo e conhecimento
+prévio sobre o conteúdo do curso.
