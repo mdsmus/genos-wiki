@@ -12,8 +12,7 @@ Em 2009.1 o grupo de pesquisa Genos oferece os cursos
 
 * Linux introdutório ([Givaldo de Cidra](http://wiki.genos.mus.br/pessoas/GivaldoDeCidra/)), 30/3 a 3/4
 * Lilypond introdutório ([Marcos di Silva](http://wiki.genos.mus.br/pessoas/MarcosDiSilva/)), 13 a 17/4
-* Composição Eletroacústica ([Guilherme Bertissolo](http://wiki.genos.mus.br/pessoas/GuilhermeBertissolo/)), 18 a 29/5 (20
-* horas)
+* Composição Eletroacústica ([Guilherme Bertissolo](http://wiki.genos.mus.br/pessoas/GuilhermeBertissolo/)), 18 a 29/5 (20 horas)
 
 Estes cursos têm um formato intensivo, de 2 horas diárias durante uma
 semana (exceto Composição Eletroacústica), ocorrem no laboratório do
