@@ -1,17 +1,18 @@
 # Marcos di Silva
 
-Marcos di Silva é aluno do mestrado em Composição do Programa de
-Pós-Graduação da Escola de Música da UFBA, orientado por Pedro Kröger.
-É professor substituto de Literatura e Estruturação Musical, Percepção
-e Composição na mesma escola e, desde 2005, trabalha no grupo de
-pesquisa [Genos](http://wiki.genos.mus.br) em estudos relacionados a
-Representação Musical, Music Information Retrieval, Análise automática
-de harmonia e Composição a partir de operações com contornos
-melódicos. Tem interesse em software livre como suporte para a
-composição musical.
+Marcos di Silva é mestre em Composição pelo Programa de Pós-Graduação
+da Escola de Música da UFBA e aluno do doutorado em Composição na
+mesma instituição, sob orientação do Prof. Dr. Pedro Kröger. É
+coordenador do laboratório do grupo de pesquisa
+[Genos](http://wiki.genos.mus.br), do qual participa desde
+2005. Marcos faz parte do time de desenvolvimento do
+[Rameau](http://genos.mus.br/rameau/) e
+[Goiaba](http://genos.mus.br/goiaba/). Tem interesse em Teorias de
+contornos musicais, Análise automática de harmonia, e software livre
+como suporte para a análise e composição musical.
 
 ## Links
 
 * Website pessoal: <http://www.marcosdisilva.net/>
-* E-mail: mdsmus [em] gmail.com
+* E-mail: mdsmus@gmail.com
 * [Currículo na plataforma Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4770122P6)
