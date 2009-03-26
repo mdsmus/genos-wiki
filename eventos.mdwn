@@ -1,21 +1,18 @@
 # Eventos do Genos
 
-## segundo semestre
+## Cursos de extensão 2009.1
 
- * 18-22 agosto: CursoLinux
- * 29 agosto a 27 setembro (sextas): CursoLilypond (horário a confirmar)
- * 25-29 agosto: [ composição eletroacústica CursoComposicao ]
- * 8-12 setembro: pd
+Os cursos de extensão estão detalhados em [[cursos]].
 
-# Membros do Genos nos Fóruns PPGMUS
+## Membros do Genos nos Fóruns PPGMUS
 
  * 3 Outubro: Marcos di Silva e Guilherme Bertissolo
  * 10 Outubro: Guilherme Bertissolo
 
-# Defesas de membros do Genos
+## Defesas de membros do Genos
 
  * 1 Dezembro: Marcos di Silva
 
-# Eventos Antigos
+## Eventos Antigos
 
 Os eventos antigos estão arquivados em [[/historico]].
