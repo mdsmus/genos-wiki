@@ -7,12 +7,12 @@ coordenador do laboratório do grupo de pesquisa
 [Genos](http://wiki.genos.mus.br), do qual participa desde
 2005. Marcos faz parte do time de desenvolvimento do
 [Rameau](http://genos.mus.br/rameau/) e
-[Goiaba](http://genos.mus.br/goiaba/). Tem interesse em Teorias de
-contornos musicais, Análise automática de harmonia, e software livre
+[Goiaba](http://genos.mus.br/goiaba/). Tem interesse em teorias de
+contornos musicais, análise automática de harmonia, e software livre
 como suporte para a análise e composição musical.
 
 ## Links
 
 * Website pessoal: <http://www.marcosdisilva.net/>
-* E-mail: mdsmus@gmail.com
+* E-mail: <mdsmus@gmail.com>
 * [Currículo na plataforma Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.jsp?id=K4770122P6)
