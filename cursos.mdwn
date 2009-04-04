@@ -2,17 +2,17 @@
 
 O grupo de pesquisa Genos vem oferecendo cursos de extensão
 relacionados a Computação Musical desde 2007. Até 2008.2 já oferecemos
-cursos de Csound, Pure Data, composição eletroacústica, Lilypond,
-Linux, ferramentas computacionais, Latex, áudio básico, recursos
-musicais utilizando softwares livres, somando um total de 13 cursos.
+cursos de Csound, Pure Data, Composição Eletroacústica, Lilypond,
+Linux, Ferramentas Computacionais, Latex, Áudio Básico, Recursos
+Musicais Utilizando Softwares Livres, somando um total de 13 cursos.
 
 ## 2009.1
 
 Em 2009.1 o grupo de pesquisa Genos oferece os cursos
 
-* Linux introdutório ([Givaldo de Cidra](http://wiki.genos.mus.br/pessoas/GivaldoDeCidra/)), 30/3 a 3/4
-* Lilypond introdutório ([Marcos di Silva](http://wiki.genos.mus.br/pessoas/MarcosDiSilva/)), 13 a 17/4
-* Composição Eletroacústica ([Guilherme Bertissolo](http://wiki.genos.mus.br/pessoas/GuilhermeBertissolo/)), 18 a 29/5 (20 horas)
+ * Linux introdutório ([Givaldo de Cidra](http://wiki.genos.mus.br/pessoas/GivaldoDeCidra/)), 30/3 a 3/4 (17-19hs)
+ * Lilypond introdutório ([Marcos di Silva](http://wiki.genos.mus.br/pessoas/MarcosDiSilva/)), 13 a 17/4 (17-19hs)
+ * Composição Eletroacústica ([Guilherme Bertissolo](http://wiki.genos.mus.br/pessoas/GuilhermeBertissolo/)), 08, 10, 12, 15, 17 e 18 de junho (17-19hs e horários individuais de estudo a combinar, num total de 20hs)
 
 Estes cursos têm um formato intensivo, de 2 horas diárias durante uma
 semana (exceto Composição Eletroacústica), ocorrem no laboratório do
@@ -76,3 +76,4 @@ sobre a prática da composição em estúdio utilizando recursos
 tecnológicos para sua produção. O curso é dirigido para estudantes dos
 cursos de Graduação e Pós-Graduação da Escola de Música da UFBa, como
 atividade de Extensão Universitária.
+
