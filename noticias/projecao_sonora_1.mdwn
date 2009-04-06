@@ -9,15 +9,26 @@ Dados da apresentação:
 * Horário: 18 horas
 * Local: GenosLab (laboratório do grupo de pesquisa Genos)
 
-Obras de:
+## Compositores
 
-* Alexandre Espinheira
-* Cristiano Figueiró
-* Guilherme Bertissolo
-* Paulo Rios Filho
-* Pedro Lyra
+**Alexandre Espinheira** graduou-se em composição pela Universidade Federal da Bahia em 2000. Estudou composição com Wellington Gomes,Ricardo Bordini, Joseph Sekon e Agnaldo Ribeiro. Durante esse tempo, participou de diversos concursos de composição dos quais foi finalista em todos. Ganhou uma menção Honrosa no II Concurso de Composição Camargo Guarnieri em 1998 com a peça Mitch van Bonh (ainda inédita) e foi vencedor da categoria Câmara do I Concurso de Composição Ernst Widmer em 2007 com Ballerine. Fez seu mestrado na mesma intituição onde no início de 2008, já selecionado para o Doutorado, defendeu sua dissertação intitulada T1patacuntum - Suíte sinfônica de gêneros baianos que utiliza a Teoria Pós-tonal para geração de material compositivo. Atualmente realiza pesquisas relacionadas a materiais didáticos em Teoria Pós-tonal.
 
+**Cristiano Figueiró** possui Mestrado em Música pela Universidade Federal de Goiás (2005) na linha Composição e Novas tecnologias e Graduação em Bacharelado Em Música Opção Instrumento Violão pela Universidade Federal de Santa Maria (2003) . Atualmente cursa o Doutorado em Composição na Universidade Federal da Bahia. Atua principalmente nos temas música computacional e composição eletroacústica, performance, música de câmara, música instrumental. Tem publicado os resultados de sua pesquisa em diversos eventos nacionais de pesquisa em música. Participou com duas composições na gravação do Cd "In itinere" com o grupo da música eletroacústica da UFG e recentemente gravou uma composição no Cd "Compositores da UFBA". Suas composições tem sido tocadas no Brasil, Argentina, Chile e Espanha.
+
+**Guilherme Bertissolo** é compositor e instrumentista, Doutorando em Música – Composição na Universidade Federal da Bahia, sob orientação de Paulo Costa LIma. Estudou regularmente e realizou cursos com renomados professores do Brasil e do exterior, dentre eles Luciana Prass, Alexandre Birnfeld, Eloy Fritsch, Flávio Oliveira, Antonio C. B. Cunha, Wellington Gomes, Ricardo Bordini, Ernst Helmut Flammer e Lynne Rogers. Tem participado regularmente de encontros, seminários e festivais, realizando cursos e publicando artigos, como o Festival de Inverno de Campos do Jordão, no curso de composição de Jocy de Oliveira (2007), o III, V e VI Encontro Nacional de Compositores Universitários (2005, 2007 e 2008) e os Seminários Internacionais de Análise PPGMUS UFBa (2008). Teve obras estreadas em Montenegro, Porto Alegre, Curitiba, São Paulo e Salvador. Sua obra Um Truco numa Carona recebeu o Primeiro Prêmio no II Concurso “Ernst Widmer” de Composição, na categoria Duo de Violões. Atualmente é professor substituto no Departamento de Composição, Literatura e Estruturação Musical da UFBa.
+
+**Paulo Rios Filho** nascido em Salvador, 1985, aprimora seus estudos musicais em  Composição, no curso de Mestrado em Música  na Escola de Música da UFBA. Já passou pelas classes dos professores: Paulo Costa Lima, Antônio Burgos, Wellington Gomes e Agnaldo Ribeiro. Por três anos consecutivos, foi bolsista de iniciação científica do PIBIC, através do CNPq, com orientação do Prof. Dr. Paulo Costa Lima, trabalhando com o Grupo de Compositores da Bahia. É membro-fundador da OCA – Oficina de Composição Agora, grupo de música contemporânea que atua de forma veemente no cenário musical da Bahia desde 2004. Como baterista, trabalha no grupo Alex Pochat e os Cinco Elementos. Junto à OCA, é responsável, ainda, pelas Oficinas de Composição e Teoria da Orquestra Sinfônica da Juventude de Salvador, tendo se apresentado em eventos importantes, como a Série Brasil, 2004, o Mercado Cultural e o IV Campus Euro-americano de Cooperação Cultural, em 2005. Como produtor, responsável pela produção de eventos como o I Festival de Música Contemporânea PPGMUS/UFBA, em 2007 e o Noites Culturais, em 2005. Sua peça O Contrariador, foi incluída no programa da  XVII Bienal de Música Brasileira Contemporânea, no Rio de Janeiro, em 2007. Foi vencedor do I Concurso de Composição Ernst Widmer, nas categorias “câmara” e “orquestra”, em julho de 2008, bolsista de composição selecionado para o 39º Festival de Inverno de Campos do Jordão e, em agosto do mesmo ano, foi distinguido com Menção Honrosa, pela sua obra “O Terramoto de 1755” no I Concurso Internacional para Jovens Compositores – Cidade de Portimão, em Portugal.
+
+**Pedro Soares Lyra** é estudante do Curso de Graduação em Composição da Universidade Federal da Bahia. Estudou com professores tais como Marcos di Silva e Pedro Kroger, entre outros. Fez parte do Projeto do Centro Cultural Barroco na Bahia.
+
+# Obras
+
+**Miniatura para Flauta e Eletrônica** (Guilherme Bertissolo) foi originalmente composta no contexto da peça de música e dança Noite, com materiais baseados em rotações e permutações seriais, efeitos instrumentais da flauta e materiais pré-gravados. Esses últimos foram processados e carregados nos softwares Pure Data e Ardour de maneira a possibilitar a interação entre flauta e computador em tempo real, em espacialização quadrafônica. Estamos portanto diante de um diálogo entre o presente (flauta ao vivo), passado (sons de flauta pré-gravados) e futuro (sons a serem disparados em tempo real ao longo da obra).
+
+**Pequis rolantes** (Cristiano Figueiró) utiliza guitarra elétrica (interpretada pelo próprio compositor), processador de efeitos e computador, buscando criar um diálogo entre estes elementos. Foi originalmente publicada no Cd "In itinere" com o grupo da música eletroacústica da UFG. 
+A Morte Bebe Leite foi composta sobre “A morte do leiteiro” de Carlos Drummond de Andrade. Leva-se em conta a construção, no momento de desconstruir. Na peça “A Morte Bebe Leite”, o poema de Drummond perde o sentido através de artifícios inerentes à sua própria estrutura. Os climas da narrativa geram afluentes sentidos autônomos e a poesia de que trata a música, satisfaz pouco a pouco os nossos sentidos viciados em só reconhecer o que entendemos por reconhecível: no fim, resta Drummond na íntegra.
+
+**Caminhada** (Pedro Soares Lyra) é uma tentativa de introspecção, uma pequena caminhada dentro do ser.
+
+**ZzZzZz** (Alexandre Espinheira) é resultado da manipulação de trechos da gravação de 5 minutos de rádio FM comercial. O compositor fez o registro de uma "performance" no qual se utilizou dos recursos de amplitude e sintonia para depois extrair pequenos trechos que foram montados para gerar a obra.
 Participação especial de Ráiden Coelho (flauta)
-
-
-Em breve abriremos chamadas de obras para os próximos concertos.
