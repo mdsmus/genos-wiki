@@ -1,0 +1,79 @@
+# Cursos oferecidos
+
+O grupo de pesquisa Genos vem oferecendo cursos de extensão
+relacionados a Computação Musical desde 2007. Até 2008.2 já oferecemos
+cursos de Csound, Pure Data, Composição Eletroacústica, Lilypond,
+Linux, Ferramentas Computacionais, Latex, Áudio Básico, Recursos
+Musicais Utilizando Softwares Livres, somando um total de 13 cursos.
+
+## 2009.1
+
+Em 2009.1 o grupo de pesquisa Genos oferece os cursos
+
+ * Linux introdutório ([Givaldo de Cidra](http://wiki.genos.mus.br/pessoas/GivaldoDeCidra/)), 30/3 a 3/4 (17-19hs)
+ * Lilypond introdutório ([Marcos di Silva](http://wiki.genos.mus.br/pessoas/MarcosDiSilva/)), 13 a 17/4 (17-19hs)
+ * Composição Eletroacústica ([Guilherme Bertissolo](http://wiki.genos.mus.br/pessoas/GuilhermeBertissolo/)), 08, 10, 12, 15, 17 e 18 de junho (17-19hs e horários individuais de estudo a combinar, num total de 20hs)
+
+Estes cursos têm um formato intensivo, de 2 horas diárias durante uma
+semana (exceto Composição Eletroacústica), ocorrem no laboratório do
+Genos (GenosLab), e dão direito a um certificado emitido pela
+Pró-reitoria de extensão da UFBA.
+
+As inscrições devem ser feitas através de e-mail para os ministrantes
+dos cursos informando nome completo, breve currículo e conhecimento
+prévio sobre o conteúdo do curso.
+
+### Informações sobre os cursos
+
+#### Linux
+
+O Linux é um sistema operacional seguro, estável, eficiente, versátil,
+bem documentado e bastante utilizado em todo o mundo. Sua construção
+impede o ataque de vírus e travamento do sistema. Ele é um software
+livre e tem a maioria de suas distribuições gratuitas, sendo utilizado
+tanto em grandes servidores quanto em computadores pessoais (de última
+geração e obsoletos). O Linux é o sistema operacional utilizado pelo
+grupo de pesquisa Genos e seus participantes para todas as atividades
+de pesquisa, ensino e extensão. Apesar de suas qualidades e do grande
+número de aplicativos musicais que rodam em Linux, não há disciplina
+oferecida pela Escola de Música da UFBA para o treinamento neste
+sistema. O objetivo principal do curso é fornecer aos alunos
+conhecimento básico sobre o sistema, como manipulação de arquivos,
+ferramentas de escritório, acesso à internet, instalação de programas
+e dispositivos e alguns comandos de terminal. O curso terá 5 aulas de
+2 horas e será oferecido em formato intensivo durante uma semana. Os
+ministrantes do curso têm larga experiência no uso de computadores e
+há três anos utilizam Linux para todas as suas necessidades
+computacionais. O uso que fazem do sistema se dá tanto no nível de
+usuário quanto de colaborador, este último através do grupo de
+pesquisa Genos.
+
+#### Lilypond
+
+O Lilypond é um excelente software livre desenvolvido para tipografia
+automática de partituras musicais. Assim como softwares proprietários
+como Sibelius e Finale, sua principal função é a criação e edição de
+partituras. Ele oferece uma ótima qualidade de impressão, é
+multiplataforma, expansível, livre e gratuito. O objetivo principal do
+curso é oferecer aos alunos uma introdução a este software tornando-os
+aptos a fazerem pequenas edições musicais. Este curso, dirigido a
+alunos e ex-alunos da Escola de Música da UFBA, oferece treinamento em
+um tipo de ferramenta muito útil aos músicos, porém ainda não
+oferecido como disciplina por esta instituição. O curso terá 5 aulas
+de 2 horas e será oferecido em formato intensivo durante uma semana. O
+ministrante do curso tem uma experiência de três anos com o Lilypond e
+de sete anos com programas de notação musical em geral (Finale). O uso
+que faz do Lilypond se dá tanto na edição de suas peças quanto na
+pesquisa em música realizada junto ao grupo de pesquisa Genos.
+
+#### Composição eletroacústica
+
+O uso do computador nas práticas musicais é cada vez mais comum na
+contemporaneidade e a discussão sobre a música eletroacústica nos
+âmbitos acadêmicos tem crescido cada vez mais nos últimos anos. No
+curso "Introdução à Composição Eletroacústica" propomos uma abordagem
+sobre a prática da composição em estúdio utilizando recursos
+tecnológicos para sua produção. O curso é dirigido para estudantes dos
+cursos de Graduação e Pós-Graduação da Escola de Música da UFBa, como
+atividade de Extensão Universitária.
+
