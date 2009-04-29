@@ -12,12 +12,14 @@ Em 2009.1 o grupo de pesquisa Genos oferece os cursos
 
  * Linux introdutório ([Givaldo de Cidra](http://wiki.genos.mus.br/pessoas/GivaldoDeCidra/)), 30/3 a 3/4 (17-19hs)
  * Lilypond introdutório ([Marcos di Silva](http://wiki.genos.mus.br/pessoas/MarcosDiSilva/)), 13 a 17/4 (17-19hs)
+ * Trilha Sonora para Cinema ([Rodrigo Garcia](mailto:rodrigo_garci@yahoo.com.br) e Hermilo Santana), maio (12, 14, 19, 21, 27 e 29) e junho (2, 4, 9, 16 e 30) (17-20hs)
  * Composição Eletroacústica ([Guilherme Bertissolo](http://wiki.genos.mus.br/pessoas/GuilhermeBertissolo/)), 08, 10, 12, 15, 17 e 18 de junho (17-19hs e horários individuais de estudo a combinar, num total de 20hs)
 
-Estes cursos têm um formato intensivo, de 2 horas diárias durante uma
-semana (exceto Composição Eletroacústica), ocorrem no laboratório do
-Genos (GenosLab), e dão direito a um certificado emitido pela
-Pró-reitoria de extensão da UFBA.
+Os cursos são gratuitos, ocorrem no laboratório do Genos (GenosLab) e
+dão direito a um certificado emitido pela Pró-reitoria de extensão da
+UFBA aos alunos com mais de 80% de frequência. Os cursos de Linux e
+Lilypond têm um formato intensivo, de 2 horas diárias durante uma
+semana.
 
 As inscrições devem ser feitas através de e-mail para os ministrantes
 dos cursos informando nome completo, breve currículo e conhecimento
