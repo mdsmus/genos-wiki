@@ -1,0 +1,15 @@
+# Ata da reunião de 29 de Abril 2009
+
+* Início: 14:45h
+
+* Participantes: Marcos Di Silva, Givaldo de Cidra, Natanael Ourives e Jean Menezes da Rocha
+
+* Apresentação (revisão) do projeto Rameau
+
+  * Os problemas, objetivos e histórico de tarefas executadas do projeto foram apresentadas a Jean
+
+* Apresentação das ferramentas web do Genos
+
+  * git, docs, wiki e bugs foram apresentadas a Jean
+
+* Término 15:30h
