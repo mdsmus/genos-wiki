@@ -12,4 +12,10 @@
 
   * git, docs, wiki e bugs foram apresentadas a Jean
 
+* Tarefas permanentes para Jean
+
+  * Jean a partir de agora manterá a página de notícias do Genos
+    atualizada e melhorará a parte visual do Genos (logomarca,
+    cartazes e css do wiki)
+
 * Término 15:30h
