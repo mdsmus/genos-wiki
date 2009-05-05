@@ -10,7 +10,7 @@ Musicais Utilizando Softwares Livres, somando um total de 13 cursos.
 
 Em 2009.1 o grupo de pesquisa Genos oferece os cursos
 
- * Linux introdutório ([Givaldo de Cidra](http://wiki.genos.mus.br/pessoas/GivaldoDeCidra/)), 30/3 a 3/4 (17-19hs) - 10 horas
+ * Linux introdutório ([Givaldo de Cidra](http://wiki.genos.mus.br/pessoas/GivaldoDeCidra/)), 4 a 8/5 (17-19hs) - 10 horas
  * Lilypond introdutório ([Marcos di Silva](http://wiki.genos.mus.br/pessoas/MarcosDiSilva/)), 13 a 17/4 (17-19hs) - 10 horas
  * Trilha Sonora para Cinema ([Rodrigo Garcia](mailto:rodrigo_garci@yahoo.com.br) e Hermilo Santana), maio (12, 14, 19, 21, 27 e 29) e junho (2, 4, 9, 16 e 30) (17-20hs) - 34 horas
  * Composição Eletroacústica ([Guilherme Bertissolo](http://wiki.genos.mus.br/pessoas/GuilhermeBertissolo/)), 08, 10, 12, 15, 17 e 18 de junho (17-19hs e horários individuais de estudo a combinar, num total de 20hs)
