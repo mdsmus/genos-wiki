@@ -30,6 +30,8 @@
 * [27] http://www.lib.virginia.edu/digital/resndev/mei/
 * [28] http://cm.dce.harvard.edu/2009/02/22872/videopage.shtml
 * [29] http://www.nytvf.com/2009_scripts_info.htm
+* [30] http://www.prairienet.org/~dsb/myclcode.htm
+* [31] http://groups.google.com/group/cl-terrace/web/f-underscore
 
 
 
