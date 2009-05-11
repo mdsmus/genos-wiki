@@ -10,14 +10,16 @@ Musicais Utilizando Softwares Livres, somando um total de 13 cursos.
 
 Em 2009.1 o grupo de pesquisa Genos oferece os cursos
 
- * Linux introdutório ([Givaldo de Cidra](http://wiki.genos.mus.br/pessoas/GivaldoDeCidra/)), 30/3 a 3/4 (17-19hs)
- * Lilypond introdutório ([Marcos di Silva](http://wiki.genos.mus.br/pessoas/MarcosDiSilva/)), 13 a 17/4 (17-19hs)
+ * Linux introdutório ([Givaldo de Cidra](http://wiki.genos.mus.br/pessoas/GivaldoDeCidra/)), 4 a 8/5 (17-19hs) - 10 horas
+ * Lilypond introdutório ([Marcos di Silva](http://wiki.genos.mus.br/pessoas/MarcosDiSilva/)), 13 a 17/4 (17-19hs) - 10 horas
+ * Trilha Sonora para Cinema ([Rodrigo Garcia](mailto:rodrigo_garci@yahoo.com.br) e Hermilo Santana), maio (12, 14, 19, 21, 27 e 29) e junho (2, 4, 9, 16 e 30) (17-20hs) - 34 horas
  * Composição Eletroacústica ([Guilherme Bertissolo](http://wiki.genos.mus.br/pessoas/GuilhermeBertissolo/)), 08, 10, 12, 15, 17 e 18 de junho (17-19hs e horários individuais de estudo a combinar, num total de 20hs)
 
-Estes cursos têm um formato intensivo, de 2 horas diárias durante uma
-semana (exceto Composição Eletroacústica), ocorrem no laboratório do
-Genos (GenosLab), e dão direito a um certificado emitido pela
-Pró-reitoria de extensão da UFBA.
+Os cursos são gratuitos, ocorrem no laboratório do Genos (GenosLab) e
+dão direito a um certificado emitido pela Pró-reitoria de extensão da
+UFBA aos alunos com mais de 80% de frequência. Os cursos de Linux e
+Lilypond têm um formato intensivo, de 2 horas diárias durante uma
+semana.
 
 As inscrições devem ser feitas através de e-mail para os ministrantes
 dos cursos informando nome completo, breve currículo e conhecimento
@@ -66,6 +68,35 @@ de sete anos com programas de notação musical em geral (Finale). O uso
 que faz do Lilypond se dá tanto na edição de suas peças quanto na
 pesquisa em música realizada junto ao grupo de pesquisa Genos.
 
+#### Trilha sonora para cinema
+
+A composição musical direcionada para a produção audiovisual é um
+assunto ainda pouco estudado no Brasil. Embora o cinema seja um dos
+principais meios de comunicação de massa, observa-se que o estudo da
+música aplicada ao meio cinematográfico não consta como disciplina
+regular nos currículos de graduação da área da música, nem dos cursos
+de formação em cinema de um modo geral, o que promove a carência de
+profissionais especializados na composição de trilhas para o cinema. O
+Curso Básico de Trilha Sonora para Cinema fornece aos alunos
+ferramentas para a criação de trilhas sonoras, abrangendo a relação de
+intertextualidade entre a música e os elementos que compõem a
+linguagem cinematográfica. O curso, que se dirige aos alunos e
+ex-alunos da graduação e pós-graduação em música.
+
+Conteúdo Programático:
+ 
+ * História da Música no Cinema (1895-2009)
+
+ * A Linguagem Cinematográfica e o Roteiro
+
+ * Análise Fílmica
+
+ * Spotting Session e Etapas da Produção
+
+ * Técnicas de Composição para o audiovisual
+
+ * Depoimentos de compositores 
+
 #### Composição eletroacústica
 
 O uso do computador nas práticas musicais é cada vez mais comum na
@@ -76,4 +107,3 @@ sobre a prática da composição em estúdio utilizando recursos
 tecnológicos para sua produção. O curso é dirigido para estudantes dos
 cursos de Graduação e Pós-Graduação da Escola de Música da UFBa, como
 atividade de Extensão Universitária.
-

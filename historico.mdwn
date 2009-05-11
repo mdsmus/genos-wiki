@@ -2,16 +2,16 @@
 
 ## Cursos de Extensão
 
- * Lilypond (2007.2 e 2008.1)
- * Pure Data (2007.2 e 2008.1)
- * Ardour (2007.2 e 2008.1)
- * Ferramentas livres para música (2007.2)
- * CSound (2007.2)
- * Linux (2007.2)
- * LaTeX (2008.1)
- * Ferramentas computacionais avançadas (2008.1)
+ * Lilypond (2007.2 e 2008.1) - [Marcos di Silva](http://wiki.genos.mus.br/pessoas/MarcosDiSilva/)
+ * Pure Data (2007.2 e 2008.1) - [Cristiano Figueiró](http://wiki.genos.mus.br/pessoas/CristianoFigueir%C3%B3/)
+ * Ardour (2007.2 e 2008.1) - [Guilherme Bertissolo](http://wiki.genos.mus.br/pessoas/GuilhermeBertissolo/)
+ * Ferramentas livres para música (2007.2) - [Guilherme Bertissolo](http://wiki.genos.mus.br/pessoas/GuilhermeBertissolo/)
+ * CSound (2007.2) - [Pedro Kröger](http://wiki.genos.mus.br/pessoas/PedroKroger/)
+ * Linux (2007.2) - [Marcos di Silva](http://wiki.genos.mus.br/pessoas/MarcosDiSilva/) e [Givaldo de Cidra](http://wiki.genos.mus.br/pessoas/GivaldoDeCidra/)
+ * LaTeX (2008.1) - [Pedro Kröger](http://wiki.genos.mus.br/pessoas/PedroKroger/)
+ * Ferramentas computacionais avançadas (2008.1) - [Pedro Kröger](http://wiki.genos.mus.br/pessoas/PedroKroger/) e [Alexandre Passos](http://wiki.genos.mus.br/pessoas/AlexandrePassos/)
  * Síntese sonora (2008.1)
- * Áudio básico (2008.1)
+ * Áudio básico (2008.1) - [Cristiano Figueiró](http://wiki.genos.mus.br/pessoas/CristianoFigueir%C3%B3/) e [Guilherme Bertissolo](http://wiki.genos.mus.br/pessoas/GuilhermeBertissolo/)
 
 ## Pesquisa
 
