@@ -242,8 +242,9 @@ Para efetuar o pedido de bolsa para um Doutorado Sanduíche (CNPQ) ou Estágio d
 ### Etnomusicologia
 **Periódicos internacionais**
 
- * British Jornal of Etnomusicology - [site](http://www.thebfe.org.uk/section.php?id=89) [[acesso aos artigos]](http://www.portaldapesquisa.com.br/databases/sites?action=login&cust=capes&area=chumanas&publisher=jstor&db=jstor&login_type=revista&journal=0968-1221&authtype=ip&style=capes)[1]sdasda asdasdas asdasdad asdasasd asdasdad
+ * British Jornal of Etnomusicology - [site](http://www.thebfe.org.uk/section.php?id=89) [acesso aos artigos](http://www.portaldapesquisa.com.br/databases/sites?action=login&cust=capes&area=chumanas&publisher=jstor&db=jstor&login_type=revista&journal=0968-1221&authtype=ip&style=capes)
 
+**Congressos internacionais**
  * Ethnomusicology Forum, formerly known as the British Journal of Ethnomusicology, is a peer-reviewed journal published twice a year (in June and November) by Routledge for the British Forum for Ethnomusicology.
 '''Congressos nacionais'''
  * British Forum for Ethnomusicology – (A conferência anual e outras) - [site](http://www.bfe.org.uk/)
