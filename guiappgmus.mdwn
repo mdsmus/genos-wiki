@@ -239,6 +239,7 @@ Para efetuar o pedido de bolsa para um Doutorado Sanduíche (CNPQ) ou Estágio d
 
 "Qualis é uma lista de veículos utilizados para a divulgação da produção intelectual dos programas de pós-graduação stricto sensu (mestrado e doutorado), classificados quanto ao âmbito de circulação (Local, Nacional, Internacional) e à qualidade (A, B, C), por área de avaliação. A Capes utiliza o Qualis para fundamentar o processo de avaliação do Sistema Nacional de Pós-Graduação."
 
+### Etnomusicologia
 **Periódicos internacionais**
 
  * British Jornal of Etnomusicology - [site](http://www.thebfe.org.uk/section.php?id=89)
