@@ -241,8 +241,8 @@ Para efetuar o pedido de bolsa para um Doutorado Sanduíche (CNPQ) ou Estágio d
 
 ### Etnomusicologia
 **Periódicos internacionais**
-
- * Ethnomusicology - [site](http://webdb.iu.edu/sem/scripts/publications/journal/journal.cfm) e [acesso aos artigos](http://www.portaldapesquisa.com.br/databases/sites?action=login&cust=capes&area=chumanas&publisher=jstor&db=jstor&login_type=revista&journal=0014-1836&authtype=ip&style=capes)######[Via Portal da Capes](http://www.periodicos.capes.gov.br)
+######[Alguns periódicos só disponibilizam seus artigos via Portal da Capes](http://www.periodicos.capes.gov.br)######
+ * Ethnomusicology - [site](http://webdb.iu.edu/sem/scripts/publications/journal/journal.cfm) e [acesso aos artigos](http://www.portaldapesquisa.com.br/databases/sites?action=login&cust=capes&area=chumanas&publisher=jstor&db=jstor&login_type=revista&journal=0014-1836&authtype=ip&style=capes)
  * British Jornal of Etnomusicology - [site](http://www.thebfe.org.uk/section.php?id=89) e [acesso aos artigos](http://www.portaldapesquisa.com.br/databases/sites?action=login&cust=capes&area=chumanas&publisher=jstor&db=jstor&login_type=revista&journal=0968-1221&authtype=ip&style=capes)
  * Yearbook of the International Folk Music Council (1969-1980) - [site do International Council for Traditional Music
 (ICTM)](www.ictmusic.org) e [acesso aos artigos](http://www.jstor.org/action/showPublication?journalCode=yearintefolkmusi)
