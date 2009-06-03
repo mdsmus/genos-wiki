@@ -14,17 +14,17 @@
 
 * GenosLab
 
-  * Passará por mudanças em sua extrutura física (mudança de lugar do
-    quadro e banca de computadores)
+  * Passará por mudanças em sua estrutura física (mudança de lugar do
+    quadro e da banca de computadores)
 
-  * Não será disponibilizado a senha de root para outras
-    partições. Cada usuário deverá instalar seus programas
+  * Não será disponibilizado a senha de root para outros usuários em
+    novas partições. Cada usuário deverá instalar seus programas
     personalizados localmente.
 
   * Os que necessitarem de maiores experimentações com programas e
-    distribuições deverão utilizar o virtualBox.
+    distribuições, deverão utilizar o virtualBox.
 
-* Hundrun é oficialmente o formato padrão de entrada de dados no
+* Humdrum é oficialmente o formato padrão de entrada de dados no
   rameau.
 
 * Novas tarefas para Jean
