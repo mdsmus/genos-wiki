@@ -4,6 +4,10 @@
 * [[pesquisa/pauta]] - pauta da próxima reunião
 * [redmine](http://bugs.genos.mus.br) - sistema de bugs do genos (e rameau)
 
+# Programas relacionados
+
+* [strasheela](http://strasheela.sourceforge.net/strasheela/doc/index.html) 
+
 # Abc
 
 * Especificação ABC
