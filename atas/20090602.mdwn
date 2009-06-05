@@ -1,0 +1,39 @@
+# Ata da reunião de 02 de Junho 2009
+
+* Início: 13:05h
+
+* Participantes: Pedro Kroger, Marcos Di Silva, Givaldo de Cidra e
+  Natanael Ourives.
+
+* Status das coisas
+
+  * Natanael já está com mais de 200 corais corrigidos.
+  
+  * Givaldo termina sua meta de correção dos gabaritos ainda nesse
+    mês.
+
+* GenosLab
+
+  * Passará por mudanças em sua estrutura física (mudança de lugar do
+    quadro e da banca de computadores)
+
+  * Não será disponibilizado a senha de root para outros usuários em
+    novas partições. Cada usuário deverá instalar seus programas
+    personalizados localmente.
+
+  * Os que necessitarem de maiores experimentações com programas e
+    distribuições, deverão utilizar o virtualBox.
+
+* Humdrum é oficialmente o formato padrão de entrada de dados no
+  rameau.
+
+* Novas tarefas para Jean
+
+  * Corrigir e ampliar o número de gabaritos juntamente com Givaldo.
+
+  * Melhorar o estilo CSS do handbook.
+
+* Marcos fará a edição do handbook (padronizar o conteúdo)
+
+
+* Término 13:48h

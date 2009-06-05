@@ -239,13 +239,38 @@ Para efetuar o pedido de bolsa para um Doutorado Sanduíche (CNPQ) ou Estágio d
 
 "Qualis é uma lista de veículos utilizados para a divulgação da produção intelectual dos programas de pós-graduação stricto sensu (mestrado e doutorado), classificados quanto ao âmbito de circulação (Local, Nacional, Internacional) e à qualidade (A, B, C), por área de avaliação. A Capes utiliza o Qualis para fundamentar o processo de avaliação do Sistema Nacional de Pós-Graduação."
 
+### Etnomusicologia
 **Periódicos internacionais**
+###### Alguns periódicos só disponibilizam seus artigos via [Portal de Periódicos da Capes](http://www.periodicos.capes.gov.br)
+ * Ethnomusicology - [site](http://webdb.iu.edu/sem/scripts/publications/journal/journal.cfm) e [acesso aos artigos](http://www.portaldapesquisa.com.br/databases/sites?action=login&cust=capes&area=chumanas&publisher=jstor&db=jstor&login_type=revista&journal=0014-1836&authtype=ip&style=capes)
+ * British Jornal of Etnomusicology - [site](http://www.thebfe.org.uk/section.php?id=89) e [acesso aos artigos](http://www.portaldapesquisa.com.br/databases/sites?action=login&cust=capes&area=chumanas&publisher=jstor&db=jstor&login_type=revista&journal=0968-1221&authtype=ip&style=capes)
+ * Yearbook of the International Folk Music Council (1969-1980) - [site do International Council for Traditional Music
+(ICTM)](http://www.ictmusic.org) e [acesso aos artigos](http://www.jstor.org/action/showPublication?journalCode=yearintefolkmusi)
+ * Yearbook for Traditional Music (1981-2004) - [site do International Council for Traditional Music
+(ICTM)](http://www.ictmusic.org) e [acesso aos artigos](http://www.jstor.org/action/showPublication?journalCode=yeartradmusi)
+ * Latin American Music Review - [site](http://www.utexas.edu/utpress/journals/jlamr.html) e [acesso aos artigos](http://www.portaldapesquisa.com.br/databases/sites?action=login&cust=capes&area=chumanas&publisher=jstor&db=jstor&login_type=revista&journal=0163-0350&authtype=ip&style=capes)
+ * World of Music - [site](http://the-world-of-music-journal.blogspot.com)
+ * Transcultural Music Review - [site e acesso aos artigos](http://www.sibetrans.com/trans/)
+ * Folk Music Journal - [site](http://fmj.efdss.org/) e [acesso aos artigos](http://www.portaldapesquisa.com.br/databases/sites?action=login&cust=capes&area=csociais&publisher=wilson&db=whumanftx&login_type=revista&journal=0531-9684&authtype=ip&style=capes)
+ * Popular Music - acesso aos artigos [aqui](http://www.portaldapesquisa.com.br/databases/sites?action=login&cust=capes&area=chumanas&publisher=jstor&db=jstor&login_type=revista&journal=0261-1430&authtype=ip&style=capes) ou [aqui](http://journals.cambridge.org/jid_PMU)
+ * Music and Anthropology - [site e acesso aos artigos](http://www.muspe.unibo.it/period/ma/index1.htm)
+ * Ethnomusicology Online - [site a ceasso aos artigos](http://www.umbc.edu/eol/eol.html)
 
- * British Jornal of Etnomusicology - [site](http://www.thebfe.org.uk/section.php?id=89)
- * Ethnomusicology Forum, formerly known as the British Journal of Ethnomusicology, is a peer-reviewed journal published twice a year (in June and November) by Routledge for the British Forum for Ethnomusicology.
-'''Congressos nacionais'''
+**Periódicos nacionais**
+
+* Musica e Cultura - [site e acesso aos artigos](http://www.musicaecultura.ufba.br)
+
+**Congressos internacionais**
 
  * British Forum for Ethnomusicology – (A conferência anual e outras) - [site](http://www.bfe.org.uk/)
+
+
+**Congressos nacionais**
+
+**Outros recursos**
+
+ * [Lista de discussão da Society for Ethnomusicology (SEM)](https://listserv.indiana.edu/cgi-bin/wa-iub.exe?A0=SEM-L) - A SEM é uma das mais importantes e tradicionais associações na área da etnomusicologia. Através do link, pode-se acompanhar as discussões de sua lista eletrônica. É possível também fazer parte da mesma, mesmo não sendo associado da SEM.
+
 ## Salvador Card
 
 ## Dicas de hospedagem
