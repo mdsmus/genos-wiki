@@ -1,5 +1,11 @@
 # Aula 3
 
+15 de junho de 2009
+
+17-19hs
+
+## Síntese Sonora - continuação
+
  * [Ring Modulation](http://en.wikipedia.org/wiki/Ring_modulator);
 
 Modulação em anel
