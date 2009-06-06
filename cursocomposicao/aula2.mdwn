@@ -80,6 +80,7 @@ O efeito é um timbre rico em harmônicos
 
  * Montar um pequeno estudo com síntese aditiva, am e fm no CSound.
 
+## Idéia para projetos individuais
 
 ## Bibliografia
 
