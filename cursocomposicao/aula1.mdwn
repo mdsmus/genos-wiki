@@ -10,6 +10,10 @@
 
 ## Projeções Sonoras de Composição Eletroacústica Genos
 
+É uma série de concertos mensais realizados no GenosLab.
+
+A [4º Projeção](http://wiki.genos.mus.br/projecoes) comtemplará a produção do curso.
+
 ## Idéias para a Composição Eletroacústica
 
  * Materiais (Síntese, Processamento em Tempo Real, Material Concreto);
@@ -22,9 +26,11 @@
 
  * [Softwares Livres para Áudio](http://en.wikipedia.org/wiki/Free_audio_software)
 
+ * [[relatorio-tirocinio-guilherme-bertissolo.pdf]]
+
  * [ALSA](http://www.alsa-project.org/main/index.php/Main_Page)
 
- * Kernel e o tempo real
+ * [Kernel e o tempo real](http://pt.wikipedia.org/wiki/Linux_(kernel)
 
  * [Jack](http://jackaudio.org/)
 
