@@ -16,7 +16,7 @@ A 4º Projeção comtemplará a produção composicional dos participantes do cu
 
 ## Idéias para a Composição Eletroacústica
 
- * Materiais (Síntese, Processamento em Tempo Real, Material Concreto);
+ * Materiais (Síntese, Processamento em Tempo Real, Material Concreto) - [artigo Caesar](http://acd.ufrj.br/lamut/lamutpgs/rcpesqs/08matfo.htm);
 
  * Composição (Organização dos materiais, DAW, PD, CSound);
 
