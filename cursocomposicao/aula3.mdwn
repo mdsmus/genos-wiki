@@ -28,7 +28,7 @@ O efeito é uma mistura dos sons cruzados (do tipo um violoncelo com som de águ
 
 Filtros
 
-## Sintese Subtrativa no [Pure Data](http://puredata.info/)
+## Síntese Subtrativa no [Pure Data](http://puredata.info/)
 
 Para exemplos de Síntese Subtrativa no PD ver na o tutorial [Six Simple Synthesisers](http://obiwannabe.co.uk/html/music/6SS/six-simple-synthesisers.html)
 
