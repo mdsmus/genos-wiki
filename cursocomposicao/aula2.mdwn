@@ -26,13 +26,15 @@ Obra: *Étu Aux Sons Animés* (1958)
 
 ### Obras dos participantes do curso
 
+Apreciações
+
 ## Introdução à Síntese Sonora
 
-A [http://www6.ufrgs.br/musicaeletronica/revistateclado/pag%20agosto%202005.htm Síntese Sonora] é a geração "artificial" de sons, a partir de sinais elétricos (ondas senoidais, triangulares, quadradas, dente-de-serra), sinais discretos (re-síntese), cruzamento de espectros e outros procedimentos eletrônicos. Esses processos possibilitaram o advento dos instrumentos eletrônicos conhecidos como [http://pt.wikipedia.org/wiki/Sintetizador Sintetizadores].
+A [Síntese Sonora](http://www6.ufrgs.br/musicaeletronica/revistateclado/pag%20agosto%202005.htm) é a geração "artificial" de sons, a partir de sinais elétricos (ondas senoidais, triangulares, quadradas, dente-de-serra), sinais discretos (re-síntese), cruzamento de espectros e outros procedimentos eletrônicos. Esses processos possibilitaram o advento dos instrumentos eletrônicos conhecidos como [Sintetizadores](http://pt.wikipedia.org/wiki/Sintetizador).
 
  * [Síntese Aditiva](http://en.wikipedia.org/wiki/Additive_synthesis);
 
-Síntese aditiva no [http://audacity.sourceforge.net/ Audacity]
+Síntese aditiva no [Audacity](http://audacity.sourceforge.net/)
 
 Experiência de escuta de ondas senoidais, quadradas, dente-de-serra e triangular
 
@@ -50,7 +52,7 @@ A amplitude de uma dada onda (portadora) é variada por uma outra onda (modulado
 
 O efeito muitas vezes é semelhante a um trêmolo
 
- * [FM (Frequency Modulation)];(http://en.wikipedia.org/wiki/Frequency_modulation)
+ * [FM (Frequency Modulation)](http://en.wikipedia.org/wiki/Frequency_modulation)
 
 Modulação de freqüência
 
@@ -90,16 +92,18 @@ O efeito é uma mistura dos sons cruzados (do tipo um violoncelo com som de águ
 
 ## Bibliografia
 
-CAESAR, Rodolfo. 1997. Material e forma na música eletroacústica.In: *Revista Pesquisa e Música do Conservatório Brasileiro de Música*. Rio de Janeiro: Conservatório Brasileiro de Música 3:1.
+Boulanger, Richard, ed. 2000. *The CSound book*. Cambridge/ London: MIT Press.
 
-DODGE, Charles. e JERSE, Thomas A. 1997. *Computer music*. 2a. ed. Schimer Books, New York.
+Caesar, Rodolfo. 1997. Material e forma na música eletroacústica.In: *Revista Pesquisa e Música do Conservatório Brasileiro de Música*. Rio de Janeiro: Conservatório Brasileiro de Música 3:1.
 
-GRIFFITHS, Paul. 1998. *Música moderna*. Rio de Janeiro: Jorge Zahar Editor.
+Dodge, Charles. e Jerse, Thomas A. 1997. *Computer music*. 2a. ed. Schimer Books, New York.
 
-MENEZES, Flo. 1996. *Música eletroacústica*: história e estéticas. São Paulo: Universidade de São Paulo.
+Griffiths, Paul. 1998. *Música moderna*. Rio de Janeiro: Jorge Zahar Editor.
+
+Menezes, Flo. 1996. *Música eletroacústica*: história e estéticas. São Paulo: Universidade de São Paulo.
 
 _____. 2006. *Música maximalista*: ensaios sobre música radical e especulativa. São Paulo: Editora da UNESP.
 
-MOORE, R. 1990. *Elements of Computer Music*. Prentice Hall. New Jersey.
+Moore, R. 1990. *Elements of Computer Music*. Prentice Hall. New Jersey.
 
-SCHAEFFER, Pierre. 1993. *Tratado dos Objetos Musicais*. Trad. Ivo Martinazzo. Brasília: Edunb.
+Schaeffer, Pierre. 1993. *Tratado dos Objetos Musicais*. Trad. Ivo Martinazzo. Brasília: Edunb.
