@@ -1,0 +1,31 @@
+# Aula 1
+
+## Apresentação do curso
+
+[Introdução à Composição Eletroacústica](http://wiki.genos.mus.br/cursocomposicao) propõe uma abordagem sobre a prática da composição em estúdio, lançando mão de recursos de síntese sonora, gravação, edição e processamento de áudio digital no contexto da música eletroacústica. O curso contempla diversos aspectos que vêm sendo pesquisados e desenvolvidos em atividades do GenosLab, visando aplicações práticas de conceitos, metodologias e idéias da música eletroacústica. 
+
+## Objetivo
+
+ * O objetivo é realizar a composição de obras e estudos e/para realização de um concerto e de um grupo de estudo enfocando para a prática musical com uso do computador, a ser continuado ao longo do ano.
+
+## Projeções Sonoras de Composição Eletroacústica Genos
+
+## Idéias para a Composição Eletroacústica
+
+ * Materiais (Síntese, Processamento em Tempo Real, Material Concreto);
+
+ * Composição (Organização dos materiais, DAW, PD, CSound);
+
+ * Espacialização (Ardour, PD, CSound)
+
+## Algumas ferramentas
+
+ * [Softwares Livres para Áudio](http://en.wikipedia.org/wiki/Free_audio_software)
+
+ * [ALSA](http://www.alsa-project.org/main/index.php/Main_Page)
+
+ * Kernel e o tempo real
+
+ * [Jack](http://jackaudio.org/)
+
+ * [Ardour](http://ardour.org)
