@@ -35,3 +35,5 @@ A 4º Projeção comtemplará a produção composicional dos participantes do cu
  * [Jack](http://jackaudio.org/)
 
  * [Ardour](http://ardour.org)
+
+## Calendário de utilização do GenosLab para composição
