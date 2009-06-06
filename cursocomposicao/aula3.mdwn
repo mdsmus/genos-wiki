@@ -36,6 +36,12 @@ Para exemplos de Síntese Subtrativa no PD ver na o tutorial [Six Simple Synthes
 
  * Usar samples da pasta shared para finalizar e montar um kit hydrogen e montar uma pequena composição;
 
+e/ou
+
+ * Experimentar os modelos de síntese subtrativa no Pd.
+
+### Bibliografia
+
 Boulanger, Richard, ed. 2000. *The CSound book*. Cambridge/ London: MIT Press.
 
 Caesar, Rodolfo. 1997. Material e forma na música eletroacústica.In: *Revista Pesquisa e Música do Conservatório Brasileiro de Música*. Rio de Janeiro: Conservatório Brasileiro de Música 3:1.
