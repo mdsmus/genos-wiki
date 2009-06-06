@@ -6,12 +6,6 @@ GenosLab
 
 17-19hs
 
-## [Hydrogen](http://www.hydrogen-music.org/)
-
-Gerenciamento de eventos
-
-Os padrões, os instrumentos, peça e o mixer
-
 ## Gravação como recurso para composição
 
  * Microfones;
@@ -22,4 +16,14 @@ Os padrões, os instrumentos, peça e o mixer
 
  * Finalizando um áudio e exportando;
 
- * Carregando samples em um kit hydrogen.
+## [Hydrogen](http://www.hydrogen-music.org/)
+
+Gerenciamento de eventos
+
+Os padrões, os instrumentos, peça e o mixer
+
+Os kits.
+
+## Prática
+
+Elaborar um kit no Hydrogen usando os áudios gravados em aula
