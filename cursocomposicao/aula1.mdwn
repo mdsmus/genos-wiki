@@ -1,5 +1,11 @@
 # Aula 1
 
+08 de junho
+
+GenosLab
+
+17-19hs
+
 ## Apresentação do curso
 
 [Introdução à Composição Eletroacústica](http://wiki.genos.mus.br/cursocomposicao) propõe uma abordagem sobre a prática da composição em estúdio, lançando mão de recursos de síntese sonora, gravação, edição e processamento de áudio digital no contexto da música eletroacústica. O curso contempla diversos aspectos que vêm sendo pesquisados e desenvolvidos em atividades do GenosLab, visando aplicações práticas de conceitos, metodologias e idéias da música eletroacústica. 
