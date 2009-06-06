@@ -1,0 +1,32 @@
+# Aula 3
+
+
+ * [Síntese Subtrativa](http://en.wikipedia.org/wiki/Subtractive_synthesis);
+
+Filtros
+
+Para exemplos de Síntese Subtrativa no PD ver na o tutorial [Six Simple Synthesisers](http://obiwannabe.co.uk/html/music/6SS/six-simple-synthesisers.html).
+
+ * [Ring Modulation](http://en.wikipedia.org/wiki/Ring_modulator);
+
+Modulação em anel
+
+Combina duas ondas e resulta na soma e na diferença das freqüência presentes em cada uma
+
+O efeito é como é geralmente um timbre metálico, como o som de um sino
+
+
+ * [Hydrogen](http://www.hydrogen-music.org/)
+
+Gerenciamento de eventos
+
+Os padrões, os instrumentos, peça e o mixer
+
+## Prática
+
+
+ * Usar samples da pasta shared para finalizar e montar um kit hydrogen e montar uma pequena composição;
+
+
+
+
