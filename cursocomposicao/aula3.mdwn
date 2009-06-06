@@ -32,12 +32,6 @@ Filtros
 
 Para exemplos de Síntese Subtrativa no PD ver na o tutorial [Six Simple Synthesisers](http://obiwannabe.co.uk/html/music/6SS/six-simple-synthesisers.html)
 
-## [Hydrogen](http://www.hydrogen-music.org/)
-
-Gerenciamento de eventos
-
-Os padrões, os instrumentos, peça e o mixer
-
 ## Prática
 
  * Usar samples da pasta shared para finalizar e montar um kit hydrogen e montar uma pequena composição;
