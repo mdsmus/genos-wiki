@@ -1,125 +1,51 @@
 # Curso de Introdução à Composição Eletroacústica - 2º Edição
 
-
 Por Guilherme Bertissolo
-
-
 
 Coordenação: Prof. Pedro Kroger
 
-
-
 O curso acontece nos dias 08, 10, 12, 15, 17 e 18 de junho, das 17 as 19 horas, no GenosLab, na Escola de Música da UFBa.
 
-
 A carga horária total é 20hs.
-
 
 Número de vagas: 8
 
 ## O Curso
 
+*Introdução à Composição Eletroacústica* propõe uma abordagem sobre a prática da composição em estúdio, lançando mão de recursos de síntese sonora, gravação, edição e processamento de áudio digital no contexto da música eletroacústica. O curso contempla diversos aspectos que vêm sendo pesquisados e desenvolvidos em atividades do GenosLab, visando aplicações práticas de conceitos, metodologias e idéias da música eletroacústica. O objetivo é realizar a composição de obras e estudos e/para realização de um grupo de estudo enfocando para a prática musical com uso do computador, a ser continuado ao longo do ano.
 
-''Introdução à Composição Eletroacústica'' propõe uma abordagem sobre a 
-
-prática da composição em estúdio, lançando mão de recursos de síntese sonora, gravação, 
-
-edição e processamento de áudio digital no contexto da música eletroacústica.
-
-O curso contempla diversos aspectos que vêm sendo pesquisados e desenvolvidos em atividades do GenosLab, 
-
-visando aplicações práticas de conceitos, metodologias e idéias da música eletroacústica.
-
-O objetivo é realizar a composição de obras e estudos e/para realização de um grupo de estudo 
-
-enfocando para a prática musical com uso do computador, a ser continuado ao longo do ano.
-
-
-
-Guilherme Bertissolo possui Graduação em Música pela Universidade Estadual do
-Rio Grande do
- Sul (2005). Realizou diversas atividades no Centro de Música
-
-Eletrônica da UFRGS, sob orientação de Eloy Fritsch. Desde 2003
-
-trabalha com música eletroacústica acusmática e mista (suporte fixo e
-
-tempo real). É membro do Grupo Genos, onde ministra cursos de Extensão desde 2007, tais como
-
-Recursos Municais Utilizando Software Livre, Introdução ao Áudio Digital, Introdução ao Software Ardour
-e Introdução à Composição Eletroacústica.
- Teve obras estreadas em Porto Alegre, Montenegro,
-
-Curitiba, Sergipe, Salvador e São Paulo. Obteve o primeiro prêmio no 2º Concurso de Composição
-
-"Ernst Widmer" com a obra "Um Truco numa Carona".
- Cursa atualmente o Doutorado em Composição Musical
- no PPG-MUS da UFBa, sob orientação
- de Paulo Costa Lima.
- É professor substituto do Departamento de Composição,
+Guilherme Bertissolo possui Graduação em Música pela Universidade Estadual do Rio Grande do Sul (2005). Realizou diversas atividades no Centro de Música Eletrônica da UFRGS, sob orientação de Eloy Fritsch. Desde 2003 trabalha com música eletroacústica acusmática e mista (suporte fixo e tempo real). É membro do Grupo Genos, onde ministra cursos de Extensão desde 2007, tais como Recursos Municais Utilizando Software Livre, Introdução ao Áudio Digital, Introdução ao Software Ardour e Introdução à Composição Eletroacústica. Teve obras estreadas em Porto Alegre, Montenegro, Curitiba, Sergipe, Salvador e São Paulo. Obteve o primeiro prêmio no 2º Concurso de Composição "Ernst Widmer" com a obra *Um Truco numa Carona*. Atualmente, cursa o Doutorado em Composição Musical no PPG-MUS da UFBa, sob orientação de Paulo Costa Lima e é professor substituto do Departamento de Composição,
 Literatura e Estruturação Musical da Escola de Música da UFBa.
-
 
 ## Alguns tópicos abordados no curso serão
 
-
 * Princípios básicos de Acústica Musical;
-
-
 
 * Noções básicas de informática em música;
 
-
-
 * Fundamentos da música eletroacústica;
-
-
 
 * Música concreta;
 
-
-
 * Música eletrônica;
-
-
 
 * Apreciação de obras paradigmáticas no contexto da música eletroacústica;
 
-
-
 * Introdução à síntese sonora;
-
-
 
 * Técnicas de gravação;
 
-
-
 * Softwares livres para síntese, interação, gravação e processamento de áudio digital: Audacity, Rosegarden, SND, Paul Extreme, CSound, Pure Data, entre outros;
-
-
 
 * Processamento de áudio através do Software Ardour a partir de suas próprias ferramentas e das oferecidas através de plug-ins;
 
-
-
 * Mixagem e masterização;
-
-
 
 * Conceito de espacialização sonora;
 
-
-
 * Exercícios práticos relacionados aos temas abordados.
 
-
-
-
-
-== Inscritos ==
-
-
+## Inscritos
 
 1- Aldemar Macedo Júnior
 
@@ -133,24 +59,17 @@ Literatura e Estruturação Musical da Escola de Música da UFBa.
 
 6- George Cristian Vilela Pereira
 
-
 7- Moisés Gabrielli
-
 
 8- Evandro Botti
 
-
 9- Eric Barreto
-
 
 10- Alexandre Espinheira
 
-
 11- Paulo Santana
 
-
 12- Irney Brito
-
 
 13- Reinaldo Maia
 
@@ -162,21 +81,15 @@ Literatura e Estruturação Musical da Escola de Música da UFBa.
 
 17- Daniel Escudeiro
 
-
-
-
-== Conteúdo das Aulas ==
-
-
+## Conteúdo das Aulas
 
 [Aula 1: 08/06 - 17-19hs](http://wiki.genos.mus.br/cursocomposicao/aula1)
 
-
 [Aula 2: 10/06 - 17-19hs](http://wiki.genos.mus.br/cursocomposicao/aula2)
 
-[Aula 3: 12/06 - 17-19hs](http://wiki.genos.mus.br/cursocomposicao/aula3)
+[Aula 3: 15/06 - 17-19hs](http://wiki.genos.mus.br/cursocomposicao/aula3)
 
-[Aula 4: 15/06 - 17-19hs](http://wiki.genos.mus.br/cursocomposicao/aula4)
+[Aula 4: 16/06 - 17-19hs](http://wiki.genos.mus.br/cursocomposicao/aula4)
 
 [Aula 5: 17/06 - 17-19hs](http://wiki.genos.mus.br/cursocomposicao/aula5)
 
