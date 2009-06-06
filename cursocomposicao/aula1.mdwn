@@ -46,7 +46,23 @@ A 4º Projeção comtemplará a produção composicional dos participantes do cu
 
 ## Prática:
 
-Usar samples da pasta shared para montar um trecho musical no software [Ardour]()
+Usar samples da pasta shared para montar um trecho musical no software [Ardour](http://ardour.org/)
+
+### Algumas idéias:
+
+ * Importar áudios;
+
+ * Recursos de corte e colagem;
+
+ * Montagem;
+
+ * Stretchs;
+
+ * Mixagem;
+
+ * Plug-ins [http://www.ladspa.org/ LADSPA] dentro do Ardour;
+
+ * Espacialização sonora (pans, quadrafonia e outros tipos de espacialização).
 
 ## Calendário de utilização do GenosLab para composição
 
