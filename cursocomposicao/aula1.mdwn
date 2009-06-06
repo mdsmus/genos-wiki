@@ -42,4 +42,11 @@ A 4º Projeção comtemplará a produção composicional dos participantes do cu
 
  * [Ardour](http://ardour.org)
 
+## [Ligeti: Artikulation - 1958](http://ummyeah.com/page/Ligeti_Artikulation)
+
+## Prática:
+
+Usar samples da pasta shared para montar um trecho musical no software [Ardour]()
+
 ## Calendário de utilização do GenosLab para composição
+
