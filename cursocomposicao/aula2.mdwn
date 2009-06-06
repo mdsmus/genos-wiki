@@ -1,5 +1,11 @@
 # Aula 2
 
+10 de junho de 2009
+
+GenosLab
+
+17-19hs
+
 ## Fundamentos da música eletroacústica
 
  * A [Música Eletroacústica](http://en.wikipedia.org/wiki/Electronic_music) de primeira hora
@@ -74,7 +80,6 @@ O efeito é um timbre rico em harmônicos
 
  * Montar um pequeno estudo com síntese aditiva, am e fm no CSound.
 
-Algumas noções e idéias interessantes para a Composição Eletroacústica podem ser encontradas [Material e forma na música eletroacústica](http://acd.ufrj.br/lamut/lamutpgs/rcpesqs/08matfo.htm) de Rodolfo Caesar.
 
 ## Bibliografia
 
