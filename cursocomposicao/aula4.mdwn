@@ -6,6 +6,83 @@ GenosLab
 
 17-19hs
 
+## [Rosegarden](http://www.rosegardenmusic.com/)
+
+Ferramenta para seqüenciamento [MIDI](http://pt.wikipedia.org/wiki/MIDI). Permite escrever trechos musicais (em partitura, através de um Piano Hole ou controlador MIDI) e exportar para uma score do CSound, para um arquivo Lilypond ou MusicXML.
+
+Em conjunto com o QSynth permite gerar áudio a partir de arquivos MIDI, com o Uso de soundfonts.
+
+## [QSynth](http://qsynth.sourceforge.net/qsynth-index.html)
+
+É um sintetizador que permite o gerenciamento de soundfonts.
+
+## Soundfonts
+
+Samples que permitem gerar áudio a partir de dados MIDI.
+
+### Sites úteis
+
+ * Softwares Livres para tratamento de áudio
+http://en.wikipedia.org/wiki/Free_audio_software
+
+ * Hydrogen
+http://www.hydrogen-music.org/
+
+ * Jack
+http://jackaudio.org/
+
+http://en.wikipedia.org/wiki/JACK_Audio_Connection_Kit
+
+ * ALSA (Advanced Linux Sound Architecture)
+http://www.alsa-project.org/main/index.php/Main
+
+http://en.wikipedia.org/wiki/ALSA_%28Linux%29
+
+ * Rosegarden
+http://www.rosegardenmusic.com/
+
+http://en.wikipedia.org/wiki/Audacity
+
+ * QSynth (FluidSynth)
+http://qsynth.sourceforge.net/qsynth-index.html
+
+http://en.wikipedia.org/wiki/FluidSynth
+
+ * SoundFont
+http://en.wikipedia.org/wiki/SoundFont
+
+http://www.sf2midi.com/
+
+http://soundblaster.com/soundfont/ (soundfont.com)
+
+http://www.bestvst.de//
+
+http://www.jayzensound.com/index.htm
+                                                                         36
+ * Ardour
+
+http://ardour.org/
+
+http://en.wikipedia.org/wiki/Ardour_%28audio_processor%29#External_links
+
+ * MIDI (Musical Instrument Digital Interface)
+
+http://pt.wikipedia.org/wiki/MIDI
+
+http://en.wikipedia.org/wiki/MIDI
+
+ * LADSPA (Linux Audio Developers Simple Plugin API)
+
+http://www.ladspa.org/
+
+ * Audacity
+
+http://audacity.sourceforge.net/
+
+ * Pure Data
+
+http://www.puredata.org/
+
 ## Gravação como recurso para composição
 
  * Microfones;
