@@ -1,0 +1,29 @@
+# Aula 4
+
+16 de junho de 2009
+
+GenosLab
+
+17-19hs
+
+## [Hydrogen](http://www.hydrogen-music.org/)
+
+Gerenciamento de eventos
+
+Os padrões, os instrumentos, peça e o mixer
+
+## Gravação como recurso para composição
+
+
+ * Microfones;
+
+ * Etapas de ligação do equipamento;
+
+ * Gravando dentro do [http://ardour.org Ardour];
+
+
+ * Finalizando um áudio e exportando;
+
+
+
+ * Carregando samples em um kit hydrogen.
