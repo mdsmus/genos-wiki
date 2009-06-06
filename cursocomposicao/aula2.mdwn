@@ -1,0 +1,105 @@
+# Aula 2
+
+## Fundamentos da música eletroacústica
+
+ * A [Música Eletroacústica](http://en.wikipedia.org/wiki/Electronic_music) de primeira hora
+
+ * Paris X Colônia
+
+ * Difusões
+
+### Música eletrônica
+
+ * Apreciação
+
+Compositor: Karlheinz Stockhausen
+
+Obra: *Eletronische Studie I* (1953)
+
+### Música concreta
+
+ * Apreciação
+
+Compositor: Pierre Shaeffer
+
+Obra: *Étu Aux Sons Animés* (1958) 
+
+### Obras dos participantes do curso
+
+## Introdução à Síntese Sonora
+
+A [http://www6.ufrgs.br/musicaeletronica/revistateclado/pag%20agosto%202005.htm Síntese Sonora] é a geração "artificial" de sons, a partir de sinais elétricos (ondas senoidais, triangulares, quadradas, dente-de-serra), sinais discretos (re-síntese), cruzamento de espectros e outros procedimentos eletrônicos. Esses processos possibilitaram o advento dos instrumentos eletrônicos conhecidos como [http://pt.wikipedia.org/wiki/Sintetizador Sintetizadores].
+
+ * [Síntese Aditiva](http://en.wikipedia.org/wiki/Additive_synthesis);
+
+Síntese aditiva no [http://audacity.sourceforge.net/ Audacity]
+
+Experiência de escuta de ondas senoidais, quadradas, dente-de-serra e triangular
+
+Experiência de escuta de sinteses aditivas com ondas senoidais
+
+ * [Síntese Subtrativa](http://en.wikipedia.org/wiki/Subtractive_synthesis);
+
+Filtros
+
+ * [AM (Amplitude Modulation)](http://en.wikipedia.org/wiki/Amplitude_modulation);
+
+Modulação de amplitude
+
+A amplitude de uma dada onda (portadora) é variada por uma outra onda (moduladora)
+
+O efeito muitas vezes é semelhante a um trêmolo
+
+ * [FM (Frequency Modulation)];(http://en.wikipedia.org/wiki/Frequency_modulation)
+
+Modulação de freqüência
+
+A freqüência de uma dada onda (portadora) é variada por uma outra onda (portadora)
+
+O efeito é um timbre rico em harmônicos
+
+ * [Ring Modulation](http://en.wikipedia.org/wiki/Ring_modulator);
+
+Modulação em anel
+
+Combina duas ondas e resulta na soma e na diferença das freqüência presentes em cada uma
+
+O efeito é como é geralmente um timbre metálico, como o som de um sino
+
+ * [Cross-synthesis](http://ccrma.stanford.edu/~jos/sasp/Cross_Synthesis.html).
+
+Síntese Cruzada
+
+O espectro de um som é "cruzado" com o espectro de outro som
+
+O efeito é uma mistura dos sons cruzados (do tipo um violoncelo com som de água)
+
+## CSound
+
+ * O [Site Oficial](http://csounds.com)
+
+ * Estrutura de uma composição no CSound
+
+ * Os arquivos .orc
+
+ * Os arquivos .sco
+
+ * Alguns exemplos
+
+ * Documentação
+
+## Bibliografia
+
+CAESAR, Rodolfo. 1997. Material e forma na música eletroacústica.In: *Revista Pesquisa e Música do Conservatório Brasileiro de Música*. Rio de Janeiro: Conservatório Brasileiro de Música 3:1.
+
+DODGE, Charles. e JERSE, Thomas A. 1997. *Computer music*. 2a. ed. Schimer Books, New York.
+
+GRIFFITHS, Paul. 1998. *Música moderna*. Rio de Janeiro: Jorge Zahar Editor.
+
+MENEZES, Flo. 1996. *Música eletroacústica*: história e estéticas. São Paulo: Universidade de São Paulo.
+
+_____. 2006. *Música maximalista*: ensaios sobre música radical e especulativa. São Paulo: Editora da UNESP.
+
+MOORE, R. 1990. *Elements of Computer Music*. Prentice Hall. New Jersey.
+
+SCHAEFFER, Pierre. 1993. *Tratado dos Objetos Musicais*. Trad. Ivo Martinazzo. Brasília: Edunb.
