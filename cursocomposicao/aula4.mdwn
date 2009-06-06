@@ -14,16 +14,12 @@ Os padrões, os instrumentos, peça e o mixer
 
 ## Gravação como recurso para composição
 
-
  * Microfones;
 
  * Etapas de ligação do equipamento;
 
- * Gravando dentro do [http://ardour.org Ardour];
-
+ * Gravando dentro do [Ardour](http://ardour.org);
 
  * Finalizando um áudio e exportando;
-
-
 
  * Carregando samples em um kit hydrogen.
