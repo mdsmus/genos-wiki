@@ -40,7 +40,7 @@ e/ou
 
  * Experimentar os modelos de síntese subtrativa no Pd.
 
-### Bibliografia
+## Bibliografia
 
 Boulanger, Richard, ed. 2000. *The CSound book*. Cambridge/ London: MIT Press.
 
