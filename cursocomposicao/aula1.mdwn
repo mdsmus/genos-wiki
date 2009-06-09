@@ -60,7 +60,7 @@ Usar samples da pasta shared para montar um trecho musical no software [Ardour](
 
  * Mixagem;
 
- * Plug-ins [http://www.ladspa.org/ LADSPA] dentro do Ardour;
+ * Plug-ins [LADSPA](http://www.ladspa.org/) dentro do Ardour;
 
  * Espacialização sonora (pans, quadrafonia e outros tipos de espacialização).
 
