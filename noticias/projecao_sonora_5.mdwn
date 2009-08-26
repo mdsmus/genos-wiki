@@ -1,0 +1,142 @@
+# 5ª Projeção sonora de Música Eletroacústica Genos (27/08/09)
+
+O Grupo Genos de Pesquisa está promovendo as [Projeções Sonoras de Música Eletroacústica](http://wiki.genos.mus.br/projecoes/) em todas as últimas quintas-feiras de cada mês.
+
+Dados da projeção:
+
+* Data: 27/08 (quinta-feira)
+* Horário: 18 horas
+* Local: GenosLab (laboratório do grupo de pesquisa Genos)
+
+## Compositores e obras
+
+**Rodolfo Valente** nasceu em 1979, in São Paulo, Brasil. Concluiu o
+  curso de Composição e Regência da UNESP em 2008, com ênfase em
+  composição instrumental e eletroacústica. Deu início em 2009 ao
+  mestrado sob a orientação de Flo Menezes na mesma
+  universidade. Participou do curso de verão de Darmstadt em 2008,
+  tendo aulas com Brian Ferneyhough e Wolfgang Rihm, entre
+  outros. Estudou com Stefano Gervasoni e Claude Ledoux no 40º
+  Festival Internacional de Inverno de Campos do Jordão, onde recebeu
+  o Prêmio Camargo Guarnieri de Composição. Também foi ganhador do
+  Brazilian Composer's Competition promovido pelo Nieuw Ensemble na
+  Holanda.
+
+*Turé Tendencioso*: geralmente me perguntam o porque desse
+ nome. "Turé" por causa de uma gravação do "turé do tucano" dos índios
+ Waiapi do Amapá, do qual eu tirei o primeiro sample (uma flauta grave
+ com um espectro interessantíssimo, cheio de parciais inarmônicos).
+ "Tendencioso" por causa da Tendenciosa de Walter Smetak, de onde
+ retirei o segundo (violões afinados microtonalmente tocados com
+ arco). Juntos, os dois fragmentos somam menos de 2 segundos, mas
+ através de manipulações sucessivas e diferentes, geram todo o
+ material dos mais de 7 minutos da peça, nunca aparecendo em sua forma
+ original. Pela primeira vez, além de filtros, utilizei a convolução
+ para acomodar materiais frequencialmente díspares em ambientes
+ harmônicos específicos. Essa peça foi estreada na VII BIMESP 2008, no
+ SESC Vila Mariana em São Paulo e faz parte do cd virtual [cs002]
+ Ibrasotope Vol. 2: Música Eletroacústica 2008.
+
+**Leo Alves** Vieira compõe e interpreta (Violão) profissionalmente
+  desde os 16 anos trilhas para curta-metragem e teatro, onde compõe,
+  interpreta e dirige musicalmente os espetáculos do premiado diretor
+  Carlos Augusto Nazareth, Francisco Salgado e Milton Quadros. Desde
+  2000 vêm apresentando-se na Academia, atuando no coro que estreou
+  mundialmente peça inédita de Edino Krieger no Teatro Municipal do
+  Rio, em comemoração de aniversário da UFRJ. Em 2003 estréia obra sua
+  em concertos junto ao grupo "OFELEX" , estreando como intérprete e
+  compositor na XV Bienal de Música Brasileira Contemporânea do mesmo
+  ano (FUNARTE). Em set/ 2006, deu-se o lançamento de seu primeiro
+  disco "Sounds of the Orange Coloured Forest", de música
+  eletroacústica na sua maioria, pela Pralaya Records, em Nova York.
+
+*Remake*: inspirada no conceito de reciclagem, tão somente por ter
+ figurado em uma compilação argentina em homenagem ao dia do meio
+ ambiente do ano corrente, "Remake" parte não só desta idéia como do
+ uso exclusivo de sons de lixo: garrafas, latinhas, papel amassado,
+ rasgado, etc... Há uma certa quantidade de imagens sonoras, como a de
+ um caminhão ao redor do mundo, levando lixo. A compilação saiu pela
+ BASURA DISCOS e está disponível pra download gratutito em seu site
+ (www.basuradiscos.com.ar).  Mais detalhes nesta reportagem:
+ http://www.coquetelmolotov.com.br/pt/noticias.php?cod=758
+
+**Guilherme Bertissolo** é compositor e instrumentista, Doutorando em
+  Composição na Universidade Federal da Bahia, sob orientação de Paulo
+  Costa Lima. Estudou regularmente e realizou cursos com renomados
+  professores do Brasil e do exterior, dentre eles Eloy Fritsch,
+  Flávio Oliveira, Jocy de Oliveira, Wellington Gomes, Jamary
+  Oliveira. Teve obras estreadas em Montenegro, Porto Alegre,
+  Curitiba, São Paulo, Aracajú e Salvador. Sua obra Um Truco numa
+  Carona recebeu o Primeiro Prêmio no II Concurso "Ernst Widmer" de
+  Composição e Exceto foi selecionada para execução na XVIII Bienal de
+  Música Contemporânea Brasileira em 2009. Atualmente é professor
+  substituto no Departamento de Composição, Literatura e Estruturação
+  Musical da UFBa.
+
+*A Fuga de Mário Quintana* foi composta em 2006 no Centro de Música
+ Eletrônica da UFRGS, utilizando como fonte sonora gravações de sete
+ leituras de vozes diferentes do Poema "Espelho Mágico do Amoroso
+ Esquecimento", de Mário Quintana. Há uma investigação sonora
+ proveniente das sutilezas timbrísticas de cada voz e da articulação
+ das palavras do poema, potencializadas pela aplicação de algoritmos
+ de filtros e por processos de time-stretch. A peça propõe uma
+ sobreposição desses timbres formando uma textura que se adensa pouco
+ a pouco até o ápice final.
+
+**Mário del Nunzio** nasceu em 1983. Graduou-se em composição na
+  UNICAMP. Dedica-se a vertentes experimentais da produção
+  musical. Compõe música instrumental e eletroacústica, e toca com
+  grupos de improvisação / música não-escrita. Teve peças tocadas e
+  tocou em diversas cidades no Brasil (São Paulo, Rio de Janeiro,
+  Curitiba, Salvador, Belo Horizonte, Campinas, etc) e no exterior
+  (Birmingham, Belgrado, Bruxelas, Copenhague, Viña Del Mar,
+  etc). Ministrou cursos e oficinas de Improvisação na Música
+  Contemporânea (Porto Alegre, 2008; SESC Consolação, 2009), e tem
+  artigos publicados nas áreas de musicologia e música &
+  tecnologia. Também se dedica à difusão da música experimental: foi
+  um dos idealizadores e organizadores do I ENCUn (Encontro Nacional
+  de Compositores Universitários), em 2003, que teve, desde então,
+  seis edições, em diferentes cidades e regiões do Brasil; e é ao lado
+  de Henrique Iwao diretor do Ibrasotope e curador da série mensal de
+  concertos realizada em sua sede, bem como do Festival Ibrasotope,
+  que teve sua primeira edição em dezembro de 2008, que contou com
+  apresentações de cerca de 15 grupos / artistas dedicados à música
+  experimental. Em 2009, iniciou mestrado na USP, com pesquisa
+  abordando a fisicalidade em determinadas vertentes da música
+  contemporânea. Para 2009 também está prevista a composição de uma
+  nova peça, para quarteto de guitarras elétricas, encomendada pelo
+  grupo belga Zwerm, com estréia prevista na cidade de Bruxelas, no
+  Concertgebouw Brugge, no segundo semestre.
+
+*Libidinagens neuro-sentimentais*: estreada em Campinas, em 2004, e
+ depois tocada em várias cidades do Brasil e no exterior em Viña del
+ Mar, Chile, durante o Encuentro de Arte Sonora Tsonami. O título da
+ peça está relacionado a impulsos de expressividade ultra-romântica,
+ associada especificamente ao conteúdo gestual, que domina a peça. Um
+ dos procedimentos dominantes da peça é a síntese por representação
+ gráfica, que gera sons de caráter ruidístico e ‘clicks’. Formalmente,
+ a música se desenvolve com uma tripla repetição de uma mesma
+ seqüência de eventos, mas com as ênfases e os tratamentos dos
+ materiais diferentes a cada recorrência.
+
+**Karlheinz Stockhausen (1928-2007)** é considerado um dos principais
+  compositores do século passado. Tomou parte no Estúdio de Colônia,
+  do qual foi diretor e um dos principais colaboradores, e nos cursos
+  de Darmstadt, que possui até hoje o seu nome em um dos seus
+  módulos. Suas obras, incluindo as eletroacústicas, são pioneiras em
+  diversos aspectos, destaquemos entre muitos a manipulação de sons
+  puramente eletrônicos, como em seus "Estudos", e a proposta de
+  hibridação entre as "escolas" aparentemente opostas sob o ponto de
+  vista ideológico, na efervescente década de 1950.
+
+*Gesang der Jünglinge*: composição eletrônica realizada entre os anos
+ de 1955-6, surge como resposta ao conflito entre a "Musique Concrète"
+ e a "Elektronische Musik", tão acirrado na década de 1950. Seu
+ material de base provém tanto de fontes "concretas" - uma gravação de
+ um fragmento do texto apócrifo do terceiro Livro de Daniel da Bíblia
+ – Gesang der Jünglinge im Feuerofen (Cântico dos Adolescentes na
+ Fornalha Ardente) cantado por um menino cantor da Catedral de Colônia
+ – como de fontes eletrônicas – sons senoidais, ruídos produzidos
+ eletronicamente e "impulsos" eletrônicos. Essa obra, de certa
+ maneira, inaugura a idéia do que hoje conhecemos por "música
+ eletroacústica".
