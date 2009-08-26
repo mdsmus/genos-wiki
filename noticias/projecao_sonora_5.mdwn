@@ -56,9 +56,9 @@ Dados da projeção:
  uso exclusivo de sons de lixo: garrafas, latinhas, papel amassado,
  rasgado, etc... Há uma certa quantidade de imagens sonoras, como a de
  um caminhão ao redor do mundo, levando lixo. A compilação saiu pela
- BASURA DISCOS e está disponível pra download gratutito em seu site
- (www.basuradiscos.com.ar).  Mais detalhes nesta reportagem:
- http://www.coquetelmolotov.com.br/pt/noticias.php?cod=758
+ BASURA DISCOS e está disponível pra download gratutito em seu
+ [site](http://www.basuradiscos.com.ar).  Mais detalhes nesta
+ [reportagem](http://www.coquetelmolotov.com.br/pt/noticias.php?cod=758)
 
 **Guilherme Bertissolo** é compositor e instrumentista, Doutorando em
   Composição na Universidade Federal da Bahia, sob orientação de Paulo
