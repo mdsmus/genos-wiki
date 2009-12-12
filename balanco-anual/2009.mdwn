@@ -15,7 +15,35 @@ Genos e por seus membros durante o ano de 2009.
   realizados mensalmente com música de compositores do mundo
   inteiro. Organizado por Guilherme Bertissolo.
 
-## Apoio a eventos
+## Produção acadêmica
+
+### Artigos publicados
+
+* SAMPAIO, M. S.; KROGER JUNIOR, P. R. . Goiaba: a software to process
+  musical contours. In: 12º. Simpósio Brasileiro de Computação
+  Musical, 2009, Recife. Anais do 12º. Simpósio Brasileiro de
+  Computação Musical, 2009. p. 203-206.
+
+* PASSOS, A. T.; SAMPAIO, M. S. ; KROGER JUNIOR, P. R. ; OLIVEIRA,
+  Givaldo de Cidra . Functional Harmonic Analysis and Computational
+  Musicology in Rameau. In: 12º. Simpósio Brasileiro de Computação
+  Musical, 2009, Recife. Anais do 12º. Simpósio Brasileiro de
+  Computação Musical, 2009. p. 207-210.
+
+### Apresentação de trabalhos
+
+* SAMPAIO, M. S. ; KROGER JUNIOR, P. R. . Goiaba: a software to
+  process musical contours. 2009. 12º. Simpósio Brasileiro de
+  Computação Musical, 2009, Recife.
+
+* PASSOS, A. T. ; SAMPAIO, M. S. ; KROGER JUNIOR, P. R. ; OLIVEIRA,
+  Givaldo de Cidra . Functional Harmonic Analysis and Computational
+  Musicology in Rameau. 2009. 12º. Simpósio Brasileiro de Computação
+  Musical, 2009, Recife.
+
+* SAMPAIO, M. S. ; BESTISSOLO, G. ; OLIVEIRA, Givaldo de
+  Cidra. . Genos: ferramentas, pesquisa e extensão. 2009. Fórum do
+  Programa de Pós-Graduação em Música da UFBA.
 
 ## Produção artística
 
@@ -50,37 +78,10 @@ Genos e por seus membros durante o ano de 2009.
   XVIII Bienal de Música Brasileira Comtemporânea. Apresentação na
   Sala Cecília Meireles em 27/10/2009.
 
-## Produção acadêmica
-
-### Artigos publicados
-
-* SAMPAIO, M. S.; KROGER JUNIOR, P. R. . Goiaba: a software to process
-  musical contours. In: 12º. Simpósio Brasileiro de Computação
-  Musical, 2009, Recife. Anais do 12º. Simpósio Brasileiro de
-  Computação Musical, 2009. p. 203-206.
-
-* PASSOS, A. T.; SAMPAIO, M. S. ; KROGER JUNIOR, P. R. ; OLIVEIRA,
-  Givaldo de Cidra . Functional Harmonic Analysis and Computational
-  Musicology in Rameau. In: 12º. Simpósio Brasileiro de Computação
-  Musical, 2009, Recife. Anais do 12º. Simpósio Brasileiro de
-  Computação Musical, 2009. p. 207-210.
-
-### Apresentação de trabalhos
-
-* SAMPAIO, M. S. ; KROGER JUNIOR, P. R. . Goiaba: a software to
-  process musical contours. 2009. 12º. Simpósio Brasileiro de
-  Computação Musical, 2009, Recife.
-
-* PASSOS, A. T. ; SAMPAIO, M. S. ; KROGER JUNIOR, P. R. ; OLIVEIRA,
-  Givaldo de Cidra . Functional Harmonic Analysis and Computational
-  Musicology in Rameau. 2009. 12º. Simpósio Brasileiro de Computação
-  Musical, 2009, Recife.
-
-* SAMPAIO, M. S. ; BESTISSOLO, G. ; OLIVEIRA, Givaldo de
-  Cidra. . Genos: ferramentas, pesquisa e extensão. 2009. Fórum do
-  Programa de Pós-Graduação em Música da UFBA.
-
 ## Cursos ministrados
 
 * OLIVEIRA, Givaldo de Cidra. ; SAMPAIO, M. S. . Curso Introdutório ao
   Linux. 2009. Curso realizado no GenosLab. Duração de 10 horas.
+
+## Apoio a eventos
+
