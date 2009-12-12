@@ -41,6 +41,17 @@ Genos e por seus membros durante o ano de 2009.
   Musicology in Rameau. 2009. 12º. Simpósio Brasileiro de Computação
   Musical, 2009, Recife.
 
+* SAMPAIO, M. S. . Um ensaio sobre acento 2009. Fórum do Programa de
+  Pós-Graduação em Música da UFBA.
+
+* SAMPAIO, M. S. . Em torno da romã Op.6, uma composição baseada em
+  contornos musicais. 2009. Fórum do Programa de Pós-Graduação em
+  Música da UFBA.
+
+* SAMPAIO, M. S. Um algoritmo para gerar material
+  compositivo. 2009. Fórum do Programa de Pós-Graduação em Música da
+  UFBA.
+
 * SAMPAIO, M. S. ; BESTISSOLO, G. ; OLIVEIRA, Givaldo de
   Cidra. . Genos: ferramentas, pesquisa e extensão. 2009. Fórum do
   Programa de Pós-Graduação em Música da UFBA.
