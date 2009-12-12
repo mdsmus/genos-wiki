@@ -41,7 +41,7 @@ Genos e por seus membros durante o ano de 2009.
   Musicology in Rameau. 2009. 12º. Simpósio Brasileiro de Computação
   Musical, 2009, Recife.
 
-* SAMPAIO, M. S. . Um ensaio sobre acento 2009. Fórum do Programa de
+* SAMPAIO, M. S. . Um ensaio sobre acento. 2009. Fórum do Programa de
   Pós-Graduação em Música da UFBA.
 
 * SAMPAIO, M. S. . Em torno da romã Op.6, uma composição baseada em
@@ -93,6 +93,9 @@ Genos e por seus membros durante o ano de 2009.
 
 * OLIVEIRA, Givaldo de Cidra. ; SAMPAIO, M. S. . Curso Introdutório ao
   Linux. 2009. Curso realizado no GenosLab. Duração de 10 horas.
+
+* SAMPAIO, M. S. . Curso Introdutório ao Lilypond. 2009. Curso
+  realizado no GenosLab. Duração de 10 horas.
 
 ## Apoio a eventos
 
