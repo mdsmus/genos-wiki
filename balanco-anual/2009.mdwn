@@ -17,6 +17,12 @@ Genos e por seus membros durante o ano de 2009.
   apresentadas 39 peças de 24 compositores de 6 países e 6 estados
   brasileiros. Um total de 14 peças foram compostas no ano de 2009.
 
+* PdCon09 - 3ª Convenção internacional da comunidade de Pure data -
+instalações, papers, performances e workshops - Mis/Sesc/Puc - São Paulo - julho de 2009
+
+
+* ISCL
+
 ## Produção acadêmica
 
 ### Artigos publicados
