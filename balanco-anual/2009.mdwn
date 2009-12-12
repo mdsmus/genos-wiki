@@ -105,11 +105,18 @@ Genos e por seus membros durante o ano de 2009.
 
 ## Cursos ministrados
 
+* BERTISSOLO, G. Curso de Composição Eletroacústica. 2009. Curso
+  realizado no GenosLab. Duração de 20 horas.
+
 * OLIVEIRA, Givaldo de Cidra. ; SAMPAIO, M. S. . Curso Introdutório ao
   Linux. 2009. Curso realizado no GenosLab. Duração de 10 horas.
 
 * SAMPAIO, M. S. . Curso Introdutório ao Lilypond. 2009. Curso
   realizado no GenosLab. Duração de 10 horas.
+
+* GARCIA, R.; SANTANA H. P. . Curso básico de trilha sonora para
+  cinema. 2009. Curso realizado no GenosLab. Este curso foi o
+  tirocínio docente dos ministrantes. Duração de 34 horas.
 
 ## Apoio a eventos
 
