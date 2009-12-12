@@ -5,6 +5,10 @@ Genos e por seus membros durante o ano de 2009.
 
 ## Prêmios
 
+* Primeiro prêmio do concurso "Professor Fernando Burgos Lima", na
+  categoria música de câmara, com a obra "Do Éter ao Hidrogênio"
+  (Natanael Ourives).
+
 ## Organização de eventos
 
 * Projeções sonoras. Projeto com 8 recitais de música eletroacústica
@@ -23,6 +27,9 @@ Genos e por seus membros durante o ano de 2009.
 * Catexia, op. 25 (Guilherme Bertissolo). Obra para flauta, clarinete,
   trompete, violino e violoncelo.
 
+* Do éter ao carbono (Natanael Ourives). Obra para clarinete, 2
+  violoncelos, piano e 2 percussionistas.
+
 ### Performance
 
 * Espiral, op. 7 (Marcos di Silva). Obra apresentada pelo Grupo de
@@ -34,6 +41,14 @@ Genos e por seus membros durante o ano de 2009.
   de Intérpretes Musicais da Bahia (GIMBA) durante o Encontro de
   Compositores dos XXI Seminários Internacionais de Música da
   UFBA. Apresentação na Reitoria da UFBA em 3/12/2009
+
+* Exceto (Guilherme Bertissolo). Obra apresentada durante a
+  XVIII Bienal de Música Brasileira Comtemporânea. Apresentação na
+  Sala Cecília Meireles em 27/10/2009.
+
+* Do éter ao carbono (Natanael Ourives). Obra apresentada durante a
+  XVIII Bienal de Música Brasileira Comtemporânea. Apresentação na
+  Sala Cecília Meireles em 27/10/2009.
 
 ## Produção acadêmica
 
@@ -61,3 +76,11 @@ Genos e por seus membros durante o ano de 2009.
   Musicology in Rameau. 2009. 12º. Simpósio Brasileiro de Computação
   Musical, 2009, Recife.
 
+* SAMPAIO, M. S. ; BESTISSOLO, G. ; OLIVEIRA, Givaldo de
+  Cidra. . Genos: ferramentas, pesquisa e extensão. 2009. Fórum do
+  Programa de Pós-Graduação em Música da UFBA.
+
+## Cursos ministrados
+
+* OLIVEIRA, Givaldo de Cidra. ; SAMPAIO, M. S. . Curso Introdutório ao
+  Linux. 2009. Curso realizado no GenosLab. Duração de 10 horas.
