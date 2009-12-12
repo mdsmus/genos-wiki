@@ -15,7 +15,8 @@ Genos e por seus membros durante o ano de 2009.
   realizados mensalmente com música de compositores do mundo
   inteiro. Organizado por Guilherme Bertissolo.
 
-* PdCon09
+* PdCon09 - 3ª Convenção internacional da comunidade de Pure data -
+instalações, papers, performances e workshops - Mis/Sesc/Puc - São Paulo - julho de 2009
 
 
 * ISCL
