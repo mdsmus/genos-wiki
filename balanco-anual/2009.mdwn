@@ -32,8 +32,8 @@ Genos e por seus membros durante o ano de 2009.
 
 ### Artigos publicados
 
-* SAMPAIO, Marcos S.; KROGER JUNIOR, Pedro R. . Goiaba: a software to process
-  musical contours. In: 12º. Simpósio Brasileiro de Computação
+* SAMPAIO, Marcos S.; KROGER JUNIOR, Pedro R. . Goiaba: a software to
+  process musical contours. In: 12º. Simpósio Brasileiro de Computação
   Musical, 2009, Recife. Anais do 12º. Simpósio Brasileiro de
   Computação Musical, 2009. p. 203-206.
 
@@ -49,13 +49,21 @@ Genos e por seus membros durante o ano de 2009.
   process musical contours. 2009. 12º. Simpósio Brasileiro de
   Computação Musical, 2009, Recife.
 
+* BERTISSOLO, Guilherme. . Noite: aspectos do compor
+  múltiplo. 6/11/2009. Fórum do Programa de Pós-Graduação em Música da
+  UFBA.
+
+* SAMPAIO, Marcos S. Um algoritmo para gerar material
+  compositivo. 2/10/2009. Fórum do Programa de Pós-Graduação em Música
+  da UFBA.
+
 * PASSOS, Alexandre T. ; SAMPAIO, Marcos S. ; KROGER JUNIOR, Pedro
   R. ; OLIVEIRA, Givaldo de Cidra . Functional Harmonic Analysis and
   Computational Musicology in Rameau. 2009. 12º. Simpósio Brasileiro
   de Computação Musical, 2009, Recife.
 
-* SAMPAIO, Marcos S. . Um ensaio sobre acento. 2009. Fórum do Programa
-  de Pós-Graduação em Música da UFBA.
+* SAMPAIO, Marcos S. . Um ensaio sobre acento. 4/9/2009. Fórum do
+  Programa de Pós-Graduação em Música da UFBA.
 
 * SAMPAIO, Marcos S. Em torno da romã Op.6, uma composição baseada em
   contornos musicais. 29/5/2009. Fórum do Programa de Pós-Graduação em
@@ -65,20 +73,13 @@ Genos e por seus membros durante o ano de 2009.
   eletroacústicas. 29/5/2009. Fórum do Programa de Pós-Graduação em
   Música da UFBA.
 
-* BERTISSOLO, Guilherme. . Noite: aspectos do compor múltiplo. Fórum
+* SAMPAIO, Marcos S. ; BESTISSOLO, Guilherme ; OLIVEIRA, Givaldo de
+  Cidra. . Genos: ferramentas, pesquisa e extensão. 22/5/2009. Fórum
   do Programa de Pós-Graduação em Música da UFBA.
 
-* SAMPAIO, Marcos S. Um algoritmo para gerar material
-  compositivo. 2009. Fórum do Programa de Pós-Graduação em Música da
-  UFBA.
-
 * BERTISSOLO, Guilherme. . Sobre uma po(i)ética em
-  movimento. 2009. Fórum do Programa de Pós-Graduação em Música da
-  UFBA.
-
-* SAMPAIO, Marcos S. ; BESTISSOLO, Guilherme ; OLIVEIRA, Givaldo de
-  Cidra. . Genos: ferramentas, pesquisa e extensão. 2009. Fórum do
-  Programa de Pós-Graduação em Música da UFBA.
+  movimento. 24/4/2009. Fórum do Programa de Pós-Graduação em Música
+  da UFBA.
 
 ### Teses e dissertações defendidas
 
