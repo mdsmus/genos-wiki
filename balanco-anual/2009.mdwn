@@ -5,86 +5,86 @@ Genos e por seus membros durante o ano de 2009.
 
 ## Prêmios
 
-* Primeiro prêmio do concurso "Professor Fernando Burgos Lima", na
-  categoria música de câmara, com a obra "Do Éter ao Hidrogênio"
-  (Natanael Ourives).
+* OURIVES, Natanael. Primeiro prêmio do concurso "Professor Fernando
+  Burgos Lima", na categoria música de câmara, com a obra "Do Éter ao
+  Hidrogênio".
 
 ## Organização de eventos
 
-* Projeções sonoras (Guilherme Bertissolo). Projeto com 8 recitais de
+* BERTISSOLO, Guilherme. Projeções sonoras. Projeto com 8 recitais de
   música eletroacústica realizados mensalmente. Neste projeto foram
   apresentadas 39 peças de 24 compositores de 6 países e 6 estados
   brasileiros. Um total de 14 peças foram compostas no ano de 2009.
 
-* FIGUEIRO, C. S. PdCon09 - 3ª Convenção internacional da comunidade
-  de Pure data - instalações, papers, performances e workshops -
-  Mis/Sesc/Puc - São Paulo - julho de 2009
+* FIGUEIRO, Cristiano S. PdCon09 - 3ª Convenção internacional da
+  comunidade de Pure data - instalações, papers, performances e
+  workshops - Mis/Sesc/Puc - São Paulo - julho de 2009
 
+* FIGUEIRO, Cristiano S. ISCL - Simpósio internacional interatividade
+  nos sistemas computacionais livres. Performances, workshops, hacklab
+  - julho/agosto de 2009 - UFBA - Salvador
 
-* FIGUEIRO, C. S. ISCL - Simpósio internacional interatividade nos
-  sistemas computacionais livres. Performances, workshops, hacklab -
-  julho/agosto de 2009 - UFBA - Salvador
-
-* Intercâmbio acadêmico entre Sonic Arts Research Center e PPGMUS-UFBA
-  (Marcos di Silva). 2009. Apresentação dos trabalhos em andamento no
-  SARC.
+* SILVA, Marcos di. Intercâmbio acadêmico entre Sonic Arts Research
+  Center e PPGMUS-UFBA. 2009. Apresentação dos trabalhos em andamento
+  no SARC.
 
 ## Produção acadêmica
 
 ### Artigos publicados
 
-* SAMPAIO, M. S.; KROGER JUNIOR, P. R. . Goiaba: a software to process
+* SAMPAIO, Marcos S.; KROGER JUNIOR, Pedro R. . Goiaba: a software to process
   musical contours. In: 12º. Simpósio Brasileiro de Computação
   Musical, 2009, Recife. Anais do 12º. Simpósio Brasileiro de
   Computação Musical, 2009. p. 203-206.
 
-* PASSOS, A. T.; SAMPAIO, M. S. ; KROGER JUNIOR, P. R. ; OLIVEIRA,
-  Givaldo de Cidra . Functional Harmonic Analysis and Computational
-  Musicology in Rameau. In: 12º. Simpósio Brasileiro de Computação
-  Musical, 2009, Recife. Anais do 12º. Simpósio Brasileiro de
-  Computação Musical, 2009. p. 207-210.
+* PASSOS, Alexandre T.; SAMPAIO, Marcos S. ; KROGER JUNIOR, Pedro R. ;
+  OLIVEIRA, Givaldo de Cidra . Functional Harmonic Analysis and
+  Computational Musicology in Rameau. In: 12º. Simpósio Brasileiro de
+  Computação Musical, 2009, Recife. Anais do 12º. Simpósio Brasileiro
+  de Computação Musical, 2009. p. 207-210.
 
 ### Apresentação de trabalhos
 
-* SAMPAIO, M. S. ; KROGER JUNIOR, P. R. . Goiaba: a software to
+* SAMPAIO, Marcos S. ; KROGER JUNIOR, Pedro R. . Goiaba: a software to
   process musical contours. 2009. 12º. Simpósio Brasileiro de
   Computação Musical, 2009, Recife.
 
-* PASSOS, A. T. ; SAMPAIO, M. S. ; KROGER JUNIOR, P. R. ; OLIVEIRA,
-  Givaldo de Cidra . Functional Harmonic Analysis and Computational
-  Musicology in Rameau. 2009. 12º. Simpósio Brasileiro de Computação
-  Musical, 2009, Recife.
+* PASSOS, Alexandre T. ; SAMPAIO, Marcos S. ; KROGER JUNIOR, Pedro
+  R. ; OLIVEIRA, Givaldo de Cidra . Functional Harmonic Analysis and
+  Computational Musicology in Rameau. 2009. 12º. Simpósio Brasileiro
+  de Computação Musical, 2009, Recife.
 
-* SAMPAIO, M. S. . Um ensaio sobre acento. 2009. Fórum do Programa de
-  Pós-Graduação em Música da UFBA.
+* SAMPAIO, Marcos S. . Um ensaio sobre acento. 2009. Fórum do Programa
+  de Pós-Graduação em Música da UFBA.
 
-* SAMPAIO, M. S. . Em torno da romã Op.6, uma composição baseada em
-  contornos musicais. 2009. Fórum do Programa de Pós-Graduação em
+* SAMPAIO, Marcos S. . Em torno da romã Op.6, uma composição baseada
+  em contornos musicais. 2009. Fórum do Programa de Pós-Graduação em
   Música da UFBA.
 
-* BERTISSOLO, G. . Noite: aspectos do compor múltiplo. Fórum do
-  Programa de Pós-Graduação em Música da UFBA.
+* BERTISSOLO, Guilherme. . Noite: aspectos do compor múltiplo. Fórum
+  do Programa de Pós-Graduação em Música da UFBA.
 
-* SAMPAIO, M. S. Um algoritmo para gerar material
+* SAMPAIO, Marcos S. Um algoritmo para gerar material
   compositivo. 2009. Fórum do Programa de Pós-Graduação em Música da
   UFBA.
 
-* BERTISSOLO, G. . Sobre uma po(i)ética em movimento. 2009. Fórum do
-  Programa de Pós-Graduação em Música da UFBA.
+* BERTISSOLO, Guilherme. . Sobre uma po(i)ética em
+  movimento. 2009. Fórum do Programa de Pós-Graduação em Música da
+  UFBA.
 
-* SAMPAIO, M. S. ; BESTISSOLO, G. ; OLIVEIRA, Givaldo de
+* SAMPAIO, Marcos S. ; BESTISSOLO, Guilherme ; OLIVEIRA, Givaldo de
   Cidra. . Genos: ferramentas, pesquisa e extensão. 2009. Fórum do
   Programa de Pós-Graduação em Música da UFBA.
 
 ### Teses e dissertações defendidas
 
-* BERTISSOLO, G. Po(i)ética em movimento: a análise Laban de movimento
-  como propulsora de realidades composicionais. 2009. Dissertação de
-  mestrado.
+* BERTISSOLO, Guilherme. Po(i)ética em movimento: a análise Laban de
+  movimento como propulsora de realidades
+  composicionais. 2009. Dissertação de mestrado.
 
 ### Outros
 
-* KROGER JUNIOR, P. R. . Pós-doutorado no [Center for Computer
+* KROGER JUNIOR, Pedro R. . Pós-doutorado no [Center for Computer
  Research in Music and Acoustics](https://ccrma.stanford.edu/) (CCRMA)
  da Stanford University. San Francisco, Estados Unidos.
 
@@ -92,76 +92,77 @@ Genos e por seus membros durante o ano de 2009.
 
 ### Composições
 
-* Espiral, op. 7 (Marcos di Silva). Obra para flauta, clarinete,
+* SILVA, Marcos di. Espiral, op. 7. Obra para flauta, clarinete,
   trompete, violino, violoncelo e piano. Duração de 6 minutos.
 
-* Catexia, op. 25 (Guilherme Bertissolo). Obra para flauta, clarinete,
+* BERTISSOLO, Guilherme. Catexia, op. 25. Obra para flauta, clarinete,
   trompete, violino e violoncelo.
 
-* Hélices (Jean Menezes da Rocha). Obra para flauta, clarinete,
-  violino e violoncelo.
+* ROCHA, Jean M. Hélices. Obra para flauta, clarinete, violino e
+  violoncelo.
 
-* Do éter ao carbono (Natanael Ourives). Obra para clarinete, 2
+* OURIVES, Natanael. Do éter ao carbono. Obra para clarinete, 2
   violoncelos, piano e 2 percussionistas.
 
 ### Performance
 
-* Espiral, op. 7, 2009 (Marcos di Silva). Obra apresentada pelo Grupo de
+* SILVA, Marcos di. Espiral, op. 7, 2009. Obra apresentada pelo Grupo
+  de Intérpretes Musicais da Bahia (GIMBA) durante o Encontro de
+  Compositores dos XXI Seminários Internacionais de Música da
+  UFBA. Apresentação na Reitoria da UFBA em 3/12/2009.
+
+* BERTISSOLO, Guilherme. Catexia, op. 25, 2009. Obra apresentada pelo
+  Grupo de Intérpretes Musicais da Bahia (GIMBA) durante o Encontro de
+  Compositores dos XXI Seminários Internacionais de Música da
+  UFBA. Apresentação na Reitoria da UFBA em 3/12/2009.
+
+* ROCHA, Jean M. Hélices, 2009. Obra apresentada pelo Grupo de
   Intérpretes Musicais da Bahia (GIMBA) durante o Encontro de
-  Compositores dos XXI Seminários Internacionais de Música da
-  UFBA. Apresentação na Reitoria da UFBA em 3/12/2009.
-
-* Catexia, op. 25, 2009 (Guilherme Bertissolo). Obra apresentada pelo Grupo
-  de Intérpretes Musicais da Bahia (GIMBA) durante o Encontro de
-  Compositores dos XXI Seminários Internacionais de Música da
-  UFBA. Apresentação na Reitoria da UFBA em 3/12/2009.
-
-* Hélices, 2009 (Jean Menezes da Rocha). Obra apresentada pelo Grupo
-  de Intérpretes Musicais da Bahia (GIMBA) durante o Encontro de
   Compositores dos XXI Seminários Internacionais de Música da
   UFBA. Apresentação na Reitoria da UFBA em 3/12/2009
 
-* Devir, op. 18 para violão em computador rodando PureData, 2007
-  (Guilherme Bertissolo). Obra apresentada durante o Encontro de
+* BERTISSOLO, Guilherme. Devir, op. 18 para violão em computador
+  rodando PureData, 2007 . Obra apresentada durante o Encontro de
   Compositores dos XXI Seminários Internacionais de Música da UFBA e
   8ª Projeção Sonora do Genos, na Sala do Coro do Teatro Castro Alves,
   em 2/12/2009.
 
-* Exceto, 2008 (Guilherme Bertissolo). Obra apresentada durante a
+* BERTISSOLO, Guilherme. Exceto, 2008 . Obra apresentada durante a
   XVIII Bienal de Música Brasileira Comtemporânea. Apresentação na
   Sala Cecília Meireles em 27/10/2009.
 
-* Do éter ao carbono, 2009 (Natanael Ourives). Obra apresentada
+* OURIVES, Natanael S.. Do éter ao carbono, 2009. Obra apresentada
   durante a XVIII Bienal de Música Brasileira
   Comtemporânea. Apresentação na Sala Cecília Meireles em 27/10/2009.
 
-* Coação, 2004 (Guilherme Bertissolo). Obra apresentada na 6ª Projeção
-  Sonora do Genos, no GenosLab, em 24/9/2009.
+* BERTISSOLO, Guilherme. Coação, 2004 . Obra apresentada na 6ª
+  Projeção Sonora do Genos, no GenosLab, em 24/9/2009.
 
-* A Fuga de Mário Quintana, 2009 (Guilherme Bertissolo). Obra
+* BERTISSOLO, Guilherme. A Fuga de Mário Quintana, 2009. Obra
   apresentada na 5ª Projeção Sonora do Genos, no GenosLab, em
   27/8/2009.
 
-* A Caixinha de Música e o Efeito Borboleta (Guilherme
-  Bertissolo). Obra apresentada na 3ª Projeção Sonora do Genos, no
+* BERTISSOLO, Guilherme. A Caixinha de Música e o Efeito
+  Borboleta. Obra apresentada na 3ª Projeção Sonora do Genos, no
   GenosLab, em 28/5/2009.
 
 ## Cursos ministrados
 
-* BERTISSOLO, G. Curso de Composição Eletroacústica. 2009. Curso
-  realizado no GenosLab. Duração de 20 horas.
+* BERTISSOLO, Guilherme. Curso de Composição
+  Eletroacústica. 2009. Curso realizado no GenosLab. Duração de 20
+  horas.
 
-* OLIVEIRA, Givaldo de Cidra. ; SAMPAIO, M. S. . Curso Introdutório ao
-  Linux. 2009. Curso realizado no GenosLab. Duração de 10 horas.
+* OLIVEIRA, Givaldo de Cidra ; SAMPAIO, Marcos S. . Curso Introdutório
+  ao Linux. 2009. Curso realizado no GenosLab. Duração de 10 horas.
 
-* SAMPAIO, M. S. . Curso Introdutório ao Lilypond. 2009. Curso
+* SAMPAIO, Marcos S. . Curso Introdutório ao Lilypond. 2009. Curso
   realizado no GenosLab. Duração de 10 horas.
 
-* GARCIA, R.; SANTANA H. P. . Curso básico de trilha sonora para
-  cinema. 2009. Curso realizado no GenosLab. Este curso foi o
+* GARCIA, Rodrigo; SANTANA Hermilo P. . Curso básico de trilha sonora
+  para cinema. 2009. Curso realizado no GenosLab. Este curso foi o
   tirocínio docente dos ministrantes. Duração de 34 horas.
 
-* FIGUEIRO, C. S. ; SILVA, Marcos di . Música e a rede Software
+* FIGUEIRO, Cristiano S. ; SILVA, Marcos di. Música e a rede Software
   Livre. 2009. Curso realizado na Escola de Música da UFBA durante a
   6ª Bienal de Cultura da UNE.
 
