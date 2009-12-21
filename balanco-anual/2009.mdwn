@@ -197,5 +197,11 @@ Genos e por seus membros durante o ano de 2009.
   Livre. 2009. Curso realizado na Escola de Música da UFBA durante a
   6ª Bienal de Cultura da UNE.
 
-## Apoio a eventos
+## Projetos em Andamento
+
+* KROGER JUNIOR, Pedro Ribeiro. Villa-lobos, programa para musicologia computacional.
+
+* KROGER JUNIOR, Pedro Ribeiro. Aristoxenus, biblioteca para lidar com dados musicais.
+
+* KROGER JUNIOR, Pedro Ribeiro. Alien: distribuição de bibliotecas para Common Lisp.
 
