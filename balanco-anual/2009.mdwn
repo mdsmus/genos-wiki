@@ -45,6 +45,11 @@ Genos e por seus membros durante o ano de 2009.
 
 ### Apresentação de trabalhos
 
+* KROGER JUNIOR, Pedro R. Rameau, a system for symbolic harmonic analysis. 2009. CCRMA Open house, Stanford University, Estados Unidos. https://ccrma.stanford.edu/info/openhouse09/
+
+* KROGER JUNIOR, Pedro R. Rameau and Villa-Lobos: Frameworks for harmonic analysis and
+  computational musicology. 2009. CCARH, Stanford University, Estados Unidos.
+
 * SAMPAIO, Marcos S. ; KROGER JUNIOR, Pedro R. . Goiaba: a software to
   process musical contours. 2009. 12º. Simpósio Brasileiro de
   Computação Musical, 2009, Recife.
