@@ -5,7 +5,7 @@ Genos e por seus membros durante o ano de 2009.
 
 ## Prêmios
 
-* OURIVES, Natanael. Primeiro prêmio do concurso "Professor Fernando
+* OURIVES, Natan. Primeiro prêmio do concurso "Professor Fernando
   Burgos Lima", na categoria música de câmara, com a obra "Do Éter ao
   Hidrogênio".
 
@@ -77,9 +77,14 @@ Genos e por seus membros durante o ano de 2009.
   Cidra. . Genos: ferramentas, pesquisa e extensão. 22/5/2009. Fórum
   do Programa de Pós-Graduação em Música da UFBA.
 
-* BERTISSOLO, Guilherme. . Sobre uma po(i)ética em
+* BERTISSOLO, Guilherme. Sobre uma po(i)ética em
   movimento. 24/4/2009. Fórum do Programa de Pós-Graduação em Música
   da UFBA.
+
+* OURIVES, Natan. Seleção de exemplos musicais para comparação e 
+  benchmarking de sistemas de análise automática de harmonia. 12/11/2009
+  XXVIII Seminário Estudantil de Pesquisa, X Seminário de Pesquisa e Pós-Graduação 
+  da UFBA. 
 
 ### Teses e dissertações defendidas
 
@@ -106,8 +111,17 @@ Genos e por seus membros durante o ano de 2009.
 * ROCHA, Jean M. Hélices. Obra para flauta, clarinete, violino e
   violoncelo.
 
-* OURIVES, Natanael. Do éter ao carbono. Obra para clarinete, 2
+* OURIVES, Natan. Do Éter ao Carbono. Obra para clarinete, 2
   violoncelos, piano e 2 percussionistas.
+
+* OURIVES, Natan. Do Éter ao Hidrogênio. Obra para flauta, clarinete,
+  trompete, violino e violoncelo.
+
+* OURIVES, Natan. Pálida à Luz. Obra para grande orquestra, soprano solo 
+  e barítono solo.
+
+* OURIVES, Natan. Número. Obra para flauta, clarinete, trompa, violino,
+  violoncelo, 1 percussionista e soprano solo.  
 
 ### Performance
 
@@ -136,7 +150,7 @@ Genos e por seus membros durante o ano de 2009.
   XVIII Bienal de Música Brasileira Comtemporânea. Apresentação na
   Sala Cecília Meireles em 27/10/2009.
 
-* OURIVES, Natanael S.. Do éter ao carbono, 2009. Obra apresentada
+* OURIVES, Natan. Do éter ao carbono, 2009. Obra apresentada
   durante a XVIII Bienal de Música Brasileira
   Comtemporânea. Apresentação na Sala Cecília Meireles em 27/10/2009.
 
@@ -153,6 +167,10 @@ Genos e por seus membros durante o ano de 2009.
 
 * FIGUEIRO, Cristiano S. Pequis rolantes. Obra apresentada na 1ª
   Projeção Sonora do Genos, no GenosLab, em 26/3/2009.
+
+* OURIVES, Natan. Obra apresentada na final do concurso de composição
+  Prof. Fernando Burgos Lima pelo Grupo de Intérprete Musicais da Bahia
+  (GIMBA), no Teatro Castro Alves, em 26/10/2009. 
 
 ## Cursos ministrados
 
