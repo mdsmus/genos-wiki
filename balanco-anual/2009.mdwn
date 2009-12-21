@@ -82,7 +82,7 @@ Genos e por seus membros durante o ano de 2009.
   da UFBA.
 
 * OURIVES, Natan. Seleção de exemplos musicais para comparação e 
-  benchmarking de sistemas de análise automática de harmonia. 12/11/2009
+  benchmarking de sistemas de análise automática de harmonia. 12/11/2009.
   XXVIII Seminário Estudantil de Pesquisa, X Seminário de Pesquisa e Pós-Graduação 
   da UFBA. 
 
