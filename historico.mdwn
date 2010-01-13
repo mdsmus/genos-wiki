@@ -2,16 +2,19 @@
 
 ## Cursos de Extensão
 
- * Lilypond (2007.2 e 2008.1) - [Marcos di Silva](http://wiki.genos.mus.br/pessoas/MarcosDiSilva/)
+ * Lilypond (2007.2, 2008.1 e 2009.1) - [Marcos di Silva](http://wiki.genos.mus.br/pessoas/MarcosDiSilva/)
  * Pure Data (2007.2 e 2008.1) - [Cristiano Figueiró](http://wiki.genos.mus.br/pessoas/CristianoFigueir%C3%B3/)
  * Ardour (2007.2 e 2008.1) - [Guilherme Bertissolo](http://wiki.genos.mus.br/pessoas/GuilhermeBertissolo/)
  * Ferramentas livres para música (2007.2) - [Guilherme Bertissolo](http://wiki.genos.mus.br/pessoas/GuilhermeBertissolo/)
  * CSound (2007.2) - [Pedro Kröger](http://wiki.genos.mus.br/pessoas/PedroKroger/)
  * Linux (2007.2) - [Marcos di Silva](http://wiki.genos.mus.br/pessoas/MarcosDiSilva/) e [Givaldo de Cidra](http://wiki.genos.mus.br/pessoas/GivaldoDeCidra/)
+ * Linux (2009.1) - [Givaldo de Cidra](http://wiki.genos.mus.br/pessoas/GivaldoDeCidra/)
  * LaTeX (2008.1) - [Pedro Kröger](http://wiki.genos.mus.br/pessoas/PedroKroger/)
  * Ferramentas computacionais avançadas (2008.1) - [Pedro Kröger](http://wiki.genos.mus.br/pessoas/PedroKroger/) e [Alexandre Passos](http://wiki.genos.mus.br/pessoas/AlexandrePassos/)
+ * Composição Eletroacústica (2009.1) - [Guilherme Bertissolo](http://wiki.genos.mus.br/pessoas/GuilhermeBertissolo/)
  * Síntese sonora (2008.1)
  * Áudio básico (2008.1) - [Cristiano Figueiró](http://wiki.genos.mus.br/pessoas/CristianoFigueir%C3%B3/) e [Guilherme Bertissolo](http://wiki.genos.mus.br/pessoas/GuilhermeBertissolo/)
+ * Introdução à música para cinema (2009.1) - Rodrigo Garcia e Hermilo Santana (parceria com [PPGMUS](http://www2.ppgmus.ufba.br/)
 
 ## Pesquisa
 
@@ -54,4 +57,3 @@
 ### Workshops
 
  * Ferramentas Git Emacs Latex - 17 e 24/ago - 14 às 16
-
