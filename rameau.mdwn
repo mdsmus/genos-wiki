@@ -1,0 +1,59 @@
+Rameau
+======
+
+Rameau is a computer program for automatic harmonic analysis. It has
+been developed by the Genos Research Group and it is released under
+the GPL3 License. It's available at http://genos.mus.br/rameau/
+
+Features
+--------
+
+* Rameau has implemented nine algorithms for harmonic analysis
+* Rameau has an easy format for creating answer sheets
+* Rameau provides an easy way to compare different algorithms
+* Rameau performs chord labeling and roman numeral functional
+analysis.
+
+Download
+--------
+
+Right now Rameau is only available from the
+http://git.genos.mus.br/?r=rameau[git repository]. A binary
+distribution is planned real soon. To download the source code,
+install git and issue the following command:
+
+    git clone git://genos.mus.br/rameau.git
+
+Then read the README file for further instructions.
+
+Interfaces
+----------
+
+Rameau has two interfaces: 
+
+
+* [command line](rameau/command-line)
+* [GUI](rameau/gui)
+
+Screenshots
+-----------
+
+To see screenshots click link:screenshots.html[here]
+
+Rameau generates nice analyzed scores, thanks to
+[lilypond](http://lilypond.org).
+
+Answer sheets
+-------------
+
+It's possible to input an answer sheet to compare algorithms output.
+
+The answer sheets syntax are described in
+
+* [Chord labeling answer sheets](rameau/gab-man)
+* [Roman numerals answer sheets](fun/man)
+
+About
+-----
+
+Rameau is developed in common lisp, using emacs, slime, and SBCL.

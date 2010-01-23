@@ -1,0 +1,102 @@
+Rameau
+======
+
+Chord labeling answer sheet syntax
+----------------------------------
+
+The basic syntax is <chord><chord type><extension><inversion>, like
+
+----
+G
+C/E
+C7/E
+Cm7/Eb
+C!7
+B°
+C#ø7
+----
+
+The syntax is case insensitive.
+
+Chord types
+~~~~~~~~~~~
+
+The chord types are:
+
+    major                               (nothing)
+    minor                               m
+    diminished                          °
+    half-diminished                     ø7
+    augmented                           +
+    incomplete (e.g. without 3rd)       !
+
+By definition half-diminished chord must be 7 represented.
+
+Melodic notes
+~~~~~~~~~~~~~
+
+The form [<notes>] expand in (m! <notes>), for instance:
+
+----
+[f#] => (m! fis)
+----
+
+Seventh chords and extensions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+C7+ is major seventh chord, and C7 is major-minor dominant chord.
+
+Diminished seventh is 7-, however the 7 in C°7 is automatically
+expanded to 7-.
+
+Outras extensões podem ser entradas separadas por ponto. A sétima deve
+extritamente ser a primeira extensão.
+
+----
+Cm7.9b.13/Eb
+----
+
+Ambiguities
+~~~~~~~~~~~
+
+It's possible to input more than one answer in each minimal
+segment. The answers must be in parenthesis:
+
+----
+([f#] Bm)
+----
+
+Augmented sixths
+~~~~~~~~~~~~~~~~
+
+Augmented sixths must have -it, -al or -fr suffix after chord
+"fundamental":
+
+----
+eb-it
+----
+
+Repetition
+~~~~~~~~~~
+
+The form <chord>*2 expands to (* <chord>), for instance:
+
+----
+C7*2 => (* 2 (C MAJ 0 7))
+----
+
+Example
+-------
+
+Choral 006 chord labeling answer sheet
+----
+f
+f c/e f7/eb bb/d
+c [d f] c/e c f bb
+f/a gm7 e°/g f f/a [f] c
+f f/a
+bø7 g7/b c c c7 [e] dm/f am am7/g
+dm7/f dm7 g c f
+gm7 e°/g f/a gø7/bb c c7
+f
+----
