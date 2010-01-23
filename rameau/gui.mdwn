@@ -1,0 +1,50 @@
+Rameau
+======
+
+GUI - Web interface
+-------------------
+
+Rameau web interface is loaded running this command line:
+
+----
+rameau web
+----
+
+and opening
+
+http://localhost:4242/rameau/index.html
+
+in a web browser.
+
+Screenshot
+~~~~~~~~~~
+
+The Rameau web first screen is:
+
+image:figs/rameau-web-1.png[]
+
+Data
+~~~~
+
+There are two ways to enter data:
+
+* Entering 4 voice style music in Lilypond code (choosing also time
+  and key signature)
+
+* Choosing one of 371 Bach chorales
+
+It's possible to choose 4 algorithms to do the analysis
+
+image:figs/rameau-web-3.png[]
+
+The output is cached and is available in [Browse Results](http://localhost:4242/rameau/results.htm)
+
+image:figs/rameau-web-5.png[]
+
+Output
+~~~~~~
+
+image:figs/rameau-web-4.png[]
+
+image:figs/rameau-web-6.png[]
+

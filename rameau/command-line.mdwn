@@ -1,0 +1,201 @@
+Rameau
+======
+
+Usage
+-----
+
+----
+rameau <command> <option>
+----
+
+Command line manual
+-------------------
+
+COMMON FLAGS
+~~~~~~~~~~~~
+
+    -h  --help                      show this help
+    -f  --files                     select files
+    -p  --profile                   profile
+    -a  --algorithms                Use <algorithms> to do the analysis
+    -d  --debug                     ativa código de depuração para os itens i
+    -v  --verbose                   verbose
+    -A  --about                     print rameau info
+    -y  --crazy-debug               dump megabytes of debug info from the lexer and parser.
+    -t  --trace                     show <functions> trace
+    -o  --options                   send options to the algorithms
+        --paper-width               paper width
+        --paper-height              paper height
+    -m  --max-print-error           When the number of non-parsed files is higher than this constant, rameau shows only list start
+
+SETUP
+~~~~~
+
+    Train using the default options.
+
+TEST
+~~~~
+
+    Run unit and regression tests.
+    -u  --unit                      run the unit tests
+    -r  --regression                
+
+PRINT SEGMENTS
+~~~~~~~~~~~~~~
+
+    Create a lilypond snippet of the given file between the given sonorities. It will be saved
+as analysis/segments-<file>-<start>-<end>.ly
+    -i  --start                     initial segment
+    -z  --end                       final segment
+
+OCTAVES
+~~~~~~~
+
+    Detect consecutive octaves and unisons in the given files.
+
+FIFTHS
+~~~~~~
+
+    Detect consecutive fifths in the given files.
+
+CROSSINGS
+~~~~~~~~~
+
+    Find all voice crossings in the specified files. Only for Bach chorales. Each crossing will be saved
+as a lilypond snippet in analysis/cruzamento-<chorale>-<first-sonority>-<last-sonority>.ly
+
+KOSTKA AMB
+~~~~~~~~~~
+
+    Show where the note ranges for the voices in a chorale are different from KP rules. Only for Bach chorales.
+
+RANGE
+~~~~~
+
+    List the ranges of the voices in the analysed files. Only for Bach chorales.
+
+JUMPS
+~~~~~
+
+    List all the steps and leaps in the analysed files. Only for Bach chorales.
+
+RESOLVE SEVENTH
+~~~~~~~~~~~~~~~
+
+    Show a summary of all the seventh-note resolutions found in the files. Only for Bach chorales.
+
+SCHOENBERG
+~~~~~~~~~~
+
+    Collect stats on how many chord progressions found in the chorales are strong,
+weak, superstrong and neutral, according to Schoenberg's theory of harmony.
+
+FUNALG
+~~~~~~
+
+    Give the specified roman numeral functional analysis algorithms the options passed with -o. Used for training.
+
+ALGORITHMS
+~~~~~~~~~~
+
+    Give the specified chord-labeling algorithms the options passed with -o. Used for training.
+
+REPORT
+~~~~~~
+
+    Collect precision, recall, f-measure and confusion matrixes for the chord labeling algorithms specified.
+
+COLLECT DATA
+~~~~~~~~~~~~
+
+    Collect accuracy data on the chord labeling algorithms specified.
+
+DOCUMENT
+~~~~~~~~
+
+    Generate the documentation for
+                  rameau and save it in the rameau-documentation
+                  folder.
+
+WEB
+~~~
+
+    Start rameau's web interface
+    -r  --port                      define the port number for rameau web
+
+CADENCES
+~~~~~~~~
+
+    Detect the chord progressions and cadences in the specified files using the first specified
+roman numeral functional analysis algorithm. The chord progressions will be in
+analysis/cadences-cadences.png and the cadences will be in analysis/cadences-last-cadences.png
+    -z  --cadence-number            number of chords to consider
+
+VIEW
+~~~~
+
+    Pretty visualization of the notes and chords produced by the chord labeling algorithms. The
+result will be in analysis/analysis-<file>-<algorithm>.png
+
+FUNCTIONAL
+~~~~~~~~~~
+
+    Perform roman numeral functional analysis with the specified functional algorithms on the specified files.
+        --dont-compare              don't compare the results with the answer sheet
+        --sonorities                print total number of sonorities
+    -u  --show-dur                  
+    -n  --show-notes                
+    -i  --ignore                    ignore (don't print) non-answer sheet chorales
+    -c  --no-color                  don't use color in the answer
+    -s  --score                     generate annotated scores as answer
+    -z  --column-chord-size         
+        --column-number-size        
+        --column-notes-size         
+        --column-dur-size           
+        --column-separator          
+        --wrong-answer-color        
+        --lily                      run lilypond
+        --gv                        run gv
+        --png                       generate png
+    -S  --view-score                generate score, run lily e gv
+
+ANALYSIS
+~~~~~~~~
+
+    Perform chord labeling with the specified algorithms on the specified files.
+        --dont-compare              don't compare the results with the answer sheet
+        --sonorities                print total number of sonorities
+    -u  --show-dur                  
+    -n  --show-notes                
+    -i  --ignore                    ignore (don't print) non-answer sheet chorales
+    -c  --no-color                  don't use color in the answer
+    -s  --score                     generate annotated scores as answer
+    -z  --column-chord-size         
+        --column-number-size        
+        --column-notes-size         
+        --column-dur-size           
+        --column-separator          
+        --wrong-answer-color        
+        --lily                      run lilypond
+        --gv                        run gv
+        --png                       generate png
+    -S  --view-score                generate score, run lily e gv
+
+Examples
+--------
+
+To do chord name analysis in choral #001 run:
+
+----
+rameau analysis -f choral:001
+----
+
+To do roman numbers functional analysis in choral #006 run:
+
+----
+rameau functional -f choral:006
+----
+
+The commands can be shortened. Analysis = anal, functional = func
+
+To run web interface see [GUI](gui) manual.
